@@ -1,0 +1,29 @@
+,exemplar ENGLISH,accordion,banjo,bass guitar,cello,cymbals,double bass,bagpipe,drum set,flute,bassoon,flute,guitar,harp,clarinet,harpsichord,harmonica,organ,pan flute,piano,saxophone,synthesizer,tambourine,triangle,trombone,drum,trumpet,violin
+exemplar DUTCH,,accordeon,banjo,basgitaar,cello,cimbalen,contrabas,doedelzak,drumstel,dwarsfluit,fagot,fluit,gitaar,harp,klarinet,klavecimbel,mondharmonica,orgel,panfluit,piano,saxofoon,synthesizer,tamboerijn,triangel,trombone,trommel,trompet,viool
+accordion,accordeon,0,7,4,4,4,7,12,8,11,4,9,7,11,9,7,3,12,8,13,12,12,4,6,7,4,11,4
+banjo,banjo,0,0,14,15,8,11,12,9,6,14,7,19,11,5,4,4,6,6,7,6,7,2,3,4,4,6,15
+bass guitar,basgitaar,0,0,0,15,8,16,7,8,7,4,3,19,13,5,6,6,6,5,6,8,4,4,4,4,8,9,14
+cello,cello,0,0,0,0,6,19,5,9,6,4,4,4,9,7,9,5,4,3,5,6,8,4,6,4,6,8,14
+cymbals,cimbalen,0,0,0,0,0,9,4,19,4,4,4,5,7,5,4,9,4,3,2,3,4,14,16,4,15,2,4
+double bass,contrabas,0,0,0,0,0,0,5,4,3,9,5,13,6,6,8,7,5,4,9,4,6,5,5,6,8,4,15
+bagpipe,doedelzak,0,0,0,0,0,0,0,6,11,14,14,10,8,16,9,3,10,13,16,14,3,10,3,13,4,16,6
+drum set,drumstel,0,0,0,0,0,0,0,0,6,4,5,9,4,3,10,2,3,3,5,4,4,16,11,7,18,4,6
+flute,dwarsfluit,0,0,0,0,0,0,0,0,0,14,18,4,4,19,9,13,4,18,5,19,6,3,5,17,8,16,9
+bassoon,fagot,0,0,0,0,0,0,0,0,0,0,17,4,5,15,6,9,4,11,4,16,5,7,4,13,7,16,6
+flute,fluit,0,0,0,0,0,0,0,0,0,0,0,7,6,17,4,16,6,19,7,19,5,7,6,16,6,18,6
+guitar,gitaar,0,0,0,0,0,0,0,0,0,0,0,0,7,8,5,3,5,4,9,6,11,9,3,7,4,3,16
+harp,harp,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,4,7,4,3,8,3,5,12,8,2,4,15
+clarinet,klarinet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,9,8,16,6,19,4,4,4,17,8,19,9
+harpsichord,klavecimbel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,16,4,19,6,19,6,8,7,10,8,9
+harmonica,mondharmonica,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,18,3,9,2,9,5,13,7,14,6
+organ,orgel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,16,8,14,4,4,9,4,7,7
+pan flute,panfluit,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,15,3,3,5,13,5,16,5
+piano,piano,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,19,4,4,8,4,4,8
+saxophone,saxofoon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,3,16,7,18,6
+synthesizer,synthesizer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,5,8,6,7
+tambourine,tamboerijn,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,2,14,7,3
+triangle,triangel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,14,3,3
+trombone,trombone,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,18,4
+drum,trommel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5
+trumpet,trompet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+violin,viool,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

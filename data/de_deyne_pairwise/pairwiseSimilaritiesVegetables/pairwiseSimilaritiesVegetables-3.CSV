@@ -1,0 +1,32 @@
+,exemplar ENGLISH,aardappel,ajuin,asperges,aubergine,augurken,biet,bloemkool,bonen,champignons,courgette,erwten,kervel,komkommer,look,maïs,paprika,peterselie,prei,radijs,rode kool,schorseneren,selder,sla,spinazie,spruiten,tomaat,waterkers,witloof,witte kool,wortel
+exemplar DUTCH,,potato,onions,asparagus,eggplant,gherkins,beet,cauliflower,beans,mushrooms,zucchini,peas,chervil,cucumber,garlic,corn,pepper,parsley,leek,radish,red cabbage,black salsify,celery,lettuce,spinach,Brussels sprouts,tomato,water cress,endive,white cabbage,carrot
+aardappel,potato,0,11,7,11,5,14,5,6,6,6,6,6,6,6,5,5,5,6,8,6,9,6,5,5,6,7,6,11,6,9
+ajuin,onions,0,0,5,6,11,13,6,7,6,7,5,7,5,18,6,11,5,6,8,5,6,8,5,5,7,7,6,13,4,8
+asperges,asparagus,0,0,0,8,7,11,5,7,8,8,7,7,7,6,7,5,6,12,8,6,14,7,5,5,11,6,6,14,5,16
+aubergine,eggplant,0,0,0,0,13,6,6,6,7,17,4,11,15,3,5,8,6,7,6,6,12,6,5,6,7,8,5,7,6,7
+augurken,gherkins,0,0,0,0,0,9,5,8,5,16,6,6,17,7,6,11,6,5,11,7,9,8,5,7,6,7,5,5,5,11
+biet,beet,0,0,0,0,0,0,6,5,5,8,6,7,14,6,14,6,6,6,16,7,7,11,5,6,6,7,7,11,6,14
+bloemkool,cauliflower,0,0,0,0,0,0,0,6,5,6,5,7,5,5,5,6,5,7,5,12,8,6,6,6,9,5,5,6,11,5
+bonen,beans,0,0,0,0,0,0,0,0,7,6,12,5,6,6,13,6,6,5,5,4,8,6,5,6,7,7,6,6,6,6
+champignons,mushrooms,0,0,0,0,0,0,0,0,0,7,6,5,5,7,7,8,6,6,6,5,6,6,5,5,6,5,5,5,5,5
+courgette,zucchini,0,0,0,0,0,0,0,0,0,0,5,11,15,7,6,8,6,8,8,6,8,9,5,6,6,8,5,8,6,11
+erwten,peas,0,0,0,0,0,0,0,0,0,0,0,8,5,5,16,6,6,7,6,5,6,7,6,8,8,6,7,7,5,6
+kervel,chervil,0,0,0,0,0,0,0,0,0,0,0,0,6,6,4,6,12,8,8,7,5,12,12,13,12,5,11,11,7,7
+komkommer,cucumber,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6,7,7,6,8,6,7,7,7,6,5,7,7,6,5,6
+look,garlic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,12,8,6,7,5,4,7,6,5,5,7,6,5,7,6
+maïs,corn,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,5,7,8,6,5,5,5,4,11,5,5,5,5,6
+paprika,pepper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,6,5,8,11,7,6,6,13,6,7,5,8
+peterselie,parsley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,9,5,5,14,12,14,7,5,16,7,5,6
+prei,leek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,6,16,15,6,5,7,6,7,15,6,9
+radijs,radish,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,13,6,6,5,8,13,8,5,8
+rode kool,red cabbage,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,5,5,9,5,5,7,14,6
+schorseneren,black salsify,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,5,5,7,6,7,11,8,15
+selder,celery,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,8,8,7,7,12,5,8
+sla,lettuce,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,9,6,16,8,8,6
+spinazie,spinach,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,5,14,5,5,7
+spruiten,Brussels sprouts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,6,14,7
+tomaat,tomato,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,7,5,7
+waterkers,water cress,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,5,6
+witloof,endive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,7
+witte kool,white cabbage,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+wortel,carrot,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

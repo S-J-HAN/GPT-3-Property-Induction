@@ -1,0 +1,32 @@
+,exemplar ENGLISH,aalbes,aardbei,abrikoos,ananas,appel,banaan,bosbes,braambessen,citroen,clementine,dadels,druif,framboos,kers,kiwi,kokosnoot,limoen,lychee,mango,meloen,nectarine,papaya,passievrucht,peer,perzik,pompelmoes,pompoen,pruim,sinaasappel,vijg
+exemplar DUTCH,,red currant,strawberry,apricot,pineapple,apple,banana,blueberry,blackberry,lemon,mandarine,dates,grape,raspberry,cherry,kiwi,coconut,lime,lychee,mango,melon,nectarine,papaya,passion fruit,pear,peach,grapefruit,pumpkin,plum,orange,fig
+aalbes,red currant,0,5,4,3,1,4,17,1,5,4,2,4,1,19,2,2,2,1,3,1,4,5,5,2,2,2,3,3,2,5
+aardbei,strawberry,0,0,2,2,2,2,7,3,1,2,1,3,3,6,7,1,1,3,2,2,5,2,4,2,2,2,1,1,2,2
+abrikoos,apricot,0,0,0,5,1,2,1,5,2,7,3,5,3,1,3,1,2,4,1,1,4,1,1,2,5,5,4,2,2,3
+ananas,pineapple,0,0,0,0,3,1,4,4,5,3,1,4,2,5,2,5,1,3,5,2,5,4,2,1,1,1,2,3,5,2
+appel,apple,0,0,0,0,0,2,3,2,5,3,4,2,1,5,4,2,1,5,12,1,3,2,1,6,4,1,5,2,2,5
+banaan,banana,0,0,0,0,0,0,3,1,1,4,1,6,3,1,1,2,1,1,3,5,4,2,1,1,1,1,6,2,3,3
+bosbes,blueberry,0,0,0,0,0,0,0,18,2,5,1,5,4,2,6,1,2,2,1,5,1,2,2,5,1,5,4,3,12,5
+braambessen,blackberry,0,0,0,0,0,0,0,0,1,2,4,3,14,18,1,2,5,1,2,1,1,1,1,1,5,3,1,2,1,2
+citroen,lemon,0,0,0,0,0,0,0,0,0,7,14,3,2,3,1,5,4,1,2,6,6,4,4,6,2,3,3,1,2,1
+clementine,mandarine,0,0,0,0,0,0,0,0,0,0,5,4,8,2,5,5,2,2,3,2,1,13,2,2,1,3,5,3,3,2
+dadels,dates,0,0,0,0,0,0,0,0,0,0,0,1,5,2,2,3,1,12,2,2,5,7,4,4,1,3,4,5,1,1
+druif,grape,0,0,0,0,0,0,0,0,0,0,0,0,2,2,5,5,2,4,3,4,1,2,1,5,1,4,2,6,2,1
+framboos,raspberry,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,1,2,2,5,2,2,3,1,2,1,1,4,1,13,2
+kers,cherry,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,4,2,3,5,4,1,3,2,6,2,2,3,1
+kiwi,kiwi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,5,1,2,2,2,4,5,3,2,5,2,5
+kokosnoot,coconut,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,8,5,6,6,2,1,1,1,3,1,5,1
+limoen,lime,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,2,3,2,1,2,5,5,3,4,4,1
+lychee,lychee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,2,1,6,5,2,4,3,2,1,2
+mango,mango,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,5,3,6,5,4,6,3,1
+meloen,melon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,3,3,2,2,1,2,1,3
+nectarine,nectarine,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,5,1,3,1,2
+papaya,papaya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,5,2,6,2,1
+passievrucht,passion fruit,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,4,2,4,2
+peer,pear,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6,6,2,6,2
+perzik,peach,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,7,5,2
+pompelmoes,grapefruit,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,4,4
+pompoen,pumpkin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2
+pruim,plum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1
+sinaasappel,orange,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+vijg,fig,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

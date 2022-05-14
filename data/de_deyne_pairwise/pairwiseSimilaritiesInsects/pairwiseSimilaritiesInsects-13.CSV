@@ -1,0 +1,28 @@
+,exemplar ENGLISH,bee,leech,horsefly,centipede,fruit fly,bumblebee,cockroach,beetle,cricket,dragonfly,ladybug,louse,cockchafer,ant,moth,mosquito,earwig,wood louse,caterpillar,spider,grasshopper,fly,butterfly,flee,wasp,worm
+exemplar DUTCH,,bij,bloedzuiger,daas,duizendpoot,fruitvlieg,hommel,kakkerlak,kever,krekel,libel,lieveheerbeestje,luis,meikever,mier,mot,mug,oorworm,pissebed,rups,spin,sprinkhaan,vlieg,vlinder,vlo,wesp,worm
+bij,bee,0,1,10,4,1,17,4,4,5,13,6,1,2,2,9,17,2,3,2,5,2,16,8,2,18,1
+bloedzuiger,leech,0,0,1,1,6,2,6,6,6,5,3,16,3,8,2,9,7,16,2,4,2,3,2,15,2,16
+daas,horsefly,0,0,0,5,1,15,9,3,3,13,6,1,3,3,16,17,1,3,3,3,3,18,10,3,11,1
+duizendpoot,centipede,0,0,0,0,1,1,5,2,2,2,3,1,5,4,3,2,18,6,18,5,5,1,3,1,1,15
+fruitvlieg,fruit fly,0,0,0,0,0,10,2,1,1,3,2,16,2,1,1,11,1,1,3,3,1,10,1,18,2,1
+hommel,bumblebee,0,0,0,0,0,0,1,11,3,12,7,4,9,3,5,15,1,1,10,5,2,18,14,1,17,1
+kakkerlak,cockroach,0,0,0,0,0,0,0,17,5,8,6,2,17,9,2,5,3,5,3,4,5,8,2,2,2,1
+kever,beetle,0,0,0,0,0,0,0,0,4,2,9,1,19,5,2,3,8,5,6,5,3,6,2,2,2,2
+krekel,cricket,0,0,0,0,0,0,0,0,0,3,4,1,3,3,3,2,3,1,2,12,18,2,3,1,2,1
+libel,dragonfly,0,0,0,0,0,0,0,0,0,0,11,1,2,3,16,10,2,2,3,3,6,13,10,2,14,2
+lieveheerbeestje,ladybug,0,0,0,0,0,0,0,0,0,0,0,2,6,2,6,6,3,2,7,2,2,8,6,3,8,3
+luis,louse,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,8,1,2,1,2,1,2,3,20,2,2
+meikever,cockchafer,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,2,4,6,3,5,2,4,2,2,4,3
+mier,ant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,15,8,5,7,2,3,3,2,2,6
+mot,moth,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,2,2,2,3,3,16,17,1,8,1
+mug,mosquito,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,3,5,17,6,2,13,2
+oorworm,earwig,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,15,2,7,2,1,4,8
+pissebed,wood louse,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,1,2,2,1,2,8
+rups,caterpillar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,3,1,2,15
+spin,spider,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,5,5,1,3,2
+sprinkhaan,grasshopper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,15,8,2,2
+vlieg,fly,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,3,18,2
+vlinder,butterfly,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,12,2
+vlo,flee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1
+wesp,wasp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+worm,worm,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

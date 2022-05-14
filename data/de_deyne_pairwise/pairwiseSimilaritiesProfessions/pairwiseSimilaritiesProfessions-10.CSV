@@ -1,0 +1,32 @@
+,exemplar ENGLISH,acteur,advocaat,apotheker,archeoloog,architect,bakker,boekhouder,brandweerman,dierenarts,directeur,dokter,informaticus,kinesist,kok,leraar,loodgieter,marktkramer,minister,opvoedster,piloot,politieagent,postbode,psycholoog,rechter,secretaresse,slager,stewardess,tandarts,vuilnisman,winkelbediende
+exemplar DUTCH,,actor,lawyer,pharmacist,archaeologist,architect,baker,accountant,fireman,veterinarian,manager,doctor,information scientist,physiotherapist,cook,teacher,plumber,stallholder,minister,educator,pilot,police officer,postman,psychologist,judge,secretary,butcher,stewardess,dentist,garbage collector,shop-assistant
+acteur,actor,0,14,14,14,15,15,14,15,14,14,15,14,15,14,14,14,14,14,14,14,15,15,14,16,15,15,14,12,15,14
+advocaat,lawyer,0,0,15,16,15,15,15,15,15,15,15,15,15,14,14,15,15,15,14,15,14,14,15,15,15,14,14,15,15,14
+apotheker,pharmacist,0,0,0,15,15,14,14,15,15,15,16,16,15,17,14,15,14,15,14,15,14,14,15,15,15,14,15,15,14,14
+archeoloog,archaeologist,0,0,0,0,15,14,14,14,15,15,15,15,15,14,14,14,14,15,14,15,14,14,15,15,15,14,15,15,14,14
+architect,architect,0,0,0,0,0,14,15,15,15,15,15,15,15,14,14,14,14,16,15,15,14,14,15,15,14,15,15,15,14,15
+bakker,baker,0,0,0,0,0,0,14,16,14,14,16,14,14,16,15,15,15,14,15,15,16,15,14,15,15,15,15,14,14,16
+boekhouder,accountant,0,0,0,0,0,0,0,15,14,14,15,15,14,14,15,15,14,15,15,14,15,14,14,13,15,14,15,15,14,14
+brandweerman,fireman,0,0,0,0,0,0,0,0,14,15,16,14,14,15,14,16,13,15,15,14,17,15,15,15,15,14,14,15,15,14
+dierenarts,veterinarian,0,0,0,0,0,0,0,0,0,14,18,15,15,14,14,15,14,15,14,16,14,15,15,15,16,14,14,17,14,14
+directeur,manager,0,0,0,0,0,0,0,0,0,0,15,15,15,14,15,14,14,17,14,15,14,14,16,16,14,14,14,15,14,14
+dokter,doctor,0,0,0,0,0,0,0,0,0,0,0,15,17,14,14,15,14,16,14,16,14,14,15,15,14,14,16,18,15,14
+informaticus,information scientist,0,0,0,0,0,0,0,0,0,0,0,0,15,15,15,14,14,15,14,15,15,14,15,15,15,15,15,15,14,14
+kinesist,physiotherapist,0,0,0,0,0,0,0,0,0,0,0,0,0,14,15,14,14,14,14,15,14,14,16,15,14,14,15,16,12,14
+kok,cook,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,14,15,15,15,14,15,15,14,14,15,15,16,14,15,15
+leraar,teacher,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,14,15,17,14,15,15,16,14,15,14,15,15,15,15
+loodgieter,plumber,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,12,14,14,15,15,14,14,13,16,15,14,15,15
+marktkramer,stallholder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,14,14,15,16,15,14,15,16,14,14,15,15
+minister,minister,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,15,14,14,15,15,14,14,14,15,14,14
+opvoedster,educator,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,12,15,16,15,15,15,15,15,15,15
+piloot,pilot,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,14,15,15,14,14,15,15,15,13
+politieagent,police officer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,16,16,17,15,14,15,15,14
+postbode,postman,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,14,15,15,15,15,15,15
+psycholoog,psychologist,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,14,14,15,15,14,14
+rechter,judge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,15,14,15,14,14
+secretaresse,secretary,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,14,14,14,17
+slager,butcher,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,15,14,16
+stewardess,stewardess,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,14,16
+tandarts,dentist,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,14
+vuilnisman,garbage collector,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+winkelbediende,shop-assistant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

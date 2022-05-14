@@ -1,0 +1,32 @@
+,exemplar ENGLISH,acteur,advocaat,apotheker,archeoloog,architect,bakker,boekhouder,brandweerman,dierenarts,directeur,dokter,informaticus,kinesist,kok,leraar,loodgieter,marktkramer,minister,opvoedster,piloot,politieagent,postbode,psycholoog,rechter,secretaresse,slager,stewardess,tandarts,vuilnisman,winkelbediende
+exemplar DUTCH,,actor,lawyer,pharmacist,archaeologist,architect,baker,accountant,fireman,veterinarian,manager,doctor,information scientist,physiotherapist,cook,teacher,plumber,stallholder,minister,educator,pilot,police officer,postman,psychologist,judge,secretary,butcher,stewardess,dentist,garbage collector,shop-assistant
+acteur,actor,0,8,7,2,5,2,6,4,8,7,6,9,6,4,8,4,1,2,4,4,4,4,6,4,8,4,7,5,1,6
+advocaat,lawyer,0,0,8,5,12,3,14,4,14,14,12,6,11,4,8,6,4,17,5,13,10,4,8,18,9,4,6,12,4,4
+apotheker,pharmacist,0,0,0,7,10,5,10,3,12,12,18,7,10,6,10,4,4,13,8,10,7,2,12,8,10,7,8,16,4,14
+archeoloog,archaeologist,0,0,0,0,9,6,4,5,8,9,5,6,3,6,10,4,5,7,5,12,6,8,6,8,4,4,7,7,7,4
+architect,architect,0,0,0,0,0,3,10,5,10,13,10,8,8,2,5,2,4,10,3,11,5,7,7,10,8,3,7,11,5,8
+bakker,baker,0,0,0,0,0,0,5,8,2,5,4,3,4,19,4,8,10,4,2,6,2,11,1,4,2,18,3,3,9,13
+boekhouder,accountant,0,0,0,0,0,0,0,4,10,15,14,17,10,4,7,4,2,13,8,14,7,7,7,10,15,7,9,12,2,6
+brandweerman,fireman,0,0,0,0,0,0,0,0,5,5,6,8,2,5,5,16,10,7,4,12,11,6,1,6,3,6,4,4,12,6
+dierenarts,veterinarian,0,0,0,0,0,0,0,0,0,8,17,8,12,5,4,4,7,11,4,9,4,4,6,7,5,4,8,12,1,7
+directeur,manager,0,0,0,0,0,0,0,0,0,0,15,14,2,6,10,1,4,19,7,16,10,4,11,14,12,4,3,12,2,4
+dokter,doctor,0,0,0,0,0,0,0,0,0,0,0,8,16,8,10,1,7,12,9,13,11,6,18,10,10,4,7,18,3,5
+informaticus,information scientist,0,0,0,0,0,0,0,0,0,0,0,0,12,4,7,4,6,8,6,10,7,7,4,6,12,3,8,7,4,3
+kinesist,physiotherapist,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8,4,6,12,11,12,8,4,13,1,7,4,10,15,4,5
+kok,cook,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,10,4,2,4,6,9,2,3,4,12,8,6,8,3
+leraar,teacher,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,6,16,6,12,5,13,8,11,7,9,14,4,6
+loodgieter,plumber,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,4,1,4,6,7,5,1,1,3,1,3,14,3
+marktkramer,stallholder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8,7,3,10,3,7,3,14,7,4,9,10
+minister,minister,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,12,9,6,8,17,13,5,2,8,4,3
+opvoedster,educator,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,7,6,16,6,12,3,12,12,4,8
+piloot,pilot,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,8,4,12,12,4,17,12,3,5
+politieagent,police officer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,8,8,8,7,10,7,11,4
+postbode,postman,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,8,9,6,7,6,10
+psycholoog,psychologist,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,10,1,4,11,1,10
+rechter,judge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,4,11,2,3
+secretaresse,secretary,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,9,15,1,17
+slager,butcher,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,12,14
+stewardess,stewardess,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,15
+tandarts,dentist,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,7
+vuilnisman,garbage collector,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+winkelbediende,shop-assistant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

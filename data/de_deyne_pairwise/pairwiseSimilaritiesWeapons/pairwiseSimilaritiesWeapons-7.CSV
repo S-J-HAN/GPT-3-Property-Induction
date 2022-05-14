@@ -1,0 +1,22 @@
+,exemplar ENGLISH,bazooka,axe,knuckle dusters,bow,dagger,rifle,grenade,canon,catapult,club,machinegun,pistol,shield,spear,stick,tank,rope,double-barrelled shot gun,sword,whip
+exemplar DUTCH,,bazooka,bijl,boksbeugel,boog,dolk,geweer,granaat,kanon,katapult,knuppel,mitrailleur,pistool,schild,speer,stok,tank,touw,tweeloop,zwaard,zweep
+bazooka,bazooka,0,3,2,2,1,5,14,19,9,2,6,10,1,3,2,10,2,12,1,2
+bijl,axe,0,0,4,2,9,2,2,2,2,3,5,2,4,2,5,2,2,2,18,1
+boksbeugel,knuckle dusters,0,0,0,5,5,5,3,2,2,2,2,5,12,2,2,5,2,3,4,2
+boog,bow,0,0,0,0,2,2,2,2,14,5,2,2,2,2,10,2,10,2,2,2
+dolk,dagger,0,0,0,0,0,3,5,2,2,2,2,2,5,10,8,2,2,1,15,2
+geweer,rifle,0,0,0,0,0,0,5,10,12,2,9,15,5,3,2,13,2,15,2,2
+granaat,grenade,0,0,0,0,0,0,0,10,5,2,8,8,4,2,2,15,2,2,2,2
+kanon,canon,0,0,0,0,0,0,0,0,12,2,8,10,4,5,2,16,2,12,5,1
+katapult,slingshot,0,0,0,0,0,0,0,0,0,2,2,12,2,5,4,3,5,5,2,2
+knuppel,club,0,0,0,0,0,0,0,0,0,0,1,2,2,6,16,2,2,2,3,2
+mitrailleur,machine gun,0,0,0,0,0,0,0,0,0,0,0,16,2,3,2,9,1,14,5,2
+pistool,pistol,0,0,0,0,0,0,0,0,0,0,0,0,5,2,2,15,2,15,1,2
+schild,shield,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,5,2,5,16,2
+speer,spear,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,4,2,2,6,2
+stok,stick,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,3,4,16,2
+tank,tank,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,12,4,2
+touw,rope,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,12
+tweeloop,double barreled shotgun,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2
+zwaard,sword,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+zweep,whip,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

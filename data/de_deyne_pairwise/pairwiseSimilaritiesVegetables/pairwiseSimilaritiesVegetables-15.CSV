@@ -1,0 +1,32 @@
+,exemplar ENGLISH,aardappel,ajuin,asperges,aubergine,augurken,biet,bloemkool,bonen,champignons,courgette,erwten,kervel,komkommer,look,maïs,paprika,peterselie,prei,radijs,rode kool,schorseneren,selder,sla,spinazie,spruiten,tomaat,waterkers,witloof,witte kool,wortel
+exemplar DUTCH,,potato,onions,asparagus,eggplant,gherkins,beet,cauliflower,beans,mushrooms,zucchini,peas,chervil,cucumber,garlic,corn,pepper,parsley,leek,radish,red cabbage,black salsify,celery,lettuce,spinach,Brussels sprouts,tomato,water cress,endive,white cabbage,carrot
+aardappel,potato,0,5,1,5,5,5,6,2,3,5,3,1,5,5,5,5,2,3,2,5,4,2,4,5,3,3,5,2,3,5
+ajuin,onions,0,0,3,4,6,5,2,2,2,3,3,2,5,2,5,3,2,3,2,3,2,15,2,2,2,4,5,3,3,3
+asperges,asparagus,0,0,0,2,5,1,2,2,4,3,2,4,3,5,2,2,6,2,2,2,2,4,4,3,4,3,2,2,2,4
+aubergine,eggplant,0,0,0,0,3,2,2,5,1,4,2,2,3,2,2,2,2,2,2,5,2,2,6,2,4,2,3,4,2,2
+augurken,gherkins,0,0,0,0,0,1,2,2,5,3,4,3,1,2,3,5,5,2,3,6,2,2,2,4,2,5,1,2,2,2
+biet,beet,0,0,0,0,0,0,2,5,2,2,4,5,5,3,3,3,4,3,5,3,1,2,3,5,2,5,3,1,3,1
+bloemkool,cauliflower,0,0,0,0,0,0,0,6,1,2,3,2,5,2,5,5,2,2,3,3,1,2,1,4,2,4,3,3,3,5
+bonen,beans,0,0,0,0,0,0,0,0,2,2,5,2,12,3,5,2,2,2,5,3,2,4,6,3,2,5,5,3,2,7
+champignons,mushrooms,0,0,0,0,0,0,0,0,0,5,4,4,3,5,3,2,2,4,1,2,1,2,3,5,5,4,1,2,2,5
+courgette,zucchini,0,0,0,0,0,0,0,0,0,0,2,6,4,3,1,5,5,4,3,3,5,3,6,1,1,3,5,2,3,3
+erwten,peas,0,0,0,0,0,0,0,0,0,0,0,5,4,3,5,2,2,6,2,2,3,3,3,2,3,4,5,1,3,5
+kervel,chervil,0,0,0,0,0,0,0,0,0,0,0,0,2,3,3,5,2,4,3,3,5,1,2,2,2,4,2,5,3,3
+komkommer,cucumber,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,2,2,4,4,6,3,2,2,2,2,2,1,5,5,3
+look,garlic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,4,2,3,2,3,2,2,2,3,2,8,1,3,5
+maïs,corn,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,5,3,5,1,5,2,3,5,5,6,2,3,2
+paprika,pepper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,2,6,5,5,2,2,6,3,2,5,3
+peterselie,parsley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,2,2,4,4,3,2,2,5,2,1,1
+prei,leek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,3,5,2,1,6,2,2,3,2,2
+radijs,radish,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1,3,3,3,6,2,1,7,2
+rode kool,red cabbage,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,1,1,2,2,2,2,1,5
+schorseneren,black salsify,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1,2,4,3,1,2,2
+selder,celery,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,4,3,4,3,2,2
+sla,lettuce,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,4,3,4,2
+spinazie,spinach,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5,5,4,2
+spruiten,Brussels sprouts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,3,3,3
+tomaat,tomato,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,3,4
+waterkers,water cress,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,2
+witloof,endive,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3
+witte kool,white cabbage,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+wortel,carrot,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

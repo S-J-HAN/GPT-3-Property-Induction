@@ -1,0 +1,32 @@
+,exemplar ENGLISH,acteur,advocaat,apotheker,archeoloog,architect,bakker,boekhouder,brandweerman,dierenarts,directeur,dokter,informaticus,kinesist,kok,leraar,loodgieter,marktkramer,minister,opvoedster,piloot,politieagent,postbode,psycholoog,rechter,secretaresse,slager,stewardess,tandarts,vuilnisman,winkelbediende
+exemplar DUTCH,,actor,lawyer,pharmacist,archaeologist,architect,baker,accountant,fireman,veterinarian,manager,doctor,information scientist,physiotherapist,cook,teacher,plumber,stallholder,minister,educator,pilot,police officer,postman,psychologist,judge,secretary,butcher,stewardess,dentist,garbage collector,shop-assistant
+acteur,actor,0,3,2,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,2,2,3,2,3,3,3,2,3,3,2,3
+advocaat,lawyer,0,0,6,3,5,2,4,2,4,4,5,4,4,3,3,2,3,5,3,5,5,3,4,13,4,3,2,5,2,3
+apotheker,pharmacist,0,0,0,3,4,3,3,3,4,4,8,3,4,3,3,3,3,3,2,4,2,3,4,4,4,2,3,5,2,10
+archeoloog,archaeologist,0,0,0,0,3,2,3,2,4,4,4,4,3,3,3,2,2,3,3,4,3,3,3,4,3,3,3,3,2,3
+architect,architect,0,0,0,0,0,3,3,3,3,5,4,5,3,3,4,4,2,4,3,4,3,3,3,4,3,2,2,5,3,3
+bakker,baker,0,0,0,0,0,0,2,4,3,3,2,2,3,16,3,5,2,3,3,3,3,3,3,2,3,9,2,3,3,4
+boekhouder,accountant,0,0,0,0,0,0,0,3,3,6,3,5,5,3,3,3,2,3,3,4,3,3,5,4,10,2,3,3,2,3
+brandweerman,fireman,0,0,0,0,0,0,0,0,2,3,6,2,2,4,3,4,3,3,3,3,11,3,2,3,2,3,3,3,4,3
+dierenarts,veterinarian,0,0,0,0,0,0,0,0,0,3,13,2,4,3,3,3,2,3,2,3,3,3,3,4,3,3,3,13,3,3
+directeur,manager,0,0,0,0,0,0,0,0,0,0,4,3,3,3,4,2,2,7,3,4,3,3,4,4,2,3,3,4,3,2
+dokter,doctor,0,0,0,0,0,0,0,0,0,0,0,4,3,3,4,2,2,4,3,4,2,3,13,5,3,2,4,15,2,3
+informaticus,information scientist,0,0,0,0,0,0,0,0,0,0,0,0,3,3,4,3,2,3,2,4,3,3,3,3,5,3,2,3,3,3
+kinesist,physiotherapist,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,3,2,4,3,4,2,3,4,5,3,2,3,8,2,3
+kok,cook,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,3,2,3,3,3,3,2,3,2,14,3,3,3,3
+leraar,teacher,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,3,13,3,3,3,7,3,2,3,3,3,3,3
+loodgieter,plumber,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,2,2,3,4,2,3,2,5,2,2,4,3
+marktkramer,stallholder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,3,4,3,3,3,2,4,2,2,4,7
+minister,minister,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,3,3,3,4,2,2,2,4,2,2
+opvoedster,educator,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,3,4,2,4,2,3,3,2,3
+piloot,pilot,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,4,4,2,2,7,4,2,3
+politieagent,police officer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,3,2,3,2,3,3,3
+postbode,postman,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,2,3,2,3,3,5
+psycholoog,psychologist,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,3,3,4,2,2
+rechter,judge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,2,3,2,2
+secretaresse,secretary,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,3,2,3
+slager,butcher,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,5,4
+stewardess,stewardess,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,3
+tandarts,dentist,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+vuilnisman,garbage collector,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+winkelbediende,shop-assistant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

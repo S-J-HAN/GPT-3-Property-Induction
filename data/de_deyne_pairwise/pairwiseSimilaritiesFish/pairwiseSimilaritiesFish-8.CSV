@@ -1,0 +1,25 @@
+,exemplar ENGLISH,anchovy,dolphin,trout,goldfish,shark,herring,squid,cod,carp,orca,eel,piranha,plaice,flatfish,sperm whale,ray,sardine,pike,stickleback,sole,whale,salmon,swordfish
+exemplar DUTCH,,ansjovis,dolfijn,forel,goudvis,haai,haring,inktvis,kabeljauw,karper,orka,paling,piranha,pladijs,platvis,potvis,rog,sardine,snoek,stekelbaars,tong,walvis,zalm,zwaardvis
+anchovy,ansjovis,0,2,3,14,2,11,3,2,3,2,5,4,7,2,2,3,17,5,11,14,2,3,2
+dolphin,dolfijn,0,0,7,2,6,3,2,4,7,6,5,3,3,3,4,4,3,4,6,5,5,8,2
+trout,forel,0,0,0,2,3,12,2,7,12,9,15,13,13,7,3,14,12,13,15,13,4,8,6
+goldfish,goudvis,0,0,0,0,2,3,2,2,2,2,4,3,3,2,2,3,15,3,3,8,2,2,3
+shark,haai,0,0,0,0,0,3,3,5,2,6,3,4,2,3,7,4,2,6,5,6,12,4,6
+herring,haring,0,0,0,0,0,0,2,9,5,3,7,11,2,10,3,8,13,12,5,10,3,5,3
+squid,inktvis,0,0,0,0,0,0,0,2,3,2,5,6,3,4,3,2,2,5,4,2,3,7,5
+cod,kabeljauw,0,0,0,0,0,0,0,0,4,4,10,10,4,3,3,12,7,12,16,14,4,17,-1
+carp,karper,0,0,0,0,0,0,0,0,0,3,6,16,3,-1,4,5,7,7,16,5,4,13,5
+orca,orka,0,0,0,0,0,0,0,0,0,0,3,5,3,3,16,3,2,4,4,5,16,3,4
+eel,paling,0,0,0,0,0,0,0,0,0,0,0,7,6,11,2,7,4,10,5,8,3,4,6
+piranha,piranha,0,0,0,0,0,0,0,0,0,0,0,0,5,4,7,4,5,4,4,7,2,4,6
+plaice,pladijs,0,0,0,0,0,0,0,0,0,0,0,0,0,7,-1,14,3,5,3,12,4,3,3
+flatfish,platvis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,3,8,11,7,6,-1,3
+sperm whale,potvis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,5,3,3,12,4,5
+ray,rog,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,13,16,4,7,-1
+sardine,sardine,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,6,3,4,2
+pike,snoek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,14,4,14,4
+stickleback,stekelbaars,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,16,8
+sole,tong,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,10,5
+whale,walvis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,5
+salmon,zalm,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+swordfish,zwaardvis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

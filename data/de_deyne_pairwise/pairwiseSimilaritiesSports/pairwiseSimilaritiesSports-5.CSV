@@ -1,0 +1,32 @@
+,exemplar ENGLISH,badminton,ballet,baseball,basketbal,biljarten,boksen,golf,handbal,hardlopen,ijshockey,judo,kogelstoten,paardrijden,rugby,schaken,schermen,skiën,sportvissen,squash,surfen,tafeltennis,tennis,turnen,verspringen,voetbal,volleybal,wandelen,wielrennen,zeilen,zwemmen
+exemplar DUTCH,,badminton,ballet,baseball,basketball,billiards,boxing,golfing,handball,running,ice hockey,judo,shot-put,horseback riding,rugby,chess,fencing,skiing,sport fishing,squash,surfing,table tennis,tennis,gymnastics,long jump,soccer,volleyball,walking,cycling,sailing,swimming
+badminton,badminton,0,4,5,6,2,4,3,3,6,4,5,4,4,3,4,9,5,3,15,6,14,16,5,5,3,7,5,4,5,4
+ballet,ballet,0,0,3,6,5,2,4,4,7,4,9,4,3,3,3,8,3,3,3,8,5,6,14,6,11,4,7,3,4,6
+baseball,baseball,0,0,0,6,3,6,3,12,9,11,6,4,5,15,2,6,5,2,5,5,4,13,4,8,10,4,4,4,5,3
+basketbal,basketball,0,0,0,0,2,6,3,16,7,5,5,4,7,3,2,4,4,3,8,6,4,6,5,5,8,11,6,5,6,6
+biljarten,billiards,0,0,0,0,0,2,14,4,2,2,2,3,2,2,16,6,2,13,2,2,3,2,2,4,3,2,4,3,2,2
+boksen,boxing,0,0,0,0,0,0,3,6,6,5,6,5,5,11,2,6,6,3,5,5,4,4,6,5,4,4,3,5,4,4
+golf,golfing,0,0,0,0,0,0,0,3,2,3,3,4,3,2,7,5,3,6,2,3,3,2,3,4,3,3,8,2,3,3
+handbal,handball,0,0,0,0,0,0,0,0,6,6,5,8,7,8,2,6,5,3,7,5,4,5,4,6,7,11,7,5,5,5
+hardlopen,running,0,0,0,0,0,0,0,0,0,6,5,6,7,9,2,10,7,2,12,5,6,5,6,9,9,6,16,5,5,6
+ijshockey,ice hockey,0,0,0,0,0,0,0,0,0,0,4,3,4,8,2,4,7,2,5,5,3,5,4,4,6,6,4,4,6,5
+judo,judo,0,0,0,0,0,0,0,0,0,0,0,5,5,12,3,7,4,2,6,5,6,4,7,5,4,4,6,5,5,6
+kogelstoten,shot-put,0,0,0,0,0,0,0,0,0,0,0,0,4,6,3,7,4,2,4,4,5,4,3,8,4,4,6,5,4,5
+paardrijden,horseback riding,0,0,0,0,0,0,0,0,0,0,0,0,0,8,3,6,4,4,4,5,5,5,5,6,4,5,6,4,5,11
+rugby,rugby,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,4,2,6,5,5,5,4,4,6,4,6,4,6,6
+schaken,chess,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,12,3,2,4,2,3,2,2,2,4,4,3,2
+schermen,fencing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,7,7,5,9,9,6,4,4,5,5,3,4,4
+skiën,skiing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,8,3,5,6,5,4,4,7,4,5,5
+sportvissen,sport fishing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,3,2,3,3,2,3,8,2,9,3
+squash,squash,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,11,17,6,6,4,6,6,4,6,5
+surfen,surfing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,7,6,5,4,7,5,16,5
+tafeltennis,table tennis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,4,4,5,4,7,6,4,5
+tennis,tennis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,5,5,8,5,5,4
+turnen,gymnastics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,4,8,4,5,6
+verspringen,long jump,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,4,8,7,4,4
+voetbal,soccer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,8,11,6,3
+volleybal,volleyball,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,6,7
+wandelen,walking,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,6,8
+wielrennen,cycling,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5
+zeilen,sailing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+zwemmen,swimming,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

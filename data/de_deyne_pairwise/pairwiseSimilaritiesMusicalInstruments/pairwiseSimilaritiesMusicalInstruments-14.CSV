@@ -1,0 +1,29 @@
+,exemplar ENGLISH,accordion,banjo,bass guitar,cello,cymbals,double bass,bagpipe,drum set,flute,bassoon,flute,guitar,harp,clarinet,harpsichord,harmonica,organ,pan flute,piano,saxophone,synthesizer,tambourine,triangle,trombone,drum,trumpet,violin
+exemplar DUTCH,,accordeon,banjo,basgitaar,cello,cimbalen,contrabas,doedelzak,drumstel,dwarsfluit,fagot,fluit,gitaar,harp,klarinet,klavecimbel,mondharmonica,orgel,panfluit,piano,saxofoon,synthesizer,tamboerijn,triangel,trombone,trommel,trompet,viool
+accordion,accordeon,0,15,15,15,14,15,16,15,15,15,14,16,15,15,17,17,16,15,15,15,16,15,15,15,15,15,14
+banjo,banjo,0,0,16,17,14,16,16,15,14,15,15,16,16,14,14,15,14,15,15,14,15,14,15,14,14,14,17
+bass guitar,basgitaar,0,0,0,17,14,16,16,14,15,15,14,19,17,14,15,15,15,15,15,15,15,15,14,15,13,14,17
+cello,cello,0,0,0,0,15,18,15,14,14,14,14,17,16,15,15,15,15,14,14,15,15,14,15,15,15,15,17
+cymbals,cimbalen,0,0,0,0,0,14,14,15,15,15,15,15,14,15,15,14,14,15,15,14,14,17,16,14,17,14,15
+double bass,contrabas,0,0,0,0,0,0,16,15,14,15,15,17,16,15,15,14,15,15,15,15,15,14,15,14,14,14,18
+bagpipe,doedelzak,0,0,0,0,0,0,0,15,15,15,15,15,15,15,16,14,15,16,15,14,14,15,14,15,14,14,14
+drum set,drumstel,0,0,0,0,0,0,0,0,14,14,14,15,15,15,16,15,14,14,15,15,15,16,15,15,18,15,14
+flute,dwarsfluit,0,0,0,0,0,0,0,0,0,17,18,15,14,17,15,16,15,19,15,16,15,15,15,16,15,16,16
+bassoon,fagot,0,0,0,0,0,0,0,0,0,0,17,14,15,18,14,15,14,17,15,15,13,15,14,17,15,17,15
+flute,fluit,0,0,0,0,0,0,0,0,0,0,0,14,15,16,14,14,15,18,15,17,15,15,15,16,15,17,14
+guitar,gitaar,0,0,0,0,0,0,0,0,0,0,0,0,17,14,14,15,15,14,14,14,16,15,15,14,14,15,17
+harp,harp,0,0,0,0,0,0,0,0,0,0,0,0,0,15,17,15,15,17,16,15,16,15,15,14,14,14,16
+clarinet,klarinet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,15,14,16,15,18,15,15,15,16,14,18,14
+harpsichord,klavecimbel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,18,15,18,15,17,15,15,14,15,15,15
+harmonica,mondharmonica,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,17,17,16,16,15,15,17,14,15,15
+organ,orgel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,17,15,18,15,14,14,15,15,15
+pan flute,panfluit,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,17,15,15,14,15,14,16,15
+piano,piano,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,18,15,13,15,15,14,15
+saxophone,saxofoon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,16,15,18,15,18,15
+synthesizer,synthesizer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,15,15,15,15,15
+tambourine,tamboerijn,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,15,18,15,15
+triangle,triangel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,15,14,15
+trombone,trombone,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,18,14
+drum,trommel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,14
+trumpet,trompet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+violin,viool,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

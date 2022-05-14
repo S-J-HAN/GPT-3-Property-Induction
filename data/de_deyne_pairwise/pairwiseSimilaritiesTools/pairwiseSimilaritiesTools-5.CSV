@@ -1,0 +1,32 @@
+,exemplar ENGLISH,anvil,chisel,axe,drill,crowbar,screw wrench,lawn mower,hammer,spanner,pickaxe,crowbar,wheelbarrow,knife,wrench,oil can,filling knife,plough,plane,shovel,screwdriver,grinding disc,nail,moped,vacuum cleaner,tongs,rope,paint brush,file,level,saw
+exemplar DUTCH,,aambeeld,beitel,bijl,boormachine,breekijzer,engelsesleutel,grasmachine,hamer,houtklem,houweel,koevoet,kruiwagen,mes,moersleutel,oliespuit,plamuurmes,ploeg,schaaf,schop,schroevendraaier,slijpschijf,spijker,staalborstel,stofzuiger,tang,touw,verfborstel,vijl,waterpas,zaag
+aambeeld,anvil,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,-1,-1,-1,-1
+beitel,chisel,0,0,9,4,9,15,2,13,-1,16,10,1,16,10,-1,14,1,-1,1,16,5,8,-1,1,14,1,15,14,4,3
+bijl,axe,0,0,0,8,8,1,1,8,-1,-1,15,3,13,3,-1,6,5,-1,2,1,3,1,-1,1,2,1,5,2,4,6
+boormachine,drill,0,0,0,0,6,6,1,6,-1,1,-1,2,1,4,-1,3,3,-1,5,5,12,1,-1,1,5,1,3,7,1,15
+breekijzer,crowbar,0,0,0,0,0,13,1,15,-1,15,16,3,10,6,-1,3,-1,-1,3,4,6,1,-1,1,6,1,3,4,10,8
+engelse sleutel,adjustable spanner,0,0,0,0,0,0,1,5,-1,15,18,1,6,17,-1,6,1,-1,2,15,1,1,-1,1,6,1,6,9,8,1
+grasmachine,lawn mower,0,0,0,0,0,0,0,2,-1,1,3,8,1,1,-1,1,8,-1,3,1,1,1,-1,1,2,1,1,1,1,1
+hamer,hammer,0,0,0,0,0,0,0,0,-1,9,15,1,3,7,-1,4,2,-1,1,1,1,1,-1,1,8,1,7,2,6,6
+houtklem,clamp,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+houweel,pickaxe,0,0,0,0,0,0,0,0,0,0,4,3,8,3,-1,16,1,-1,6,8,1,1,-1,1,-1,2,9,6,-1,4
+koevoet,crowbar,0,0,0,0,0,0,0,0,0,0,0,1,8,19,-1,5,2,-1,7,1,4,1,-1,5,-1,1,6,5,17,1
+kruiwagen,wheelbarrow,0,0,0,0,0,0,0,0,0,0,0,0,1,1,-1,1,3,-1,7,1,1,1,-1,6,1,1,1,2,1,1
+mes,knife,0,0,0,0,0,0,0,0,0,0,0,0,0,6,-1,6,6,-1,4,15,6,3,1,1,8,1,4,18,1,5
+moersleutel,wrench,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,1,1,-1,3,16,1,1,-1,1,15,1,5,6,6,3
+oliespuit,oil can,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+plamuurmes,filling knife,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-1,2,3,7,1,-1,1,4,1,15,12,8,2
+ploeg,plough,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,1,1,1,1,-1,2,1,1,1,1,1,1
+schaaf,plane,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+schop,shovel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1,-1,13,2,1,2,1,1,3
+schroevendraaier,screwdriver,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,-1,1,8,1,6,7,2,1
+slijpschijf,grinding disc,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-1,1,1,1,1,7,8,3
+spijker,nail,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,1,1,1,5,1,1,1
+staalborstel,wire brush,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,1,-1,-1,-1,-1
+stofzuiger,vacuum cleaner,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2
+tang,tongs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,14,1,6
+touw,rope,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1
+verfborstel,paint brush,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,1
+vijl,file,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+waterpas,level,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+zaag,saw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

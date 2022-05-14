@@ -1,0 +1,22 @@
+,exemplar ENGLISH,viper,alligator,boa,cobra,dinosaur,gecko,lizard,blindworm,caiman,chameleon,frog,crocodile,iguana,toad,python,salamander,tortoise,snake,monitor lizard,turtle
+exemplar DUTCH,,adder,alligator,boa,cobra,dinosaurus,gekko,hagedis,hazelworm,kaaiman,kameleon,kikker,krokodil,leguaan,pad (dier),python,salamander,schildpad,slang,varaan,waterschildpad
+adder,viper,0,16,16,15,2,7,6,8,15,7,5,7,12,8,12,8,7,8,12,7
+alligator,alligator,0,0,14,17,9,12,8,12,15,7,8,18,15,8,12,7,6,18,13,8
+boa,boa,0,0,0,15,5,9,10,7,9,8,9,8,12,6,15,11,6,16,10,8
+cobra,cobra,0,0,0,0,6,8,12,8,4,8,5,5,13,4,13,9,5,17,10,5
+dinosaurus,dinosaur,0,0,0,0,0,8,7,4,5,7,4,7,8,4,6,6,7,3,10,10
+gekko,gecko,0,0,0,0,0,0,8,8,4,9,13,6,11,12,9,8,9,6,8,9
+hagedis,lizard,0,0,0,0,0,0,0,7,8,12,6,7,12,8,7,12,7,8,12,7
+hazelworm,blindworm,0,0,0,0,0,0,0,0,6,8,10,4,8,10,9,7,6,8,10,10
+kaaiman,caiman,0,0,0,0,0,0,0,0,0,7,6,16,9,9,15,7,7,5,8,7
+kameleon,chameleon,0,0,0,0,0,0,0,0,0,0,8,7,9,8,8,13,10,8,8,6
+kikker,frog,0,0,0,0,0,0,0,0,0,0,0,4,8,16,6,6,8,8,13,11
+krokodil,crocodile,0,0,0,0,0,0,0,0,0,0,0,0,9,4,3,5,7,6,8,6
+leguaan,iguana,0,0,0,0,0,0,0,0,0,0,0,0,0,11,9,9,8,9,9,5
+pad (dier),toad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,11,16,7,4,12
+python,python,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,7,15,12,6
+salamander,salamander,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,14,8,9
+schildpad,tortoise,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,7,16
+slang,snake,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,4
+varaan,monitor lizard,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+waterschildpad,turtle,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
