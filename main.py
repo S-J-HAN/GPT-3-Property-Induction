@@ -168,7 +168,7 @@ if __name__ == "__main__":
     if not os.path.exists("figure_data"):
         os.mkdir("figure_data")
 
-    # generate_figure_1_data(property_generator=property_generator)
-    # generate_figure_2a_data(property_generator=property_generator)
+    generate_figure_1_data(property_generator=property_generator)
+    generate_figure_2a_data(property_generator=property_generator)
     generate_figure_2bc_data()
-    # generate_figure_3_data(property_generator=property_generator)
+    generate_figure_3_data(property_generator=property_generator)
