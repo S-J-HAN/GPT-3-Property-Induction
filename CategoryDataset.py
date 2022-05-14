@@ -8,6 +8,8 @@ import numpy as np
 
 import os
 
+import config
+
 
 @dataclass
 class MatrixTranslationMixup:
@@ -45,7 +47,11 @@ class CategoryDataset(ABC):
 
     
 class KaggleCategoryDataset(CategoryDataset):
-    """Uses the Zoo animal dataset from Kaggle, which includes both animal features and animal classes"""
+    """
+    Uses the Zoo animal dataset from Kaggle, which includes both animal features and animal classes
+    
+    This data is NOT available in this repo.
+    """
     
     def __init__(self, animal_features_path: str = "data/animals/zoo.csv", animal_types_path: str = "data/animals/class.csv"):
 
@@ -98,7 +104,11 @@ class KaggleCategoryDataset(CategoryDataset):
 
 
 class KempLeuvenCategoryDataset(CategoryDataset):
-    """Uses the Kemp/Leuven dataset"""
+    """
+    Uses the Kemp/Leuven dataset
+    
+    This is NOT available in this repo.
+    """
     
     def __init__(self, animal_features_path: str = "data/kempTypeIIAnimalExemplarFeatureMatrix.csv"):
 
@@ -161,7 +171,7 @@ class KempLeuvenCategoryDataset(CategoryDataset):
 class DeDeyneCategoryDataset(CategoryDataset):
     """Gets category similarities from data collected by De Deyne et al. (2008)"""
 
-    def __init__(self, category_class: str, dedeyne_data_loc: str = "data/de_deyne_pairwise") -> None:
+    def __init__(self, category_class: str) -> None:
         
         self.mixups = {
             "Birds": MatrixTranslationMixup(False, True),
@@ -181,7 +191,7 @@ class DeDeyneCategoryDataset(CategoryDataset):
         }
 
         self.category_class = category_class
-        self.df = self._generate_similarity_df(category_class=category_class, folder=f"{dedeyne_data_loc}/pairwiseSimilarities{category_class}")
+        self.df = self._generate_similarity_df(category_class=category_class, folder=config.dedeyne_similarities_path(category_class))
         self.category2index = {a:i for i,a in enumerate(self.df.columns[1:])}
 
     def _generate_similarity_df(self, category_class: str, folder: str) -> pd.DataFrame:
@@ -210,7 +220,7 @@ class DeDeyneCategoryDataset(CategoryDataset):
         """Return a list of all classes in this dataset"""
         return [self.category_class]
 
-    def class_category_list(self, query_class: str) -> List[str]:
+    def class_category_list(self) -> List[str]:
         """Return a list of all categories that fall under a given class"""
         return list(self.df.columns[1:])
 

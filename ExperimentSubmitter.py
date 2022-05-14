@@ -6,14 +6,16 @@ import math
 import openai
 import os
 
-from Prompts import *
-from PromptGenerator import *
-from ExperimentResult import *
+import PromptGenerator
+import schema
+
+import pandas as pd
+import numpy as np
 
 
 class ExperimentSubmitter(ABC):
 
-    def __init__(self, prompt_generator: PromptGenerator) -> None:
+    def __init__(self, prompt_generator: PromptGenerator.PromptGenerator) -> None:
     
         openai.api_key = os.getenv("OPENAI_KEY")
 
@@ -62,13 +64,13 @@ class ExperimentSubmitter(ABC):
     @abstractmethod
     def submit_experiment(
             self,
-            prompts: List[Prompt],
+            prompts: List[schema.Prompt],
             output_filepath: str,
             logprobs: int,
             temperature: float,
             max_tokens: int,
             engine: str,
-        ) -> List[ExperimentResult]:
+        ) -> List[schema.ExperimentResult]:
         """
         Submits a list of prompts to the OpenAI API for completion, and then returns a list of results.
         """
@@ -121,14 +123,14 @@ class YesProbabilityExperimentSubmitter(ExperimentSubmitter):
 
     def submit_experiment(
             self, 
-            prompts: List[OshersonPrompt], 
+            prompts: List[schema.OshersonPrompt], 
             output_filepath: str, 
             logprobs: int, 
             temperature: float, 
             max_tokens: int, 
             engine: str,
             check_experiment: bool,
-        ) -> List[YesProbabilityExperimentResult]:
+        ) -> List[schema.YesProbabilityExperimentResult]:
         
         if check_experiment:
             prompt_strings = [p.prompt for p in prompts]
@@ -154,7 +156,7 @@ class YesProbabilityExperimentSubmitter(ExperimentSubmitter):
                 no_logprob = response["choices"][0]["logprobs"]["top_logprobs"][-1][" No"]
                 yes_logprob = response["choices"][0]["logprobs"]["token_logprobs"][-1]
 
-                result = YesProbabilityExperimentResult(
+                result = schema.YesProbabilityExperimentResult(
                     max_tokens=max_tokens,
                     engine=engine,
                     raw_api_response=str(response),
@@ -167,7 +169,7 @@ class YesProbabilityExperimentSubmitter(ExperimentSubmitter):
             except:
                 print(f"'Yes' logprob couldn't be found in top logprobs { response['choices'][0]['logprobs']['top_logprobs'][-1]}")
 
-                result = YesProbabilityExperimentResult(
+                result = schema.YesProbabilityExperimentResult(
                     max_tokens=max_tokens,
                     engine=engine,
                     raw_api_response=str(response),
@@ -186,14 +188,14 @@ class ConclusionProbabilityExperimentSubmitter(ExperimentSubmitter):
 
     def submit_experiment(
             self, 
-            prompts: List[OshersonPrompt], 
+            prompts: List[schema.OshersonPrompt], 
             output_filepath: str, 
             logprobs: int, 
             temperature: float, 
             max_tokens: int, 
             engine: str,
             check_experiment: bool,
-        ) -> List[YesProbabilityExperimentResult]:
+        ) -> List[schema.YesProbabilityExperimentResult]:
         
         if check_experiment:
             prompt_strings = [p.prompt for p in prompts]
@@ -220,7 +222,7 @@ class ConclusionProbabilityExperimentSubmitter(ExperimentSubmitter):
                 tokens = response["choices"][0]["logprobs"]["tokens"]
                 conclusion_logprob = self._get_string_logprob_via_subtokens(conclusion_string, tokens, tokens_logprobs)
 
-                result = ConclusionProbabilityExperimentResult(
+                result = schema.ConclusionProbabilityExperimentResult(
                     max_tokens=max_tokens,
                     engine=engine,
                     raw_api_response=str(response),
@@ -232,7 +234,7 @@ class ConclusionProbabilityExperimentSubmitter(ExperimentSubmitter):
             except:
                 print(f"Conclusion logprob couldn't be found")
 
-                result = ConclusionProbabilityExperimentResult(
+                result = schema.ConclusionProbabilityExperimentResult(
                     max_tokens=max_tokens,
                     engine=engine,
                     raw_api_response=str(response),
@@ -250,14 +252,14 @@ class ListProbabilityExperimentSubmitter(ExperimentSubmitter):
 
     def submit_experiment(
             self, 
-            prompts: List[OshersonPrompt], 
+            prompts: List[schema.OshersonPrompt], 
             output_filepath: str, 
             logprobs: int, 
             temperature: float, 
             max_tokens: int, 
             engine: str,
             check_experiment: bool,
-        ) -> List[YesProbabilityExperimentResult]:
+        ) -> List[schema.YesProbabilityExperimentResult]:
         
         if check_experiment:
             prompt_strings = [p.prompt for p in prompts]
@@ -284,7 +286,7 @@ class ListProbabilityExperimentSubmitter(ExperimentSubmitter):
                 tokens = response["choices"][0]["logprobs"]["tokens"]
                 conclusion_logprob = self._get_string_logprob_via_subtokens(conclusion_string, tokens, tokens_logprobs)
 
-                result = ConclusionProbabilityExperimentResult(
+                result = schema.ConclusionProbabilityExperimentResult(
                     max_tokens=max_tokens,
                     engine=engine,
                     raw_api_response=str(response),
@@ -296,7 +298,7 @@ class ListProbabilityExperimentSubmitter(ExperimentSubmitter):
             except:
                 print(f"Conclusion logprob couldn't be found")
 
-                result = ConclusionProbabilityExperimentResult(
+                result = schema.ConclusionProbabilityExperimentResult(
                     max_tokens=max_tokens,
                     engine=engine,
                     raw_api_response=str(response),

@@ -13,6 +13,8 @@ import dataclasses
 import torch
 import scipy.special
 import logging
+import os
+import openai
 
 
 def generate_figure_1_data(property_generator: PropertyGenerator.PropertyGenerator) -> None:
@@ -33,7 +35,7 @@ def generate_figure_1_data(property_generator: PropertyGenerator.PropertyGenerat
     # Generate prompts using synthetic osherson data
     category_datasets = {c: CategoryDataset.DeDeyneCategoryDataset(c) for c in config.CATEGORY_CLASSES}
     candidate_generator = CandidateGenerator.SyntheticOshersonSCMCandidateGenerator(category_datasets)
-    candidate_generator.generate_candidate_argument_pair_dataset(config.prompt_arguments_path("osherson"), config.NUM_SYNTHETIC_ARGUMENTS)
+    candidate_generator.generate_candidate_argument_pair_dataset(config.prompt_arguments_path("synthetic"), config.NUM_SYNTHETIC_ARGUMENTS)
 
     for argument_type in ("osherson", "synthetic"):
         prompt_generator = PromptGenerator.InstructPromptGenerator(property_generator=property_generator, arguments_loc=config.prompt_arguments_path(argument_type))
@@ -88,23 +90,18 @@ def generate_figure_2bc_data() -> None:
 
     logging.info("Generating figure 2b/c data...")
 
+    openai.api_key = os.getenv("OPENAI_KEY")
 
-    feature_generator = CategoryDataset.KempLeuvenCategoryDataset()
+    categories = list(config.PREMISE_NUMBERS.values())
+    for dd_class in CategoryDataset.DeDeyneCategoryDataset.possible_class_list():
+        dd_dataset = CategoryDataset.DeDeyneCategoryDataset(dd_class)
+        categories += dd_dataset.class_category_list()
+
     rows = []
 
-    embedding = helpers.get_embedding("all animals")
-    rows.append(("all animals", embedding))
-
-    for category_class in feature_generator.class_list():
-        for category in feature_generator.class_category_list(category_class):
-            
-            pluralised_category = PromptGenerator.convert_category_to_plural(category.lower())
-            embedding = helpers.get_embedding(pluralised_category)
-            rows.append((pluralised_category.capitalize(), embedding))
-
-        pluralised_category = PromptGenerator.convert_category_to_plural(category_class.lower())
-        embedding = helpers.get_embedding(pluralised_category)
-        rows.append((pluralised_category.capitalize(), embedding))
+    for category in categories:       
+        embedding = helpers.get_embedding(category)
+        rows.append((category, embedding))
         
     df = pd.DataFrame(rows, columns=["category", "embedding"])
     df.to_csv(config.figure_2bc_data_path)
@@ -166,9 +163,12 @@ def generate_figure_3_data(property_generator: PropertyGenerator.PropertyGenerat
 
 if __name__ == "__main__":
 
-    property_generator = PropertyGenerator.NamelessPropertyGenerator() 
+    property_generator = PropertyGenerator.NamelessPropertyGenerator()
 
-    generate_figure_1_data(property_generator=property_generator)
-    generate_figure_2a_data(property_generator=property_generator)
+    if not os.path.exists("figure_data"):
+        os.mkdir("figure_data")
+
+    # generate_figure_1_data(property_generator=property_generator)
+    # generate_figure_2a_data(property_generator=property_generator)
     generate_figure_2bc_data()
-    generate_figure_3_data(property_generator=property_generator)
+    # generate_figure_3_data(property_generator=property_generator)

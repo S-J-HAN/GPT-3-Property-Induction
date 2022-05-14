@@ -1,0 +1,1621 @@
+,model,conclusion_type,yes_prob,prompt,premise_1,premise_2,premise_3,conclusion
+0,gpt,specific,0.917729914188385,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and chimps have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,chimp,,horse
+1,gpt,specific,0.9266862273216248,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and gorillas have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,gorilla,,horse
+2,gpt,specific,0.9112192988395691,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and mice have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,mouse,,horse
+3,gpt,specific,0.9087905287742615,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and squirrels have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,squirrel,,horse
+4,gpt,specific,0.9190493226051331,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and dolphins have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,dolphin,,horse
+5,gpt,specific,0.9176042675971985,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and seals have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,seal,,horse
+6,gpt,specific,0.9187252521514893,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,elephant,,horse
+7,gpt,specific,0.9123323559761047,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,rhino,,horse
+8,gpt,specific,0.9342823028564453,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and gorillas have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,gorilla,,horse
+9,gpt,specific,0.9200066924095154,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and mice have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,mouse,,horse
+10,gpt,specific,0.9161204099655151,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and squirrels have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,squirrel,,horse
+11,gpt,specific,0.9259172677993774,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and dolphins have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,dolphin,,horse
+12,gpt,specific,0.9228988289833069,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and seals have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,seal,,horse
+13,gpt,specific,0.9262402057647705,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,elephant,,horse
+14,gpt,specific,0.9209580421447754,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,rhino,,horse
+15,gpt,specific,0.9394815564155579,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas and mice have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",gorilla,mouse,,horse
+16,gpt,specific,0.9360495805740356,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas and squirrels have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",gorilla,squirrel,,horse
+17,gpt,specific,0.9409957528114319,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas and dolphins have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",gorilla,dolphin,,horse
+18,gpt,specific,0.9414820671081543,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas and seals have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",gorilla,seal,,horse
+19,gpt,specific,0.9419211149215698,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",gorilla,elephant,,horse
+20,gpt,specific,0.9386439323425293,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",gorilla,rhino,,horse
+21,gpt,specific,0.9024404883384705,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice and squirrels have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",mouse,squirrel,,horse
+22,gpt,specific,0.9126147031784058,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice and dolphins have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",mouse,dolphin,,horse
+23,gpt,specific,0.910979151725769,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice and seals have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",mouse,seal,,horse
+24,gpt,specific,0.9119232296943665,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",mouse,elephant,,horse
+25,gpt,specific,0.9059774875640869,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",mouse,rhino,,horse
+26,gpt,specific,0.9036309123039246,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels and dolphins have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",squirrel,dolphin,,horse
+27,gpt,specific,0.9031268358230591,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels and seals have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",squirrel,seal,,horse
+28,gpt,specific,0.9042209386825562,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",squirrel,elephant,,horse
+29,gpt,specific,0.8978583812713623,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",squirrel,rhino,,horse
+30,gpt,specific,0.9245939254760742,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that dolphins and seals have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",dolphin,seal,,horse
+31,gpt,specific,0.9267515540122986,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that dolphins and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",dolphin,elephant,,horse
+32,gpt,specific,0.9193664789199829,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that dolphins and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",dolphin,rhino,,horse
+33,gpt,specific,0.9168463945388794,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that seals and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",seal,elephant,,horse
+34,gpt,specific,0.9108288884162903,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that seals and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",seal,rhino,,horse
+35,gpt,specific,0.9186762571334839,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that elephants and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",elephant,rhino,,horse
+36,gpt,general,0.9153695106506348,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, cows and mice have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,cow,mouse,all mammals
+37,gpt,general,0.9211172461509705,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, cows and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,cow,seal,all mammals
+38,gpt,general,0.9147270917892456,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, cows and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,cow,rhino,all mammals
+39,gpt,general,0.9201934337615967,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, chimps and squirrels have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,chimp,squirrel,all mammals
+40,gpt,general,0.9263916611671448,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, chimps and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,chimp,seal,all mammals
+41,gpt,general,0.9279147386550903,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, gorillas and squirrels have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,gorilla,squirrel,all mammals
+42,gpt,general,0.9330630302429199,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, gorillas and dolphins have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,gorilla,dolphin,all mammals
+43,gpt,general,0.9125845432281494,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, mice and squirrels have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,mouse,squirrel,all mammals
+44,gpt,general,0.9200834035873413,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, mice and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,mouse,seal,all mammals
+45,gpt,general,0.9142135977745056,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, mice and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,mouse,rhino,all mammals
+46,gpt,general,0.9174196720123291,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, squirrels and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,squirrel,seal,all mammals
+47,gpt,general,0.9157537221908569,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, squirrels and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,squirrel,elephant,all mammals
+48,gpt,general,0.9252316355705261,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, dolphins and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,dolphin,seal,all mammals
+49,gpt,general,0.9246166348457336,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, dolphins and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,dolphin,elephant,all mammals
+50,gpt,general,0.9272162914276123,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, chimps and dolphins have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,chimp,dolphin,all mammals
+51,gpt,general,0.9270340800285339,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, chimps and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,chimp,seal,all mammals
+52,gpt,general,0.9251967668533325,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, chimps and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,chimp,elephant,all mammals
+53,gpt,general,0.922073483467102,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, mice and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,mouse,seal,all mammals
+54,gpt,general,0.9155585765838623,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, mice and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,mouse,rhino,all mammals
+55,gpt,general,0.9177153706550598,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, squirrels and dolphins have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,squirrel,dolphin,all mammals
+56,gpt,general,0.9127196073532104,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, squirrels and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,squirrel,rhino,all mammals
+57,gpt,general,0.9259430766105652,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, dolphins and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,dolphin,elephant,all mammals
+58,gpt,general,0.9211753010749817,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, dolphins and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,dolphin,rhino,all mammals
+59,gpt,general,0.923159122467041,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, seals and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,seal,elephant,all mammals
+60,gpt,general,0.9187938570976257,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, elephants and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,elephant,rhino,all mammals
+61,gpt,general,0.9380165338516235,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, gorillas and squirrels have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,gorilla,squirrel,all mammals
+62,gpt,general,0.9427723288536072,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, gorillas and dolphins have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,gorilla,dolphin,all mammals
+63,gpt,general,0.9434613585472107,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, gorillas and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,gorilla,seal,all mammals
+64,gpt,general,0.9283465147018433,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, squirrels and dolphins have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,squirrel,dolphin,all mammals
+65,gpt,general,0.9268283247947693,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, squirrels and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,squirrel,elephant,all mammals
+66,gpt,general,0.9255670309066772,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, squirrels and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,squirrel,rhino,all mammals
+67,gpt,general,0.9348090887069702,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, dolphins and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,dolphin,elephant,all mammals
+68,gpt,general,0.9474064111709595,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas, mice and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",gorilla,mouse,seal,all mammals
+69,gpt,general,0.9445263743400574,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas, mice and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",gorilla,mouse,elephant,all mammals
+70,gpt,general,0.9421100616455078,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas, squirrels and dolphins have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",gorilla,squirrel,dolphin,all mammals
+71,gpt,general,0.94701087474823,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas, seals and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",gorilla,seal,elephant,all mammals
+72,gpt,general,0.9439844489097595,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas, elephants and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",gorilla,elephant,rhino,all mammals
+73,gpt,general,0.916515588760376,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice, squirrels and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",mouse,squirrel,seal,all mammals
+74,gpt,general,0.9246847629547119,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice, dolphins and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",mouse,dolphin,seal,all mammals
+75,gpt,general,0.9204310178756714,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice, seals and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",mouse,seal,elephant,all mammals
+76,gpt,general,0.9171963334083557,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice, seals and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",mouse,seal,rhino,all mammals
+77,gpt,general,0.9161856770515442,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice, elephants and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",mouse,elephant,rhino,all mammals
+78,gpt,general,0.9174010753631592,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels, dolphins and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",squirrel,dolphin,seal,all mammals
+79,gpt,general,0.9116299152374268,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels, dolphins and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",squirrel,dolphin,rhino,all mammals
+80,gpt,general,0.9115904569625854,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels, seals and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",squirrel,seal,rhino,all mammals
+81,gpt2,specific,0.5417270064353943,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and chimps have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,chimp,,horse
+82,gpt2,specific,0.552000105381012,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and gorillas have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,gorilla,,horse
+83,gpt2,specific,0.5488851070404053,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and mice have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,mouse,,horse
+84,gpt2,specific,0.5643123388290405,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and squirrels have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,squirrel,,horse
+85,gpt2,specific,0.5493846535682678,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and dolphins have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,dolphin,,horse
+86,gpt2,specific,0.565396249294281,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and seals have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,seal,,horse
+87,gpt2,specific,0.5565022230148315,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,elephant,,horse
+88,gpt2,specific,0.5644887089729309,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,rhino,,horse
+89,gpt2,specific,0.5056331157684326,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and gorillas have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,gorilla,,horse
+90,gpt2,specific,0.5025472640991211,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and mice have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,mouse,,horse
+91,gpt2,specific,0.5135817527770996,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and squirrels have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,squirrel,,horse
+92,gpt2,specific,0.5043772459030151,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and dolphins have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,dolphin,,horse
+93,gpt2,specific,0.5157952308654785,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and seals have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,seal,,horse
+94,gpt2,specific,0.5102419853210449,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,elephant,,horse
+95,gpt2,specific,0.515454113483429,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,rhino,,horse
+96,gpt2,specific,0.5192023515701294,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas and mice have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",gorilla,mouse,,horse
+97,gpt2,specific,0.5287387371063232,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas and squirrels have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",gorilla,squirrel,,horse
+98,gpt2,specific,0.5194070339202881,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas and dolphins have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",gorilla,dolphin,,horse
+99,gpt2,specific,0.5348631143569946,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas and seals have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",gorilla,seal,,horse
+100,gpt2,specific,0.5233489274978638,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",gorilla,elephant,,horse
+101,gpt2,specific,0.52898108959198,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",gorilla,rhino,,horse
+102,gpt2,specific,0.541445791721344,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice and squirrels have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",mouse,squirrel,,horse
+103,gpt2,specific,0.5252156853675842,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice and dolphins have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",mouse,dolphin,,horse
+104,gpt2,specific,0.5387120842933655,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice and seals have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",mouse,seal,,horse
+105,gpt2,specific,0.5322532653808594,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",mouse,elephant,,horse
+106,gpt2,specific,0.5440841913223267,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",mouse,rhino,,horse
+107,gpt2,specific,0.5529451966285706,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels and dolphins have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",squirrel,dolphin,,horse
+108,gpt2,specific,0.564848780632019,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels and seals have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",squirrel,seal,,horse
+109,gpt2,specific,0.5553956627845764,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",squirrel,elephant,,horse
+110,gpt2,specific,0.5617426633834839,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",squirrel,rhino,,horse
+111,gpt2,specific,0.5225876569747925,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that dolphins and seals have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",dolphin,seal,,horse
+112,gpt2,specific,0.5183470845222473,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that dolphins and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",dolphin,elephant,,horse
+113,gpt2,specific,0.5285201072692871,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that dolphins and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",dolphin,rhino,,horse
+114,gpt2,specific,0.5695964694023132,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that seals and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",seal,elephant,,horse
+115,gpt2,specific,0.5758237242698669,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that seals and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",seal,rhino,,horse
+116,gpt2,specific,0.5477457046508789,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that elephants and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",elephant,rhino,,horse
+117,gpt2,general,0.5196165442466736,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, cows and mice have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,cow,mouse,all mammals
+118,gpt2,general,0.5327954888343811,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, cows and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,cow,seal,all mammals
+119,gpt2,general,0.5310022830963135,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, cows and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,cow,rhino,all mammals
+120,gpt2,general,0.5181442499160767,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, chimps and squirrels have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,chimp,squirrel,all mammals
+121,gpt2,general,0.5253269672393799,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, chimps and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,chimp,seal,all mammals
+122,gpt2,general,0.5263693928718567,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, gorillas and squirrels have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,gorilla,squirrel,all mammals
+123,gpt2,general,0.5238332748413086,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, gorillas and dolphins have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,gorilla,dolphin,all mammals
+124,gpt2,general,0.5239817500114441,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, mice and squirrels have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,mouse,squirrel,all mammals
+125,gpt2,general,0.5294572710990906,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, mice and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,mouse,seal,all mammals
+126,gpt2,general,0.5285904407501221,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, mice and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,mouse,rhino,all mammals
+127,gpt2,general,0.5351534485816956,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, squirrels and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,squirrel,seal,all mammals
+128,gpt2,general,0.5313233733177185,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, squirrels and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,squirrel,elephant,all mammals
+129,gpt2,general,0.527715802192688,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, dolphins and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,dolphin,seal,all mammals
+130,gpt2,general,0.5258501172065735,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, dolphins and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,dolphin,elephant,all mammals
+131,gpt2,general,0.5223069190979004,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, chimps and dolphins have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,chimp,dolphin,all mammals
+132,gpt2,general,0.5337563157081604,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, chimps and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,chimp,seal,all mammals
+133,gpt2,general,0.5309624075889587,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, chimps and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,chimp,elephant,all mammals
+134,gpt2,general,0.5382570624351501,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, mice and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,mouse,seal,all mammals
+135,gpt2,general,0.5383575558662415,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, mice and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,mouse,rhino,all mammals
+136,gpt2,general,0.5331031084060669,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, squirrels and dolphins have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,squirrel,dolphin,all mammals
+137,gpt2,general,0.5405335426330566,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, squirrels and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,squirrel,rhino,all mammals
+138,gpt2,general,0.534301221370697,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, dolphins and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,dolphin,elephant,all mammals
+139,gpt2,general,0.5370262265205383,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, dolphins and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,dolphin,rhino,all mammals
+140,gpt2,general,0.5483711957931519,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, seals and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,seal,elephant,all mammals
+141,gpt2,general,0.5432665348052979,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, elephants and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,elephant,rhino,all mammals
+142,gpt2,general,0.49848172068595886,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, gorillas and squirrels have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,gorilla,squirrel,all mammals
+143,gpt2,general,0.4947358965873718,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, gorillas and dolphins have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,gorilla,dolphin,all mammals
+144,gpt2,general,0.5059525370597839,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, gorillas and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,gorilla,seal,all mammals
+145,gpt2,general,0.497409850358963,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, squirrels and dolphins have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,squirrel,dolphin,all mammals
+146,gpt2,general,0.5044306516647339,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, squirrels and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,squirrel,elephant,all mammals
+147,gpt2,general,0.5054872035980225,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, squirrels and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,squirrel,rhino,all mammals
+148,gpt2,general,0.5016365051269531,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, dolphins and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,dolphin,elephant,all mammals
+149,gpt2,general,0.5229102969169617,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas, mice and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",gorilla,mouse,seal,all mammals
+150,gpt2,general,0.5170641541481018,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas, mice and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",gorilla,mouse,elephant,all mammals
+151,gpt2,general,0.5140591859817505,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas, squirrels and dolphins have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",gorilla,squirrel,dolphin,all mammals
+152,gpt2,general,0.5310288667678833,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas, seals and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",gorilla,seal,elephant,all mammals
+153,gpt2,general,0.5200850367546082,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas, elephants and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",gorilla,elephant,rhino,all mammals
+154,gpt2,general,0.5226723551750183,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice, squirrels and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",mouse,squirrel,seal,all mammals
+155,gpt2,general,0.5165650248527527,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice, dolphins and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",mouse,dolphin,seal,all mammals
+156,gpt2,general,0.5303847193717957,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice, seals and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",mouse,seal,elephant,all mammals
+157,gpt2,general,0.5321553945541382,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice, seals and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",mouse,seal,rhino,all mammals
+158,gpt2,general,0.5259604454040527,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice, elephants and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",mouse,elephant,rhino,all mammals
+159,gpt2,general,0.5425546169281006,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels, dolphins and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",squirrel,dolphin,seal,all mammals
+160,gpt2,general,0.5416664481163025,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels, dolphins and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",squirrel,dolphin,rhino,all mammals
+161,gpt2,general,0.5486130118370056,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels, seals and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",squirrel,seal,rhino,all mammals
+162,gpt2-medium,specific,0.2994755804538727,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and chimps have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,chimp,,horse
+163,gpt2-medium,specific,0.28679850697517395,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and gorillas have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,gorilla,,horse
+164,gpt2-medium,specific,0.3067314028739929,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and mice have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,mouse,,horse
+165,gpt2-medium,specific,0.30679795145988464,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and squirrels have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,squirrel,,horse
+166,gpt2-medium,specific,0.2932519018650055,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and dolphins have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,dolphin,,horse
+167,gpt2-medium,specific,0.31350186467170715,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and seals have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,seal,,horse
+168,gpt2-medium,specific,0.30351966619491577,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,elephant,,horse
+169,gpt2-medium,specific,0.3113327920436859,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,rhino,,horse
+170,gpt2-medium,specific,0.28826844692230225,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and gorillas have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,gorilla,,horse
+171,gpt2-medium,specific,0.3035632371902466,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and mice have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,mouse,,horse
+172,gpt2-medium,specific,0.2944621741771698,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and squirrels have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,squirrel,,horse
+173,gpt2-medium,specific,0.29188910126686096,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and dolphins have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,dolphin,,horse
+174,gpt2-medium,specific,0.3042216897010803,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and seals have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,seal,,horse
+175,gpt2-medium,specific,0.2979556620121002,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,elephant,,horse
+176,gpt2-medium,specific,0.30223017930984497,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,rhino,,horse
+177,gpt2-medium,specific,0.2844043970108032,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas and mice have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",gorilla,mouse,,horse
+178,gpt2-medium,specific,0.2825092375278473,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas and squirrels have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",gorilla,squirrel,,horse
+179,gpt2-medium,specific,0.27459219098091125,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas and dolphins have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",gorilla,dolphin,,horse
+180,gpt2-medium,specific,0.289556086063385,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas and seals have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",gorilla,seal,,horse
+181,gpt2-medium,specific,0.2825734615325928,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",gorilla,elephant,,horse
+182,gpt2-medium,specific,0.2843834459781647,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",gorilla,rhino,,horse
+183,gpt2-medium,specific,0.30083462595939636,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice and squirrels have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",mouse,squirrel,,horse
+184,gpt2-medium,specific,0.28806185722351074,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice and dolphins have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",mouse,dolphin,,horse
+185,gpt2-medium,specific,0.3091067969799042,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice and seals have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",mouse,seal,,horse
+186,gpt2-medium,specific,0.3019864857196808,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",mouse,elephant,,horse
+187,gpt2-medium,specific,0.31015053391456604,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",mouse,rhino,,horse
+188,gpt2-medium,specific,0.3015419840812683,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels and dolphins have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",squirrel,dolphin,,horse
+189,gpt2-medium,specific,0.32070493698120117,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels and seals have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",squirrel,seal,,horse
+190,gpt2-medium,specific,0.3086181879043579,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",squirrel,elephant,,horse
+191,gpt2-medium,specific,0.3141384720802307,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",squirrel,rhino,,horse
+192,gpt2-medium,specific,0.3133516311645508,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that dolphins and seals have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",dolphin,seal,,horse
+193,gpt2-medium,specific,0.30268409848213196,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that dolphins and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",dolphin,elephant,,horse
+194,gpt2-medium,specific,0.3145882189273834,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that dolphins and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",dolphin,rhino,,horse
+195,gpt2-medium,specific,0.3265834450721741,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that seals and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",seal,elephant,,horse
+196,gpt2-medium,specific,0.33682677149772644,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that seals and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",seal,rhino,,horse
+197,gpt2-medium,specific,0.3254016041755676,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that elephants and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",elephant,rhino,,horse
+198,gpt2-medium,general,0.30492547154426575,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, cows and mice have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,cow,mouse,all mammals
+199,gpt2-medium,general,0.2994219660758972,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, cows and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,cow,seal,all mammals
+200,gpt2-medium,general,0.302789568901062,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, cows and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,cow,rhino,all mammals
+201,gpt2-medium,general,0.2988077700138092,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, chimps and squirrels have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,chimp,squirrel,all mammals
+202,gpt2-medium,general,0.2993427515029907,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, chimps and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,chimp,seal,all mammals
+203,gpt2-medium,general,0.2887022793292999,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, gorillas and squirrels have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,gorilla,squirrel,all mammals
+204,gpt2-medium,general,0.2803761661052704,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, gorillas and dolphins have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,gorilla,dolphin,all mammals
+205,gpt2-medium,general,0.2991163730621338,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, mice and squirrels have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,mouse,squirrel,all mammals
+206,gpt2-medium,general,0.302503764629364,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, mice and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,mouse,seal,all mammals
+207,gpt2-medium,general,0.3055022358894348,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, mice and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,mouse,rhino,all mammals
+208,gpt2-medium,general,0.3030964732170105,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, squirrels and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,squirrel,seal,all mammals
+209,gpt2-medium,general,0.30099835991859436,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, squirrels and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,squirrel,elephant,all mammals
+210,gpt2-medium,general,0.2976876199245453,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, dolphins and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,dolphin,seal,all mammals
+211,gpt2-medium,general,0.2940201163291931,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, dolphins and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,dolphin,elephant,all mammals
+212,gpt2-medium,general,0.28646624088287354,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, chimps and dolphins have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,chimp,dolphin,all mammals
+213,gpt2-medium,general,0.29486334323883057,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, chimps and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,chimp,seal,all mammals
+214,gpt2-medium,general,0.29188358783721924,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, chimps and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,chimp,elephant,all mammals
+215,gpt2-medium,general,0.2958033084869385,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, mice and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,mouse,seal,all mammals
+216,gpt2-medium,general,0.2988637387752533,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, mice and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,mouse,rhino,all mammals
+217,gpt2-medium,general,0.288327157497406,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, squirrels and dolphins have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,squirrel,dolphin,all mammals
+218,gpt2-medium,general,0.3026309311389923,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, squirrels and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,squirrel,rhino,all mammals
+219,gpt2-medium,general,0.28642648458480835,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, dolphins and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,dolphin,elephant,all mammals
+220,gpt2-medium,general,0.2940288484096527,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, dolphins and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,dolphin,rhino,all mammals
+221,gpt2-medium,general,0.29786232113838196,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, seals and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,seal,elephant,all mammals
+222,gpt2-medium,general,0.2931981086730957,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, elephants and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,elephant,rhino,all mammals
+223,gpt2-medium,general,0.293063759803772,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, gorillas and squirrels have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,gorilla,squirrel,all mammals
+224,gpt2-medium,general,0.2846660912036896,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, gorillas and dolphins have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,gorilla,dolphin,all mammals
+225,gpt2-medium,general,0.2919703423976898,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, gorillas and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,gorilla,seal,all mammals
+226,gpt2-medium,general,0.29031550884246826,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, squirrels and dolphins have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,squirrel,dolphin,all mammals
+227,gpt2-medium,general,0.2960067689418793,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, squirrels and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,squirrel,elephant,all mammals
+228,gpt2-medium,general,0.3031746447086334,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, squirrels and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,squirrel,rhino,all mammals
+229,gpt2-medium,general,0.29149821400642395,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, dolphins and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,dolphin,elephant,all mammals
+230,gpt2-medium,general,0.2774064540863037,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas, mice and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",gorilla,mouse,seal,all mammals
+231,gpt2-medium,general,0.2756724953651428,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas, mice and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",gorilla,mouse,elephant,all mammals
+232,gpt2-medium,general,0.2730758488178253,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas, squirrels and dolphins have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",gorilla,squirrel,dolphin,all mammals
+233,gpt2-medium,general,0.28241878747940063,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas, seals and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",gorilla,seal,elephant,all mammals
+234,gpt2-medium,general,0.2784123420715332,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas, elephants and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",gorilla,elephant,rhino,all mammals
+235,gpt2-medium,general,0.29421496391296387,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice, squirrels and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",mouse,squirrel,seal,all mammals
+236,gpt2-medium,general,0.28912076354026794,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice, dolphins and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",mouse,dolphin,seal,all mammals
+237,gpt2-medium,general,0.2962866723537445,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice, seals and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",mouse,seal,elephant,all mammals
+238,gpt2-medium,general,0.30382537841796875,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice, seals and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",mouse,seal,rhino,all mammals
+239,gpt2-medium,general,0.29345351457595825,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice, elephants and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",mouse,elephant,rhino,all mammals
+240,gpt2-medium,general,0.2941817045211792,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels, dolphins and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",squirrel,dolphin,seal,all mammals
+241,gpt2-medium,general,0.29798439145088196,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels, dolphins and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",squirrel,dolphin,rhino,all mammals
+242,gpt2-medium,general,0.309801310300827,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels, seals and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",squirrel,seal,rhino,all mammals
+243,gpt2-large,specific,0.42269614338874817,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and chimps have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,chimp,,horse
+244,gpt2-large,specific,0.4168476462364197,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and gorillas have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,gorilla,,horse
+245,gpt2-large,specific,0.4164774715900421,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and mice have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,mouse,,horse
+246,gpt2-large,specific,0.43109819293022156,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and squirrels have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,squirrel,,horse
+247,gpt2-large,specific,0.4059257507324219,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and dolphins have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,dolphin,,horse
+248,gpt2-large,specific,0.4152415096759796,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and seals have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,seal,,horse
+249,gpt2-large,specific,0.4417308568954468,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,elephant,,horse
+250,gpt2-large,specific,0.44303321838378906,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,rhino,,horse
+251,gpt2-large,specific,0.4185325801372528,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and gorillas have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,gorilla,,horse
+252,gpt2-large,specific,0.42124220728874207,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and mice have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,mouse,,horse
+253,gpt2-large,specific,0.4331933259963989,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and squirrels have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,squirrel,,horse
+254,gpt2-large,specific,0.42077240347862244,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and dolphins have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,dolphin,,horse
+255,gpt2-large,specific,0.4237079918384552,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and seals have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,seal,,horse
+256,gpt2-large,specific,0.4400566816329956,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,elephant,,horse
+257,gpt2-large,specific,0.4357559084892273,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,rhino,,horse
+258,gpt2-large,specific,0.41874659061431885,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas and mice have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",gorilla,mouse,,horse
+259,gpt2-large,specific,0.43831729888916016,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas and squirrels have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",gorilla,squirrel,,horse
+260,gpt2-large,specific,0.42532023787498474,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas and dolphins have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",gorilla,dolphin,,horse
+261,gpt2-large,specific,0.4217607080936432,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas and seals have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",gorilla,seal,,horse
+262,gpt2-large,specific,0.44343802332878113,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",gorilla,elephant,,horse
+263,gpt2-large,specific,0.44052931666374207,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",gorilla,rhino,,horse
+264,gpt2-large,specific,0.42157459259033203,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice and squirrels have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",mouse,squirrel,,horse
+265,gpt2-large,specific,0.39615780115127563,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice and dolphins have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",mouse,dolphin,,horse
+266,gpt2-large,specific,0.40198466181755066,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice and seals have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",mouse,seal,,horse
+267,gpt2-large,specific,0.4249829053878784,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",mouse,elephant,,horse
+268,gpt2-large,specific,0.4217018485069275,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",mouse,rhino,,horse
+269,gpt2-large,specific,0.4252910017967224,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels and dolphins have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",squirrel,dolphin,,horse
+270,gpt2-large,specific,0.43069398403167725,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels and seals have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",squirrel,seal,,horse
+271,gpt2-large,specific,0.4485970139503479,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",squirrel,elephant,,horse
+272,gpt2-large,specific,0.4515906572341919,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",squirrel,rhino,,horse
+273,gpt2-large,specific,0.4022415280342102,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that dolphins and seals have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",dolphin,seal,,horse
+274,gpt2-large,specific,0.42114144563674927,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that dolphins and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",dolphin,elephant,,horse
+275,gpt2-large,specific,0.42239701747894287,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that dolphins and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",dolphin,rhino,,horse
+276,gpt2-large,specific,0.46034809947013855,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that seals and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",seal,elephant,,horse
+277,gpt2-large,specific,0.45863059163093567,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that seals and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",seal,rhino,,horse
+278,gpt2-large,specific,0.4789707660675049,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that elephants and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",elephant,rhino,,horse
+279,gpt2-large,general,0.40709546208381653,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, cows and mice have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,cow,mouse,all mammals
+280,gpt2-large,general,0.41264304518699646,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, cows and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,cow,seal,all mammals
+281,gpt2-large,general,0.42445820569992065,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, cows and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,cow,rhino,all mammals
+282,gpt2-large,general,0.4238891005516052,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, chimps and squirrels have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,chimp,squirrel,all mammals
+283,gpt2-large,general,0.41934800148010254,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, chimps and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,chimp,seal,all mammals
+284,gpt2-large,general,0.41724517941474915,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, gorillas and squirrels have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,gorilla,squirrel,all mammals
+285,gpt2-large,general,0.4045315384864807,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, gorillas and dolphins have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,gorilla,dolphin,all mammals
+286,gpt2-large,general,0.4177761971950531,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, mice and squirrels have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,mouse,squirrel,all mammals
+287,gpt2-large,general,0.40611836314201355,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, mice and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,mouse,seal,all mammals
+288,gpt2-large,general,0.41367653012275696,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, mice and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,mouse,rhino,all mammals
+289,gpt2-large,general,0.42430368065834045,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, squirrels and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,squirrel,seal,all mammals
+290,gpt2-large,general,0.44122573733329773,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, squirrels and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,squirrel,elephant,all mammals
+291,gpt2-large,general,0.3965546190738678,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, dolphins and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,dolphin,seal,all mammals
+292,gpt2-large,general,0.4177136719226837,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, dolphins and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,dolphin,elephant,all mammals
+293,gpt2-large,general,0.37913838028907776,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, chimps and dolphins have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,chimp,dolphin,all mammals
+294,gpt2-large,general,0.3844481408596039,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, chimps and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,chimp,seal,all mammals
+295,gpt2-large,general,0.3994936943054199,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, chimps and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,chimp,elephant,all mammals
+296,gpt2-large,general,0.3742164373397827,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, mice and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,mouse,seal,all mammals
+297,gpt2-large,general,0.3825293779373169,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, mice and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,mouse,rhino,all mammals
+298,gpt2-large,general,0.38573795557022095,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, squirrels and dolphins have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,squirrel,dolphin,all mammals
+299,gpt2-large,general,0.3983139991760254,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, squirrels and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,squirrel,rhino,all mammals
+300,gpt2-large,general,0.38445308804512024,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, dolphins and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,dolphin,elephant,all mammals
+301,gpt2-large,general,0.3740236163139343,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, dolphins and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,dolphin,rhino,all mammals
+302,gpt2-large,general,0.3943178057670593,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, seals and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,seal,elephant,all mammals
+303,gpt2-large,general,0.4045287072658539,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, elephants and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,elephant,rhino,all mammals
+304,gpt2-large,general,0.3950428068637848,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, gorillas and squirrels have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,gorilla,squirrel,all mammals
+305,gpt2-large,general,0.38309651613235474,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, gorillas and dolphins have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,gorilla,dolphin,all mammals
+306,gpt2-large,general,0.3921644985675812,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, gorillas and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,gorilla,seal,all mammals
+307,gpt2-large,general,0.3955244719982147,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, squirrels and dolphins have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,squirrel,dolphin,all mammals
+308,gpt2-large,general,0.41856518387794495,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, squirrels and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,squirrel,elephant,all mammals
+309,gpt2-large,general,0.4068783223628998,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, squirrels and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,squirrel,rhino,all mammals
+310,gpt2-large,general,0.4011650085449219,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, dolphins and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,dolphin,elephant,all mammals
+311,gpt2-large,general,0.3945775032043457,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas, mice and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",gorilla,mouse,seal,all mammals
+312,gpt2-large,general,0.40959295630455017,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas, mice and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",gorilla,mouse,elephant,all mammals
+313,gpt2-large,general,0.4045463800430298,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas, squirrels and dolphins have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",gorilla,squirrel,dolphin,all mammals
+314,gpt2-large,general,0.4181768298149109,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas, seals and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",gorilla,seal,elephant,all mammals
+315,gpt2-large,general,0.4157942831516266,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas, elephants and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",gorilla,elephant,rhino,all mammals
+316,gpt2-large,general,0.3872474730014801,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice, squirrels and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",mouse,squirrel,seal,all mammals
+317,gpt2-large,general,0.35651543736457825,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice, dolphins and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",mouse,dolphin,seal,all mammals
+318,gpt2-large,general,0.3914722800254822,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice, seals and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",mouse,seal,elephant,all mammals
+319,gpt2-large,general,0.373209685087204,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice, seals and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",mouse,seal,rhino,all mammals
+320,gpt2-large,general,0.3934275805950165,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice, elephants and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",mouse,elephant,rhino,all mammals
+321,gpt2-large,general,0.391745388507843,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels, dolphins and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",squirrel,dolphin,seal,all mammals
+322,gpt2-large,general,0.3980463743209839,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels, dolphins and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",squirrel,dolphin,rhino,all mammals
+323,gpt2-large,general,0.40925145149230957,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels, seals and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",squirrel,seal,rhino,all mammals
+324,gpt2-xl,specific,0.10220915079116821,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and chimps have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,chimp,,horse
+325,gpt2-xl,specific,0.08782913535833359,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and gorillas have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,gorilla,,horse
+326,gpt2-xl,specific,0.09898047149181366,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and mice have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,mouse,,horse
+327,gpt2-xl,specific,0.09958379715681076,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and squirrels have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,squirrel,,horse
+328,gpt2-xl,specific,0.1063820943236351,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and dolphins have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,dolphin,,horse
+329,gpt2-xl,specific,0.09648504108190536,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and seals have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,seal,,horse
+330,gpt2-xl,specific,0.0991424024105072,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,elephant,,horse
+331,gpt2-xl,specific,0.106841079890728,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",cow,rhino,,horse
+332,gpt2-xl,specific,0.1231207326054573,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and gorillas have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,gorilla,,horse
+333,gpt2-xl,specific,0.12473756074905396,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and mice have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,mouse,,horse
+334,gpt2-xl,specific,0.1275598406791687,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and squirrels have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,squirrel,,horse
+335,gpt2-xl,specific,0.1333635151386261,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and dolphins have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,dolphin,,horse
+336,gpt2-xl,specific,0.12657974660396576,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and seals have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,seal,,horse
+337,gpt2-xl,specific,0.12667740881443024,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,elephant,,horse
+338,gpt2-xl,specific,0.13283054530620575,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",chimp,rhino,,horse
+339,gpt2-xl,specific,0.1048484668135643,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas and mice have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",gorilla,mouse,,horse
+340,gpt2-xl,specific,0.1054154485464096,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas and squirrels have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",gorilla,squirrel,,horse
+341,gpt2-xl,specific,0.10976874828338623,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas and dolphins have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",gorilla,dolphin,,horse
+342,gpt2-xl,specific,0.09926077723503113,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas and seals have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",gorilla,seal,,horse
+343,gpt2-xl,specific,0.10552424192428589,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",gorilla,elephant,,horse
+344,gpt2-xl,specific,0.11283235251903534,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",gorilla,rhino,,horse
+345,gpt2-xl,specific,0.12020140141248703,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice and squirrels have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",mouse,squirrel,,horse
+346,gpt2-xl,specific,0.11799036711454391,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice and dolphins have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",mouse,dolphin,,horse
+347,gpt2-xl,specific,0.11633627116680145,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice and seals have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",mouse,seal,,horse
+348,gpt2-xl,specific,0.11016713082790375,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",mouse,elephant,,horse
+349,gpt2-xl,specific,0.11716333776712418,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",mouse,rhino,,horse
+350,gpt2-xl,specific,0.11563277989625931,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels and dolphins have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",squirrel,dolphin,,horse
+351,gpt2-xl,specific,0.11232728511095047,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels and seals have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",squirrel,seal,,horse
+352,gpt2-xl,specific,0.1082317978143692,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",squirrel,elephant,,horse
+353,gpt2-xl,specific,0.11368627101182938,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",squirrel,rhino,,horse
+354,gpt2-xl,specific,0.1277124285697937,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that dolphins and seals have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",dolphin,seal,,horse
+355,gpt2-xl,specific,0.12320704013109207,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that dolphins and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",dolphin,elephant,,horse
+356,gpt2-xl,specific,0.12470481544733047,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that dolphins and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",dolphin,rhino,,horse
+357,gpt2-xl,specific,0.11993691325187683,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that seals and elephants have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",seal,elephant,,horse
+358,gpt2-xl,specific,0.1290706843137741,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that seals and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",seal,rhino,,horse
+359,gpt2-xl,specific,0.11652056127786636,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that elephants and rhinos have property P. Does this mean that horses have property P? Please answer Yes or No.
+A: Yes",elephant,rhino,,horse
+360,gpt2-xl,general,0.10204556584358215,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, cows and mice have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,cow,mouse,all mammals
+361,gpt2-xl,general,0.11387652903795242,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, cows and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,cow,seal,all mammals
+362,gpt2-xl,general,0.11547205597162247,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, cows and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,cow,rhino,all mammals
+363,gpt2-xl,general,0.11453274637460709,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, chimps and squirrels have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,chimp,squirrel,all mammals
+364,gpt2-xl,general,0.11672832071781158,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, chimps and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,chimp,seal,all mammals
+365,gpt2-xl,general,0.1085890457034111,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, gorillas and squirrels have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,gorilla,squirrel,all mammals
+366,gpt2-xl,general,0.11067791283130646,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, gorillas and dolphins have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,gorilla,dolphin,all mammals
+367,gpt2-xl,general,0.10927116125822067,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, mice and squirrels have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,mouse,squirrel,all mammals
+368,gpt2-xl,general,0.11483969539403915,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, mice and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,mouse,seal,all mammals
+369,gpt2-xl,general,0.11334921419620514,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, mice and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,mouse,rhino,all mammals
+370,gpt2-xl,general,0.11307859420776367,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, squirrels and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,squirrel,seal,all mammals
+371,gpt2-xl,general,0.10504689067602158,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, squirrels and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,squirrel,elephant,all mammals
+372,gpt2-xl,general,0.11970438063144684,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, dolphins and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,dolphin,seal,all mammals
+373,gpt2-xl,general,0.11120622605085373,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that horses, dolphins and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",horse,dolphin,elephant,all mammals
+374,gpt2-xl,general,0.09299773722887039,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, chimps and dolphins have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,chimp,dolphin,all mammals
+375,gpt2-xl,general,0.09365051984786987,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, chimps and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,chimp,seal,all mammals
+376,gpt2-xl,general,0.08886901289224625,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, chimps and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,chimp,elephant,all mammals
+377,gpt2-xl,general,0.0887889564037323,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, mice and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,mouse,seal,all mammals
+378,gpt2-xl,general,0.09217117726802826,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, mice and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,mouse,rhino,all mammals
+379,gpt2-xl,general,0.08664707839488983,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, squirrels and dolphins have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,squirrel,dolphin,all mammals
+380,gpt2-xl,general,0.09206944704055786,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, squirrels and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,squirrel,rhino,all mammals
+381,gpt2-xl,general,0.08822578936815262,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, dolphins and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,dolphin,elephant,all mammals
+382,gpt2-xl,general,0.09783035516738892,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, dolphins and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,dolphin,rhino,all mammals
+383,gpt2-xl,general,0.08618186414241791,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, seals and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,seal,elephant,all mammals
+384,gpt2-xl,general,0.09501846879720688,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that cows, elephants and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",cow,elephant,rhino,all mammals
+385,gpt2-xl,general,0.1136706992983818,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, gorillas and squirrels have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,gorilla,squirrel,all mammals
+386,gpt2-xl,general,0.1191759929060936,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, gorillas and dolphins have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,gorilla,dolphin,all mammals
+387,gpt2-xl,general,0.12107444554567337,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, gorillas and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,gorilla,seal,all mammals
+388,gpt2-xl,general,0.114972323179245,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, squirrels and dolphins have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,squirrel,dolphin,all mammals
+389,gpt2-xl,general,0.10892018675804138,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, squirrels and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,squirrel,elephant,all mammals
+390,gpt2-xl,general,0.11841561645269394,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, squirrels and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,squirrel,rhino,all mammals
+391,gpt2-xl,general,0.11231948435306549,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that chimps, dolphins and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",chimp,dolphin,elephant,all mammals
+392,gpt2-xl,general,0.10412082076072693,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas, mice and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",gorilla,mouse,seal,all mammals
+393,gpt2-xl,general,0.09873506426811218,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas, mice and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",gorilla,mouse,elephant,all mammals
+394,gpt2-xl,general,0.10370983928442001,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas, squirrels and dolphins have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",gorilla,squirrel,dolphin,all mammals
+395,gpt2-xl,general,0.1016479954123497,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas, seals and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",gorilla,seal,elephant,all mammals
+396,gpt2-xl,general,0.11234544217586517,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that gorillas, elephants and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",gorilla,elephant,rhino,all mammals
+397,gpt2-xl,general,0.10594215244054794,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice, squirrels and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",mouse,squirrel,seal,all mammals
+398,gpt2-xl,general,0.1081264466047287,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice, dolphins and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",mouse,dolphin,seal,all mammals
+399,gpt2-xl,general,0.10087335109710693,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice, seals and elephants have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",mouse,seal,elephant,all mammals
+400,gpt2-xl,general,0.11320394277572632,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice, seals and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",mouse,seal,rhino,all mammals
+401,gpt2-xl,general,0.10194814205169678,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that mice, elephants and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",mouse,elephant,rhino,all mammals
+402,gpt2-xl,general,0.10596083849668503,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels, dolphins and seals have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",squirrel,dolphin,seal,all mammals
+403,gpt2-xl,general,0.10552652925252914,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels, dolphins and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",squirrel,dolphin,rhino,all mammals
+404,gpt2-xl,general,0.10865972936153412,"You are an expert on the properties that animals have, and you understand how animals share properties in common.
+Recently some animals have been discovered to have property P.
+We know that squirrels, seals and rhinos have property P. Does this mean that all mammalss have property P? Please answer Yes or No.
+A: Yes",squirrel,seal,rhino,all mammals

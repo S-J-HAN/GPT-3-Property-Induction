@@ -5,13 +5,14 @@ openai_engine = "text-davinci-001"
 
 osherson_arguments_path = "data/osherson_phenomena.csv"
 ranked_arguments_path = lambda x: f"data/{x}arguments.txt"
+dedeyne_similarities_path = lambda x: f"data/de_deyne_pairwise/pairwiseSimilarities{x}"
 
 prompt_arguments_path = lambda x: f"data/{x}_prompt_arguments.csv"
 
-figure_1_data_path = lambda x: f"figure_1_{x}_data.csv"
-figure_2a_data_path = lambda x: f"data/figure_2a_{x}_data.csv"
-figure_2bc_data_path = f"data/figure_2bc_data.csv"
-figure_3_data_path = "data/figure_3_data.csv"
+figure_1_data_path = lambda x: f"figure_data/figure_1_{x}_data.csv"
+figure_2a_data_path = lambda x: f"figure_data/figure_2a_{x}_data.csv"
+figure_2bc_data_path = f"figure_data/figure_2bc_data.csv"
+figure_3_data_path = "figure_data/figure_3_data.csv"
 
 
 

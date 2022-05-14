@@ -1,19 +1,17 @@
 from abc import ABC, abstractmethod
 from typing import List
-from PropertyGenerator import PropertyGenerator
 
 import pandas as pd
 
-from CategoryDataset import *
-from PropertyGenerator import *
-from Prompts import *
+import PropertyGenerator
+import schema
 
 
 class PromptGenerator(ABC):
 
     def __init__(
         self, 
-        property_generator: PropertyGenerator,
+        property_generator: PropertyGenerator.PropertyGenerator,
         arguments_loc: str,
         read_arguments_df: bool = True,
     ):
@@ -30,7 +28,7 @@ class PromptGenerator(ABC):
         """Generates a single prompt to be sent to the OpenAI API."""
         pass
 
-    def generate_prompts(self) -> List[Prompt]:
+    def generate_prompts(self) -> List[schema.Prompt]:
         """Generates a list of prompts to be sent to the OpenAI API."""
         prompts = []
         for _, row in self.arguments_df.iterrows():
@@ -38,7 +36,7 @@ class PromptGenerator(ABC):
             prompt_string_1 = self.generate_prompt(row["arg1_premise1"], row["arg1_premise2"], row["arg1_premise3"], row["arg1_conclusion"], property)
             prompt_string_2 = self.generate_prompt(row["arg2_premise1"], row["arg2_premise2"], row["arg2_premise3"], row["arg2_conclusion"], property)
             
-            prompt_1 = OshersonPrompt(
+            prompt_1 = schema.OshersonPrompt(
                 phenomenon_number=row["phenomenon_number"],
                 phenomenon_name=row["phenomenon_name"],
                 phenomenon_type=row["phenomenon_type"],
@@ -50,7 +48,7 @@ class PromptGenerator(ABC):
                 conclusion_category=row["arg1_conclusion"],
             )
 
-            prompt_2 = OshersonPrompt(
+            prompt_2 = schema.OshersonPrompt(
                 phenomenon_number=row["phenomenon_number"],
                 phenomenon_name=row["phenomenon_name"],
                 phenomenon_type=row["phenomenon_type"],
@@ -158,7 +156,7 @@ class PromptGenerator(ABC):
 
 class QuestionPromptGenerator(PromptGenerator):
 
-    def generate_prompt(self, premise1: str, premise2: str, premise3: str, conclusion: str, property: str) -> Prompt:
+    def generate_prompt(self, premise1: str, premise2: str, premise3: str, conclusion: str, property: str) -> schema.Prompt:
 
         if premise2 and not premise3:
             return f"Q: If {self.convert_category_to_plural(premise1)} and {self.convert_category_to_plural(premise2)} {property}, do {self.convert_category_to_plural(conclusion)} {property}? A: Yes"
@@ -195,7 +193,7 @@ class ListPromptGenerator(PromptGenerator):
 
 class SimpleInstructPromptGenerator(PromptGenerator):
 
-    def generate_prompt(self, premise1: str, premise2: str, premise3: str, conclusion: str, property: str) -> Prompt:
+    def generate_prompt(self, premise1: str, premise2: str, premise3: str, conclusion: str, property: str) -> schema.Prompt:
 
         if premise2 and not premise3:
             return f"{self.convert_category_to_plural(premise1).capitalize()} and {self.convert_category_to_plural(premise2)} {property}.\nQ: Do {self.convert_category_to_plural(conclusion)} {property}?\nA: Yes"
@@ -207,7 +205,7 @@ class SimpleInstructPromptGenerator(PromptGenerator):
 
 class InstructPromptGenerator(PromptGenerator):
 
-    def generate_prompt(self, premise1: str, premise2: str, premise3: str, conclusion: str, property: str) -> Prompt:
+    def generate_prompt(self, premise1: str, premise2: str, premise3: str, conclusion: str, property: str) -> schema.Prompt:
         
         instruction = f"You are an expert on the properties that animals have, and you understand how animals share properties in common.\nRecently some animals have been discovered to {property}.\n"
         if premise2 and not premise3:

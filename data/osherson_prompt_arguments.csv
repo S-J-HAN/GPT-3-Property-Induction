@@ -1,0 +1,12 @@
+,phenomenon_number,phenomenon_name,phenomenon_type,arg1_premise1,arg1_premise2,arg1_premise3,arg1_conclusion,arg2_premise1,arg2_premise2,arg2_premise3,arg2_conclusion
+0,1,Premise Typicality,General,robin,,,all bird,penguin,,,all bird
+1,2,Premise Diversity,General,hippopotamuse,hamster,,all mammal,hippopotamuse,rhinocerose,,all mammal
+2,3,Conclusion Specificity,General,bluejay,falcon,,all bird,bluejay,falcon,,all animal
+3,4,Premise Monotonicity,General,hawk,sparrow,eagle,all bird,sparrow,eagle,,all bird
+4,5,Premise-conclusion Similarity,Specific,robin,bluejay,,sparrow,robin,bluejay,,gees
+5,6,Premise Diversity,Specific,lion,giraffe,,rabbit,lion,tiger,,rabbit
+6,7,Premise Monotonicity,Specific,foxe,pig,wolve,gorilla,pig,wolve,,gorilla
+7,8,Premise-conclusion Asymmetry,Specific,mic,,,bat,bat,,,mic
+8,9,Nonmonotonicity-general,Mixed,crow,peacock,,all bird,crow,peacock,rabbit,all bird
+9,10,Nonmonotonicity-specific,Mixed,flie,,,bee,flie,orangutan,,bee
+10,11,Inclusion Fallacy,Specific,robin,,,all bird,robin,,,ostriche

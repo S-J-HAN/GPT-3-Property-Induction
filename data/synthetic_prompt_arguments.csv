@@ -1,0 +1,2201 @@
+,phenomenon_number,phenomenon_name,phenomenon_type,arg1_premise1,arg1_premise2,arg1_premise3,arg1_conclusion,arg2_premise1,arg2_premise2,arg2_premise3,arg2_conclusion
+0,1,Premise Typicality,General,lizard,,,reptile,blindworm,,,reptile
+1,1,Premise Typicality,General,snake,,,reptile,blindworm,,,reptile
+2,1,Premise Typicality,General,lizard,,,reptile,gecko,,,reptile
+3,1,Premise Typicality,General,snake,,,reptile,gecko,,,reptile
+4,1,Premise Typicality,General,alligator,,,reptile,blindworm,,,reptile
+5,1,Premise Typicality,General,boa,,,reptile,blindworm,,,reptile
+6,1,Premise Typicality,General,alligator,,,reptile,gecko,,,reptile
+7,1,Premise Typicality,General,swallow,,,bird,penguin,,,bird
+8,1,Premise Typicality,General,python,,,reptile,blindworm,,,reptile
+9,1,Premise Typicality,General,crocodile,,,reptile,blindworm,,,reptile
+10,1,Premise Typicality,General,woodpecker,,,bird,penguin,,,bird
+11,1,Premise Typicality,General,cuckoo,,,bird,penguin,,,bird
+12,1,Premise Typicality,General,chicken,,,bird,penguin,,,bird
+13,1,Premise Typicality,General,seagull,,,bird,penguin,,,bird
+14,1,Premise Typicality,General,crow,,,bird,penguin,,,bird
+15,1,Premise Typicality,General,cobra,,,reptile,blindworm,,,reptile
+16,1,Premise Typicality,General,iguana,,,reptile,blindworm,,,reptile
+17,1,Premise Typicality,General,blackbird,,,bird,penguin,,,bird
+18,1,Premise Typicality,General,viper,,,reptile,blindworm,,,reptile
+19,1,Premise Typicality,General,lizard,,,reptile,monitor lizard,,,reptile
+20,1,Premise Typicality,General,falcon,,,bird,penguin,,,bird
+21,1,Premise Typicality,General,fly,,,insect,worm,,,insect
+22,1,Premise Typicality,General,heron,,,bird,penguin,,,bird
+23,1,Premise Typicality,General,sparrow,,,bird,penguin,,,bird
+24,1,Premise Typicality,General,turkey,,,bird,penguin,,,bird
+25,1,Premise Typicality,General,snake,,,reptile,monitor lizard,,,reptile
+26,1,Premise Typicality,General,crocodile,,,reptile,gecko,,,reptile
+27,1,Premise Typicality,General,salamander,,,reptile,monitor lizard,,,reptile
+28,1,Premise Typicality,General,chameleon,,,reptile,blindworm,,,reptile
+29,1,Premise Typicality,General,cobra,,,reptile,gecko,,,reptile
+30,1,Premise Typicality,General,chickadee,,,bird,penguin,,,bird
+31,1,Premise Typicality,General,iguana,,,reptile,gecko,,,reptile
+32,1,Premise Typicality,General,horse,,,mammal,bat,,,mammal
+33,1,Premise Typicality,General,herring,,,fish,squid,,,fish
+34,1,Premise Typicality,General,parrot,,,bird,penguin,,,bird
+35,1,Premise Typicality,General,mosquito,,,insect,worm,,,insect
+36,1,Premise Typicality,General,alligator,,,reptile,monitor lizard,,,reptile
+37,1,Premise Typicality,General,pike,,,fish,squid,,,fish
+38,1,Premise Typicality,General,cod,,,fish,squid,,,fish
+39,1,Premise Typicality,General,peacock,,,bird,penguin,,,bird
+40,1,Premise Typicality,General,canary,,,bird,penguin,,,bird
+41,1,Premise Typicality,General,llama,,,mammal,bat,,,mammal
+42,1,Premise Typicality,General,chameleon,,,reptile,gecko,,,reptile
+43,1,Premise Typicality,General,zebra,,,mammal,bat,,,mammal
+44,1,Premise Typicality,General,boa,,,reptile,monitor lizard,,,reptile
+45,1,Premise Typicality,General,donkey,,,mammal,bat,,,mammal
+46,1,Premise Typicality,General,tiger,,,mammal,bat,,,mammal
+47,1,Premise Typicality,General,owl,,,bird,penguin,,,bird
+48,1,Premise Typicality,General,vulture,,,bird,penguin,,,bird
+49,1,Premise Typicality,General,lizard,,,reptile,toad,,,reptile
+50,1,Premise Typicality,General,fruit fly,,,insect,worm,,,insect
+51,1,Premise Typicality,General,bee,,,insect,worm,,,insect
+52,1,Premise Typicality,General,swan,,,bird,penguin,,,bird
+53,1,Premise Typicality,General,bison,,,mammal,bat,,,mammal
+54,1,Premise Typicality,General,horse,,,mammal,mouse,,,mammal
+55,1,Premise Typicality,General,eagle,,,bird,penguin,,,bird
+56,1,Premise Typicality,General,python,,,reptile,monitor lizard,,,reptile
+57,1,Premise Typicality,General,snake,,,reptile,toad,,,reptile
+58,1,Premise Typicality,General,crocodile,,,reptile,monitor lizard,,,reptile
+59,1,Premise Typicality,General,salmon,,,fish,squid,,,fish
+60,1,Premise Typicality,General,fly,,,insect,louse,,,insect
+61,1,Premise Typicality,General,wasp,,,insect,worm,,,insect
+62,1,Premise Typicality,General,trout,,,fish,piranha,,,fish
+63,1,Premise Typicality,General,cow,,,mammal,bat,,,mammal
+64,1,Premise Typicality,General,salamander,,,reptile,toad,,,reptile
+65,1,Premise Typicality,General,wolf,,,mammal,bat,,,mammal
+66,1,Premise Typicality,General,dog,,,mammal,bat,,,mammal
+67,1,Premise Typicality,General,cobra,,,reptile,monitor lizard,,,reptile
+68,1,Premise Typicality,General,iguana,,,reptile,monitor lizard,,,reptile
+69,1,Premise Typicality,General,carp,,,fish,squid,,,fish
+70,1,Premise Typicality,General,viper,,,reptile,monitor lizard,,,reptile
+71,1,Premise Typicality,General,dragonfly,,,insect,worm,,,insect
+72,1,Premise Typicality,General,fox,,,mammal,bat,,,mammal
+73,1,Premise Typicality,General,trout,,,fish,goldfish,,,fish
+74,1,Premise Typicality,General,sole,,,fish,squid,,,fish
+75,1,Premise Typicality,General,fly,,,insect,ant,,,insect
+76,1,Premise Typicality,General,lizard,,,reptile,caiman,,,reptile
+77,1,Premise Typicality,General,zebra,,,mammal,mouse,,,mammal
+78,1,Premise Typicality,General,horse,,,mammal,hedgehog,,,mammal
+79,1,Premise Typicality,General,lizard,,,reptile,turtle,,,reptile
+80,1,Premise Typicality,General,tortoise,,,reptile,blindworm,,,reptile
+81,1,Premise Typicality,General,dinosaur,,,reptile,blindworm,,,reptile
+82,1,Premise Typicality,General,bumblebee,,,insect,worm,,,insect
+83,1,Premise Typicality,General,herring,,,fish,piranha,,,fish
+84,1,Premise Typicality,General,snake,,,reptile,caiman,,,reptile
+85,1,Premise Typicality,General,beetle,,,insect,worm,,,insect
+86,1,Premise Typicality,General,donkey,,,mammal,mouse,,,mammal
+87,1,Premise Typicality,General,snake,,,reptile,turtle,,,reptile
+88,1,Premise Typicality,General,alligator,,,reptile,toad,,,reptile
+89,1,Premise Typicality,General,salamander,,,reptile,caiman,,,reptile
+90,1,Premise Typicality,General,herring,,,fish,goldfish,,,fish
+91,1,Premise Typicality,General,turtle,,,reptile,blindworm,,,reptile
+92,1,Premise Typicality,General,cod,,,fish,piranha,,,fish
+93,1,Premise Typicality,General,salamander,,,reptile,turtle,,,reptile
+94,1,Premise Typicality,General,llama,,,mammal,hedgehog,,,mammal
+95,1,Premise Typicality,General,chameleon,,,reptile,monitor lizard,,,reptile
+96,1,Premise Typicality,General,caiman,,,reptile,blindworm,,,reptile
+97,1,Premise Typicality,General,magpie,,,bird,ostrich,,,bird
+98,1,Premise Typicality,General,mosquito,,,insect,louse,,,insect
+99,1,Premise Typicality,General,cat,,,mammal,bat,,,mammal
+100,1,Premise Typicality,General,sheep,,,mammal,bat,,,mammal
+101,1,Premise Typicality,General,zebra,,,mammal,hedgehog,,,mammal
+102,1,Premise Typicality,General,lizard,,,reptile,frog,,,reptile
+103,1,Premise Typicality,General,snake,,,reptile,dinosaur,,,reptile
+104,1,Premise Typicality,General,pike,,,fish,goldfish,,,fish
+105,1,Premise Typicality,General,snake,,,reptile,tortoise,,,reptile
+106,1,Premise Typicality,General,mosquito,,,insect,spider,,,insect
+107,1,Premise Typicality,General,frog,,,reptile,gecko,,,reptile
+108,1,Premise Typicality,General,boa,,,reptile,toad,,,reptile
+109,1,Premise Typicality,General,deer,,,mammal,mouse,,,mammal
+110,1,Premise Typicality,General,llama,,,mammal,monkey,,,mammal
+111,1,Premise Typicality,General,moth,,,insect,worm,,,insect
+112,1,Premise Typicality,General,snake,,,reptile,frog,,,reptile
+113,1,Premise Typicality,General,fly,,,insect,caterpillar,,,insect
+114,1,Premise Typicality,General,salamander,,,reptile,tortoise,,,reptile
+115,1,Premise Typicality,General,donkey,,,mammal,hedgehog,,,mammal
+116,1,Premise Typicality,General,tiger,,,mammal,hedgehog,,,mammal
+117,1,Premise Typicality,General,wood louse,,,insect,worm,,,insect
+118,1,Premise Typicality,General,zebra,,,mammal,monkey,,,mammal
+119,1,Premise Typicality,General,tortoise,,,reptile,gecko,,,reptile
+120,1,Premise Typicality,General,salamander,,,reptile,frog,,,reptile
+121,1,Premise Typicality,General,whale,,,fish,squid,,,fish
+122,1,Premise Typicality,General,alligator,,,reptile,caiman,,,reptile
+123,1,Premise Typicality,General,trout,,,fish,sperm whale,,,fish
+124,1,Premise Typicality,General,donkey,,,mammal,monkey,,,mammal
+125,1,Premise Typicality,General,alligator,,,reptile,turtle,,,reptile
+126,1,Premise Typicality,General,dog,,,mammal,mouse,,,mammal
+127,1,Premise Typicality,General,lion,,,mammal,hedgehog,,,mammal
+128,1,Premise Typicality,General,herring,,,fish,swordfish,,,fish
+129,1,Premise Typicality,General,turtle,,,reptile,gecko,,,reptile
+130,1,Premise Typicality,General,fly,,,insect,cricket,,,insect
+131,1,Premise Typicality,General,fox,,,mammal,mouse,,,mammal
+132,1,Premise Typicality,General,toad,,,reptile,blindworm,,,reptile
+133,1,Premise Typicality,General,fly,,,insect,cockroach,,,insect
+134,1,Premise Typicality,General,fly,,,insect,flee,,,insect
+135,1,Premise Typicality,General,ray,,,fish,squid,,,fish
+136,1,Premise Typicality,General,caiman,,,reptile,gecko,,,reptile
+137,1,Premise Typicality,General,stickleback,,,fish,squid,,,fish
+138,1,Premise Typicality,General,fly,,,insect,leech,,,insect
+139,1,Premise Typicality,General,deer,,,mammal,hedgehog,,,mammal
+140,1,Premise Typicality,General,woodpecker,,,bird,ostrich,,,bird
+141,1,Premise Typicality,General,herring,,,fish,dolphin,,,fish
+142,1,Premise Typicality,General,bison,,,mammal,hedgehog,,,mammal
+143,1,Premise Typicality,General,ostrich,,,bird,penguin,,,bird
+144,1,Premise Typicality,General,boa,,,reptile,caiman,,,reptile
+145,1,Premise Typicality,General,lion,,,mammal,monkey,,,mammal
+146,1,Premise Typicality,General,pike,,,fish,swordfish,,,fish
+147,1,Premise Typicality,General,flatfish,,,fish,squid,,,fish
+148,1,Premise Typicality,General,alligator,,,reptile,dinosaur,,,reptile
+149,1,Premise Typicality,General,alligator,,,reptile,tortoise,,,reptile
+150,1,Premise Typicality,General,cuckoo,,,bird,ostrich,,,bird
+151,1,Premise Typicality,General,fly,,,insect,centipede,,,insect
+152,1,Premise Typicality,General,python,,,reptile,toad,,,reptile
+153,1,Premise Typicality,General,crocodile,,,reptile,toad,,,reptile
+154,1,Premise Typicality,General,cod,,,fish,swordfish,,,fish
+155,1,Premise Typicality,General,horse,,,mammal,squirrel,,,mammal
+156,1,Premise Typicality,General,earwig,,,insect,worm,,,insect
+157,1,Premise Typicality,General,chicken,,,bird,ostrich,,,bird
+158,1,Premise Typicality,General,seagull,,,bird,ostrich,,,bird
+159,1,Premise Typicality,General,rabbit,,,mammal,bat,,,mammal
+160,1,Premise Typicality,General,trout,,,fish,anchovy,,,fish
+161,1,Premise Typicality,General,salmon,,,fish,piranha,,,fish
+162,1,Premise Typicality,General,crow,,,bird,ostrich,,,bird
+163,1,Premise Typicality,General,fruit fly,,,insect,louse,,,insect
+164,1,Premise Typicality,General,pig,,,mammal,bat,,,mammal
+165,1,Premise Typicality,General,cow,,,mammal,hedgehog,,,mammal
+166,1,Premise Typicality,General,herring,,,fish,sperm whale,,,fish
+167,1,Premise Typicality,General,trout,,,fish,sardine,,,fish
+168,1,Premise Typicality,General,deer,,,mammal,monkey,,,mammal
+169,1,Premise Typicality,General,bee,,,insect,louse,,,insect
+170,1,Premise Typicality,General,trout,,,fish,eel,,,fish
+171,1,Premise Typicality,General,alligator,,,reptile,frog,,,reptile
+172,1,Premise Typicality,General,zebra,,,mammal,polar bear,,,mammal
+173,1,Premise Typicality,General,fly,,,insect,earwig,,,insect
+174,1,Premise Typicality,General,plaice,,,fish,squid,,,fish
+175,1,Premise Typicality,General,cod,,,fish,dolphin,,,fish
+176,1,Premise Typicality,General,blackbird,,,bird,ostrich,,,bird
+177,1,Premise Typicality,General,fruit fly,,,insect,spider,,,insect
+178,1,Premise Typicality,General,dog,,,mammal,hedgehog,,,mammal
+179,1,Premise Typicality,General,shark,,,fish,squid,,,fish
+180,1,Premise Typicality,General,bee,,,insect,spider,,,insect
+181,1,Premise Typicality,General,trout,,,fish,shark,,,fish
+182,1,Premise Typicality,General,cobra,,,reptile,toad,,,reptile
+183,1,Premise Typicality,General,mosquito,,,insect,caterpillar,,,insect
+184,1,Premise Typicality,General,horse,,,mammal,beaver,,,mammal
+185,1,Premise Typicality,General,ladybug,,,insect,worm,,,insect
+186,1,Premise Typicality,General,salmon,,,fish,goldfish,,,fish
+187,1,Premise Typicality,General,iguana,,,reptile,toad,,,reptile
+188,1,Premise Typicality,General,heron,,,bird,ostrich,,,bird
+189,1,Premise Typicality,General,pike,,,fish,sperm whale,,,fish
+190,1,Premise Typicality,General,boa,,,reptile,dinosaur,,,reptile
+191,1,Premise Typicality,General,carp,,,fish,piranha,,,fish
+192,1,Premise Typicality,General,llama,,,mammal,hamster,,,mammal
+193,1,Premise Typicality,General,boa,,,reptile,tortoise,,,reptile
+194,1,Premise Typicality,General,mosquito,,,insect,grasshopper,,,insect
+195,1,Premise Typicality,General,viper,,,reptile,toad,,,reptile
+196,1,Premise Typicality,General,leech,,,insect,worm,,,insect
+197,1,Premise Typicality,General,pheasant,,,bird,ostrich,,,bird
+198,1,Premise Typicality,General,cow,,,mammal,monkey,,,mammal
+199,1,Premise Typicality,General,wasp,,,insect,louse,,,insect
+200,2,Premise Diversity,General,crocodile,cobra,,reptile,crocodile,caiman,,reptile
+201,2,Premise Diversity,General,crocodile,viper,,reptile,crocodile,caiman,,reptile
+202,2,Premise Diversity,General,viper,chameleon,,reptile,viper,blindworm,,reptile
+203,2,Premise Diversity,General,snake,salamander,,reptile,snake,cobra,,reptile
+204,2,Premise Diversity,General,snake,alligator,,reptile,snake,cobra,,reptile
+205,2,Premise Diversity,General,boa,crocodile,,reptile,boa,cobra,,reptile
+206,2,Premise Diversity,General,python,crocodile,,reptile,python,cobra,,reptile
+207,2,Premise Diversity,General,lizard,snake,,reptile,lizard,salamander,,reptile
+208,2,Premise Diversity,General,salamander,boa,,reptile,salamander,chameleon,,reptile
+209,2,Premise Diversity,General,sole,whale,,fish,sole,flatfish,,fish
+210,2,Premise Diversity,General,cod,whale,,fish,cod,salmon,,fish
+211,2,Premise Diversity,General,heron,sparrow,,bird,heron,stork,,bird
+212,2,Premise Diversity,General,iguana,viper,,reptile,iguana,chameleon,,reptile
+213,2,Premise Diversity,General,alligator,boa,,reptile,alligator,crocodile,,reptile
+214,2,Premise Diversity,General,dromedary,cat,,mammal,dromedary,giraffe,,mammal
+215,2,Premise Diversity,General,shark,anchovy,,fish,shark,dolphin,,fish
+216,2,Premise Diversity,General,carp,whale,,fish,carp,stickleback,,fish
+217,2,Premise Diversity,General,bumblebee,beetle,,insect,bumblebee,horsefly,,insect
+218,2,Premise Diversity,General,salamander,viper,,reptile,salamander,chameleon,,reptile
+219,2,Premise Diversity,General,sole,orca,,fish,sole,flatfish,,fish
+220,2,Premise Diversity,General,shark,sardine,,fish,shark,dolphin,,fish
+221,2,Premise Diversity,General,alligator,python,,reptile,alligator,crocodile,,reptile
+222,2,Premise Diversity,General,alligator,cobra,,reptile,alligator,crocodile,,reptile
+223,2,Premise Diversity,General,viper,dinosaur,,reptile,viper,blindworm,,reptile
+224,2,Premise Diversity,General,robin,stork,,bird,robin,canary,,bird
+225,2,Premise Diversity,General,cod,orca,,fish,cod,salmon,,fish
+226,2,Premise Diversity,General,cobra,iguana,,reptile,cobra,viper,,reptile
+227,2,Premise Diversity,General,carp,orca,,fish,carp,stickleback,,fish
+228,2,Premise Diversity,General,herring,orca,,fish,herring,cod,,fish
+229,2,Premise Diversity,General,blackbird,turkey,,bird,blackbird,sparrow,,bird
+230,2,Premise Diversity,General,flatfish,orca,,fish,flatfish,plaice,,fish
+231,2,Premise Diversity,General,lizard,boa,,reptile,lizard,salamander,,reptile
+232,2,Premise Diversity,General,python,iguana,,reptile,python,cobra,,reptile
+233,2,Premise Diversity,General,salamander,python,,reptile,salamander,chameleon,,reptile
+234,2,Premise Diversity,General,kangaroo,hamster,,mammal,kangaroo,monkey,,mammal
+235,2,Premise Diversity,General,hippopotamus,cat,,mammal,hippopotamus,rhinoceros,,mammal
+236,2,Premise Diversity,General,anchovy,sperm whale,,fish,anchovy,goldfish,,fish
+237,2,Premise Diversity,General,snake,crocodile,,reptile,snake,cobra,,reptile
+238,2,Premise Diversity,General,trout,orca,,fish,trout,herring,,fish
+239,2,Premise Diversity,General,giraffe,rabbit,,mammal,giraffe,kangaroo,,mammal
+240,2,Premise Diversity,General,falcon,turkey,,bird,falcon,eagle,,bird
+241,2,Premise Diversity,General,python,chameleon,,reptile,python,cobra,,reptile
+242,2,Premise Diversity,General,heron,parakeet,,bird,heron,stork,,bird
+243,2,Premise Diversity,General,chickadee,duck,,bird,chickadee,robin,,bird
+244,2,Premise Diversity,General,rhinoceros,rabbit,,mammal,rhinoceros,elephant,,mammal
+245,2,Premise Diversity,General,chicken,sparrow,,bird,chicken,rooster,,bird
+246,2,Premise Diversity,General,robin,pelican,,bird,robin,canary,,bird
+247,2,Premise Diversity,General,robin,peacock,,bird,robin,canary,,bird
+248,2,Premise Diversity,General,boa,chameleon,,reptile,boa,cobra,,reptile
+249,2,Premise Diversity,General,giraffe,hamster,,mammal,giraffe,kangaroo,,mammal
+250,2,Premise Diversity,General,dinosaur,turtle,,reptile,dinosaur,monitor lizard,,reptile
+251,2,Premise Diversity,General,orca,plaice,,fish,orca,shark,,fish
+252,2,Premise Diversity,General,chickadee,stork,,bird,chickadee,robin,,bird
+253,2,Premise Diversity,General,herring,whale,,fish,herring,cod,,fish
+254,2,Premise Diversity,General,ray,orca,,fish,ray,plaice,,fish
+255,2,Premise Diversity,General,turkey,chickadee,,bird,turkey,duck,,bird
+256,2,Premise Diversity,General,boa,iguana,,reptile,boa,cobra,,reptile
+257,2,Premise Diversity,General,hippopotamus,hamster,,mammal,hippopotamus,rhinoceros,,mammal
+258,2,Premise Diversity,General,whale,ray,,fish,whale,orca,,fish
+259,2,Premise Diversity,General,heron,robin,,bird,heron,stork,,bird
+260,2,Premise Diversity,General,alligator,viper,,reptile,alligator,crocodile,,reptile
+261,2,Premise Diversity,General,chickadee,swan,,bird,chickadee,robin,,bird
+262,2,Premise Diversity,General,heron,chickadee,,bird,heron,stork,,bird
+263,2,Premise Diversity,General,dromedary,hamster,,mammal,dromedary,giraffe,,mammal
+264,2,Premise Diversity,General,heron,canary,,bird,heron,stork,,bird
+265,2,Premise Diversity,General,chickadee,pelican,,bird,chickadee,robin,,bird
+266,2,Premise Diversity,General,trout,whale,,fish,trout,herring,,fish
+267,2,Premise Diversity,General,salmon,whale,,fish,salmon,carp,,fish
+268,2,Premise Diversity,General,robin,rooster,,bird,robin,canary,,bird
+269,2,Premise Diversity,General,robin,swan,,bird,robin,canary,,bird
+270,2,Premise Diversity,General,chicken,blackbird,,bird,chicken,rooster,,bird
+271,2,Premise Diversity,General,viper,caiman,,reptile,viper,blindworm,,reptile
+272,2,Premise Diversity,General,orca,sardine,,fish,orca,shark,,fish
+273,2,Premise Diversity,General,anchovy,dolphin,,fish,anchovy,goldfish,,fish
+274,2,Premise Diversity,General,chickadee,peacock,,bird,chickadee,robin,,bird
+275,2,Premise Diversity,General,turkey,robin,,bird,turkey,duck,,bird
+276,2,Premise Diversity,General,salmon,orca,,fish,salmon,carp,,fish
+277,2,Premise Diversity,General,sparrow,duck,,bird,sparrow,robin,,bird
+278,2,Premise Diversity,General,viper,tortoise,,reptile,viper,blindworm,,reptile
+279,2,Premise Diversity,General,cow,cat,,mammal,cow,hippopotamus,,mammal
+280,2,Premise Diversity,General,robin,vulture,,bird,robin,canary,,bird
+281,2,Premise Diversity,General,whale,flatfish,,fish,whale,orca,,fish
+282,2,Premise Diversity,General,wasp,beetle,,insect,wasp,bumblebee,,insect
+283,2,Premise Diversity,General,elephant,hamster,,mammal,elephant,giraffe,,mammal
+284,2,Premise Diversity,General,sparrow,stork,,bird,sparrow,robin,,bird
+285,2,Premise Diversity,General,whale,plaice,,fish,whale,orca,,fish
+286,2,Premise Diversity,General,snake,chameleon,,reptile,snake,cobra,,reptile
+287,2,Premise Diversity,General,bumblebee,centipede,,insect,bumblebee,horsefly,,insect
+288,2,Premise Diversity,General,shark,eel,,fish,shark,dolphin,,fish
+289,2,Premise Diversity,General,lizard,viper,,reptile,lizard,salamander,,reptile
+290,2,Premise Diversity,General,bumblebee,wood louse,,insect,bumblebee,horsefly,,insect
+291,2,Premise Diversity,General,viper,frog,,reptile,viper,blindworm,,reptile
+292,2,Premise Diversity,General,sparrow,pelican,,bird,sparrow,robin,,bird
+293,2,Premise Diversity,General,chickadee,rooster,,bird,chickadee,robin,,bird
+294,2,Premise Diversity,General,whale,anchovy,,fish,whale,orca,,fish
+295,2,Premise Diversity,General,chickadee,vulture,,bird,chickadee,robin,,bird
+296,2,Premise Diversity,General,robin,eagle,,bird,robin,canary,,bird
+297,2,Premise Diversity,General,rhinoceros,squirrel,,mammal,rhinoceros,elephant,,mammal
+298,2,Premise Diversity,General,falcon,parakeet,,bird,falcon,eagle,,bird
+299,2,Premise Diversity,General,ray,shark,,fish,ray,plaice,,fish
+300,2,Premise Diversity,General,parakeet,duck,,bird,parakeet,canary,,bird
+301,2,Premise Diversity,General,lizard,python,,reptile,lizard,salamander,,reptile
+302,2,Premise Diversity,General,hamster,polar bear,,mammal,hamster,mouse,,mammal
+303,2,Premise Diversity,General,chickadee,eagle,,bird,chickadee,robin,,bird
+304,2,Premise Diversity,General,orca,anchovy,,fish,orca,shark,,fish
+305,2,Premise Diversity,General,kangaroo,squirrel,,mammal,kangaroo,monkey,,mammal
+306,2,Premise Diversity,General,parakeet,pelican,,bird,parakeet,canary,,bird
+307,2,Premise Diversity,General,chicken,heron,,bird,chicken,rooster,,bird
+308,2,Premise Diversity,General,cat,rhinoceros,,mammal,cat,rabbit,,mammal
+309,2,Premise Diversity,General,viper,turtle,,reptile,viper,blindworm,,reptile
+310,2,Premise Diversity,General,parakeet,stork,,bird,parakeet,canary,,bird
+311,2,Premise Diversity,General,chicken,chickadee,,bird,chicken,rooster,,bird
+312,2,Premise Diversity,General,cuckoo,turkey,,bird,cuckoo,owl,,bird
+313,2,Premise Diversity,General,swallow,turkey,,bird,swallow,seagull,,bird
+314,2,Premise Diversity,General,sparrow,swan,,bird,sparrow,robin,,bird
+315,2,Premise Diversity,General,turkey,canary,,bird,turkey,duck,,bird
+316,2,Premise Diversity,General,lizard,cobra,,reptile,lizard,salamander,,reptile
+317,2,Premise Diversity,General,elephant,rabbit,,mammal,elephant,giraffe,,mammal
+318,2,Premise Diversity,General,whale,eel,,fish,whale,orca,,fish
+319,2,Premise Diversity,General,dinosaur,toad,,reptile,dinosaur,monitor lizard,,reptile
+320,2,Premise Diversity,General,dromedary,squirrel,,mammal,dromedary,giraffe,,mammal
+321,2,Premise Diversity,General,falcon,chickadee,,bird,falcon,eagle,,bird
+322,2,Premise Diversity,General,cobra,chameleon,,reptile,cobra,viper,,reptile
+323,2,Premise Diversity,General,sole,shark,,fish,sole,flatfish,,fish
+324,2,Premise Diversity,General,salamander,alligator,,reptile,salamander,chameleon,,reptile
+325,2,Premise Diversity,General,dromedary,rabbit,,mammal,dromedary,giraffe,,mammal
+326,2,Premise Diversity,General,centipede,horsefly,,insect,centipede,caterpillar,,insect
+327,2,Premise Diversity,General,snake,iguana,,reptile,snake,cobra,,reptile
+328,2,Premise Diversity,General,beetle,moth,,insect,beetle,cockchafer,,insect
+329,2,Premise Diversity,General,giraffe,squirrel,,mammal,giraffe,kangaroo,,mammal
+330,2,Premise Diversity,General,carp,sperm whale,,fish,carp,stickleback,,fish
+331,2,Premise Diversity,General,chicken,crow,,bird,chicken,rooster,,bird
+332,2,Premise Diversity,General,turkey,parakeet,,bird,turkey,duck,,bird
+333,2,Premise Diversity,General,whale,sardine,,fish,whale,orca,,fish
+334,2,Premise Diversity,General,blackbird,pheasant,,bird,blackbird,sparrow,,bird
+335,2,Premise Diversity,General,orca,eel,,fish,orca,shark,,fish
+336,2,Premise Diversity,General,sole,sperm whale,,fish,sole,flatfish,,fish
+337,2,Premise Diversity,General,fruit fly,beetle,,insect,fruit fly,flee,,insect
+338,2,Premise Diversity,General,blackbird,heron,,bird,blackbird,sparrow,,bird
+339,2,Premise Diversity,General,pike,whale,,fish,pike,carp,,fish
+340,2,Premise Diversity,General,falcon,duck,,bird,falcon,eagle,,bird
+341,2,Premise Diversity,General,chameleon,frog,,reptile,chameleon,gecko,,reptile
+342,2,Premise Diversity,General,bumblebee,earwig,,insect,bumblebee,horsefly,,insect
+343,2,Premise Diversity,General,parakeet,swan,,bird,parakeet,canary,,bird
+344,2,Premise Diversity,General,chameleon,tortoise,,reptile,chameleon,gecko,,reptile
+345,2,Premise Diversity,General,caiman,toad,,reptile,caiman,monitor lizard,,reptile
+346,2,Premise Diversity,General,hippopotamus,squirrel,,mammal,hippopotamus,rhinoceros,,mammal
+347,2,Premise Diversity,General,whale,stickleback,,fish,whale,orca,,fish
+348,2,Premise Diversity,General,llama,cat,,mammal,llama,dromedary,,mammal
+349,2,Premise Diversity,General,viper,toad,,reptile,viper,blindworm,,reptile
+350,2,Premise Diversity,General,stickleback,orca,,fish,stickleback,anchovy,,fish
+351,2,Premise Diversity,General,blackbird,duck,,bird,blackbird,sparrow,,bird
+352,2,Premise Diversity,General,flatfish,shark,,fish,flatfish,plaice,,fish
+353,2,Premise Diversity,General,earwig,horsefly,,insect,earwig,centipede,,insect
+354,2,Premise Diversity,General,sparrow,rooster,,bird,sparrow,robin,,bird
+355,2,Premise Diversity,General,falcon,robin,,bird,falcon,eagle,,bird
+356,2,Premise Diversity,General,pike,orca,,fish,pike,carp,,fish
+357,2,Premise Diversity,General,sparrow,vulture,,bird,sparrow,robin,,bird
+358,2,Premise Diversity,General,mosquito,beetle,,insect,mosquito,dragonfly,,insect
+359,2,Premise Diversity,General,parakeet,vulture,,bird,parakeet,canary,,bird
+360,2,Premise Diversity,General,bison,cat,,mammal,bison,cow,,mammal
+361,2,Premise Diversity,General,cod,sperm whale,,fish,cod,salmon,,fish
+362,2,Premise Diversity,General,dragonfly,beetle,,insect,dragonfly,butterfly,,insect
+363,2,Premise Diversity,General,bee,earwig,,insect,bee,wasp,,insect
+364,2,Premise Diversity,General,moth,wood louse,,insect,moth,butterfly,,insect
+365,2,Premise Diversity,General,bison,hamster,,mammal,bison,cow,,mammal
+366,2,Premise Diversity,General,heron,turkey,,bird,heron,stork,,bird
+367,2,Premise Diversity,General,canary,stork,,bird,canary,owl,,bird
+368,2,Premise Diversity,General,duck,robin,,bird,duck,swan,,bird
+369,2,Premise Diversity,General,salamander,crocodile,,reptile,salamander,chameleon,,reptile
+370,2,Premise Diversity,General,chicken,robin,,bird,chicken,rooster,,bird
+371,2,Premise Diversity,General,pheasant,parakeet,,bird,pheasant,turkey,,bird
+372,2,Premise Diversity,General,sardine,sperm whale,,fish,sardine,anchovy,,fish
+373,2,Premise Diversity,General,horse,hamster,,mammal,horse,donkey,,mammal
+374,2,Premise Diversity,General,pheasant,robin,,bird,pheasant,turkey,,bird
+375,2,Premise Diversity,General,sparrow,eagle,,bird,sparrow,robin,,bird
+376,2,Premise Diversity,General,parakeet,eagle,,bird,parakeet,canary,,bird
+377,2,Premise Diversity,General,wasp,earwig,,insect,wasp,bumblebee,,insect
+378,2,Premise Diversity,General,ray,sperm whale,,fish,ray,plaice,,fish
+379,2,Premise Diversity,General,monitor lizard,blindworm,,reptile,monitor lizard,gecko,,reptile
+380,2,Premise Diversity,General,duck,canary,,bird,duck,swan,,bird
+381,2,Premise Diversity,General,cat,elephant,,mammal,cat,rabbit,,mammal
+382,2,Premise Diversity,General,wasp,centipede,,insect,wasp,bumblebee,,insect
+383,2,Premise Diversity,General,wood louse,butterfly,,insect,wood louse,earwig,,insect
+384,2,Premise Diversity,General,woodpecker,chicken,,bird,woodpecker,crow,,bird
+385,2,Premise Diversity,General,dog,hippopotamus,,mammal,dog,fox,,mammal
+386,2,Premise Diversity,General,falcon,canary,,bird,falcon,eagle,,bird
+387,2,Premise Diversity,General,peacock,canary,,bird,peacock,swan,,bird
+388,2,Premise Diversity,General,llama,rabbit,,mammal,llama,dromedary,,mammal
+389,2,Premise Diversity,General,blackbird,stork,,bird,blackbird,sparrow,,bird
+390,2,Premise Diversity,General,sheep,hamster,,mammal,sheep,pig,,mammal
+391,2,Premise Diversity,General,heron,duck,,bird,heron,stork,,bird
+392,2,Premise Diversity,General,anchovy,swordfish,,fish,anchovy,goldfish,,fish
+393,2,Premise Diversity,General,beetle,butterfly,,insect,beetle,cockchafer,,insect
+394,2,Premise Diversity,General,sheep,rhinoceros,,mammal,sheep,pig,,mammal
+395,2,Premise Diversity,General,rhinoceros,beaver,,mammal,rhinoceros,elephant,,mammal
+396,2,Premise Diversity,General,carp,dolphin,,fish,carp,stickleback,,fish
+397,2,Premise Diversity,General,rooster,canary,,bird,rooster,peacock,,bird
+398,2,Premise Diversity,General,bee,wood louse,,insect,bee,wasp,,insect
+399,2,Premise Diversity,General,blackbird,pelican,,bird,blackbird,sparrow,,bird
+400,3,Conclusion Specificity,General,chickadee,swan,,bird,chickadee,swan,,animal
+401,3,Conclusion Specificity,General,owl,peacock,,bird,owl,peacock,,animal
+402,3,Conclusion Specificity,General,bee,louse,,insect,bee,louse,,animal
+403,3,Conclusion Specificity,General,carp,plaice,,fish,carp,plaice,,animal
+404,3,Conclusion Specificity,General,cod,ray,,fish,cod,ray,,animal
+405,3,Conclusion Specificity,General,plaice,shark,,fish,plaice,shark,,animal
+406,3,Conclusion Specificity,General,spider,moth,,insect,spider,moth,,animal
+407,3,Conclusion Specificity,General,caterpillar,butterfly,,insect,caterpillar,butterfly,,animal
+408,3,Conclusion Specificity,General,worm,ladybug,,insect,worm,ladybug,,animal
+409,3,Conclusion Specificity,General,python,crocodile,,reptile,python,crocodile,,animal
+410,3,Conclusion Specificity,General,frog,python,,reptile,frog,python,,animal
+411,3,Conclusion Specificity,General,cuckoo,stork,,bird,cuckoo,stork,,animal
+412,3,Conclusion Specificity,General,llama,dog,,mammal,llama,dog,,animal
+413,3,Conclusion Specificity,General,caterpillar,grasshopper,,insect,caterpillar,grasshopper,,animal
+414,3,Conclusion Specificity,General,sardine,sole,,fish,sardine,sole,,animal
+415,3,Conclusion Specificity,General,fruit fly,caterpillar,,insect,fruit fly,caterpillar,,animal
+416,3,Conclusion Specificity,General,fox,donkey,,mammal,fox,donkey,,animal
+417,3,Conclusion Specificity,General,tortoise,dinosaur,,reptile,tortoise,dinosaur,,animal
+418,3,Conclusion Specificity,General,flatfish,ray,,fish,flatfish,ray,,animal
+419,3,Conclusion Specificity,General,carp,herring,,fish,carp,herring,,animal
+420,3,Conclusion Specificity,General,python,cobra,,reptile,python,cobra,,animal
+421,3,Conclusion Specificity,General,cobra,dinosaur,,reptile,cobra,dinosaur,,animal
+422,3,Conclusion Specificity,General,chickadee,seagull,,bird,chickadee,seagull,,animal
+423,3,Conclusion Specificity,General,spider,leech,,insect,spider,leech,,animal
+424,3,Conclusion Specificity,General,cow,tiger,,mammal,cow,tiger,,animal
+425,3,Conclusion Specificity,General,trout,plaice,,fish,trout,plaice,,animal
+426,3,Conclusion Specificity,General,chameleon,lizard,,reptile,chameleon,lizard,,animal
+427,3,Conclusion Specificity,General,vulture,peacock,,bird,vulture,peacock,,animal
+428,3,Conclusion Specificity,General,sardine,ray,,fish,sardine,ray,,animal
+429,3,Conclusion Specificity,General,wolf,deer,,mammal,wolf,deer,,animal
+430,3,Conclusion Specificity,General,cobra,boa,,reptile,cobra,boa,,animal
+431,3,Conclusion Specificity,General,cobra,iguana,,reptile,cobra,iguana,,animal
+432,3,Conclusion Specificity,General,bumblebee,fly,,insect,bumblebee,fly,,animal
+433,3,Conclusion Specificity,General,caiman,cobra,,reptile,caiman,cobra,,animal
+434,3,Conclusion Specificity,General,snake,tortoise,,reptile,snake,tortoise,,animal
+435,3,Conclusion Specificity,General,cricket,flee,,insect,cricket,flee,,animal
+436,3,Conclusion Specificity,General,caterpillar,horsefly,,insect,caterpillar,horsefly,,animal
+437,3,Conclusion Specificity,General,moth,flee,,insect,moth,flee,,animal
+438,3,Conclusion Specificity,General,toad,monitor lizard,,reptile,toad,monitor lizard,,animal
+439,3,Conclusion Specificity,General,dog,wolf,,mammal,dog,wolf,,animal
+440,3,Conclusion Specificity,General,turtle,python,,reptile,turtle,python,,animal
+441,3,Conclusion Specificity,General,ray,orca,,fish,ray,orca,,animal
+442,3,Conclusion Specificity,General,ray,carp,,fish,ray,carp,,animal
+443,3,Conclusion Specificity,General,wasp,ant,,insect,wasp,ant,,animal
+444,3,Conclusion Specificity,General,swordfish,goldfish,,fish,swordfish,goldfish,,animal
+445,3,Conclusion Specificity,General,beetle,fly,,insect,beetle,fly,,animal
+446,3,Conclusion Specificity,General,hedgehog,monkey,,mammal,hedgehog,monkey,,animal
+447,3,Conclusion Specificity,General,ant,cockchafer,,insect,ant,cockchafer,,animal
+448,3,Conclusion Specificity,General,kangaroo,bison,,mammal,kangaroo,bison,,animal
+449,3,Conclusion Specificity,General,fruit fly,beetle,,insect,fruit fly,beetle,,animal
+450,3,Conclusion Specificity,General,parrot,parakeet,,bird,parrot,parakeet,,animal
+451,3,Conclusion Specificity,General,snake,cobra,,reptile,snake,cobra,,animal
+452,3,Conclusion Specificity,General,lizard,chameleon,,reptile,lizard,chameleon,,animal
+453,3,Conclusion Specificity,General,lion,dromedary,,mammal,lion,dromedary,,animal
+454,3,Conclusion Specificity,General,dinosaur,boa,,reptile,dinosaur,boa,,animal
+455,3,Conclusion Specificity,General,cockchafer,butterfly,,insect,cockchafer,butterfly,,animal
+456,3,Conclusion Specificity,General,cobra,caiman,,reptile,cobra,caiman,,animal
+457,3,Conclusion Specificity,General,leech,horsefly,,insect,leech,horsefly,,animal
+458,3,Conclusion Specificity,General,dolphin,flatfish,,fish,dolphin,flatfish,,animal
+459,3,Conclusion Specificity,General,duck,cuckoo,,bird,duck,cuckoo,,animal
+460,3,Conclusion Specificity,General,parakeet,swallow,,bird,parakeet,swallow,,animal
+461,3,Conclusion Specificity,General,bison,llama,,mammal,bison,llama,,animal
+462,3,Conclusion Specificity,General,tortoise,lizard,,reptile,tortoise,lizard,,animal
+463,3,Conclusion Specificity,General,owl,swallow,,bird,owl,swallow,,animal
+464,3,Conclusion Specificity,General,eagle,crow,,bird,eagle,crow,,animal
+465,3,Conclusion Specificity,General,python,tortoise,,reptile,python,tortoise,,animal
+466,3,Conclusion Specificity,General,lion,zebra,,mammal,lion,zebra,,animal
+467,3,Conclusion Specificity,General,anchovy,carp,,fish,anchovy,carp,,animal
+468,3,Conclusion Specificity,General,trout,anchovy,,fish,trout,anchovy,,animal
+469,3,Conclusion Specificity,General,dolphin,sperm whale,,fish,dolphin,sperm whale,,animal
+470,3,Conclusion Specificity,General,blindworm,chameleon,,reptile,blindworm,chameleon,,animal
+471,3,Conclusion Specificity,General,louse,dragonfly,,insect,louse,dragonfly,,animal
+472,3,Conclusion Specificity,General,duck,falcon,,bird,duck,falcon,,animal
+473,3,Conclusion Specificity,General,goldfish,plaice,,fish,goldfish,plaice,,animal
+474,3,Conclusion Specificity,General,pheasant,woodpecker,,bird,pheasant,woodpecker,,animal
+475,3,Conclusion Specificity,General,iguana,cobra,,reptile,iguana,cobra,,animal
+476,3,Conclusion Specificity,General,beetle,wasp,,insect,beetle,wasp,,animal
+477,3,Conclusion Specificity,General,monkey,wolf,,mammal,monkey,wolf,,animal
+478,3,Conclusion Specificity,General,viper,frog,,reptile,viper,frog,,animal
+479,3,Conclusion Specificity,General,owl,parrot,,bird,owl,parrot,,animal
+480,3,Conclusion Specificity,General,mosquito,wasp,,insect,mosquito,wasp,,animal
+481,3,Conclusion Specificity,General,anchovy,sole,,fish,anchovy,sole,,animal
+482,3,Conclusion Specificity,General,whale,plaice,,fish,whale,plaice,,animal
+483,3,Conclusion Specificity,General,rooster,blackbird,,bird,rooster,blackbird,,animal
+484,3,Conclusion Specificity,General,butterfly,leech,,insect,butterfly,leech,,animal
+485,3,Conclusion Specificity,General,moth,wood louse,,insect,moth,wood louse,,animal
+486,3,Conclusion Specificity,General,parrot,heron,,bird,parrot,heron,,animal
+487,3,Conclusion Specificity,General,dove,robin,,bird,dove,robin,,animal
+488,3,Conclusion Specificity,General,moth,horsefly,,insect,moth,horsefly,,animal
+489,3,Conclusion Specificity,General,iguana,blindworm,,reptile,iguana,blindworm,,animal
+490,3,Conclusion Specificity,General,blackbird,canary,,bird,blackbird,canary,,animal
+491,3,Conclusion Specificity,General,bumblebee,wasp,,insect,bumblebee,wasp,,animal
+492,3,Conclusion Specificity,General,heron,rooster,,bird,heron,rooster,,animal
+493,3,Conclusion Specificity,General,cockroach,earwig,,insect,cockroach,earwig,,animal
+494,3,Conclusion Specificity,General,caterpillar,fly,,insect,caterpillar,fly,,animal
+495,3,Conclusion Specificity,General,bison,cat,,mammal,bison,cat,,animal
+496,3,Conclusion Specificity,General,parrot,crow,,bird,parrot,crow,,animal
+497,3,Conclusion Specificity,General,frog,caiman,,reptile,frog,caiman,,animal
+498,3,Conclusion Specificity,General,dragonfly,wood louse,,insect,dragonfly,wood louse,,animal
+499,3,Conclusion Specificity,General,dolphin,pike,,fish,dolphin,pike,,animal
+500,3,Conclusion Specificity,General,mosquito,horsefly,,insect,mosquito,horsefly,,animal
+501,3,Conclusion Specificity,General,moth,ant,,insect,moth,ant,,animal
+502,3,Conclusion Specificity,General,goldfish,cod,,fish,goldfish,cod,,animal
+503,3,Conclusion Specificity,General,iguana,chameleon,,reptile,iguana,chameleon,,animal
+504,3,Conclusion Specificity,General,dove,parrot,,bird,dove,parrot,,animal
+505,3,Conclusion Specificity,General,caiman,alligator,,reptile,caiman,alligator,,animal
+506,3,Conclusion Specificity,General,robin,falcon,,bird,robin,falcon,,animal
+507,3,Conclusion Specificity,General,bat,cow,,mammal,bat,cow,,animal
+508,3,Conclusion Specificity,General,flatfish,sperm whale,,fish,flatfish,sperm whale,,animal
+509,3,Conclusion Specificity,General,caiman,salamander,,reptile,caiman,salamander,,animal
+510,3,Conclusion Specificity,General,horse,dog,,mammal,horse,dog,,animal
+511,3,Conclusion Specificity,General,pheasant,seagull,,bird,pheasant,seagull,,animal
+512,3,Conclusion Specificity,General,worm,ant,,insect,worm,ant,,animal
+513,3,Conclusion Specificity,General,sperm whale,ray,,fish,sperm whale,ray,,animal
+514,3,Conclusion Specificity,General,swordfish,herring,,fish,swordfish,herring,,animal
+515,3,Conclusion Specificity,General,bat,tiger,,mammal,bat,tiger,,animal
+516,3,Conclusion Specificity,General,cockchafer,horsefly,,insect,cockchafer,horsefly,,animal
+517,3,Conclusion Specificity,General,anchovy,ray,,fish,anchovy,ray,,animal
+518,3,Conclusion Specificity,General,dinosaur,viper,,reptile,dinosaur,viper,,animal
+519,3,Conclusion Specificity,General,squirrel,zebra,,mammal,squirrel,zebra,,animal
+520,3,Conclusion Specificity,General,tiger,polar bear,,mammal,tiger,polar bear,,animal
+521,3,Conclusion Specificity,General,alligator,blindworm,,reptile,alligator,blindworm,,animal
+522,3,Conclusion Specificity,General,swan,seagull,,bird,swan,seagull,,animal
+523,3,Conclusion Specificity,General,bison,beaver,,mammal,bison,beaver,,animal
+524,3,Conclusion Specificity,General,hamster,kangaroo,,mammal,hamster,kangaroo,,animal
+525,3,Conclusion Specificity,General,leech,caterpillar,,insect,leech,caterpillar,,animal
+526,3,Conclusion Specificity,General,zebra,hamster,,mammal,zebra,hamster,,animal
+527,3,Conclusion Specificity,General,dragonfly,horsefly,,insect,dragonfly,horsefly,,animal
+528,3,Conclusion Specificity,General,dragonfly,cockchafer,,insect,dragonfly,cockchafer,,animal
+529,3,Conclusion Specificity,General,dragonfly,worm,,insect,dragonfly,worm,,animal
+530,3,Conclusion Specificity,General,cobra,toad,,reptile,cobra,toad,,animal
+531,3,Conclusion Specificity,General,cod,eel,,fish,cod,eel,,animal
+532,3,Conclusion Specificity,General,grasshopper,moth,,insect,grasshopper,moth,,animal
+533,3,Conclusion Specificity,General,boa,iguana,,reptile,boa,iguana,,animal
+534,3,Conclusion Specificity,General,fly,grasshopper,,insect,fly,grasshopper,,animal
+535,3,Conclusion Specificity,General,rooster,parakeet,,bird,rooster,parakeet,,animal
+536,3,Conclusion Specificity,General,ostrich,crow,,bird,ostrich,crow,,animal
+537,3,Conclusion Specificity,General,earwig,grasshopper,,insect,earwig,grasshopper,,animal
+538,3,Conclusion Specificity,General,trout,piranha,,fish,trout,piranha,,animal
+539,3,Conclusion Specificity,General,swordfish,ray,,fish,swordfish,ray,,animal
+540,3,Conclusion Specificity,General,monkey,bison,,mammal,monkey,bison,,animal
+541,3,Conclusion Specificity,General,earwig,bee,,insect,earwig,bee,,animal
+542,3,Conclusion Specificity,General,spider,beetle,,insect,spider,beetle,,animal
+543,3,Conclusion Specificity,General,stickleback,plaice,,fish,stickleback,plaice,,animal
+544,3,Conclusion Specificity,General,worm,wasp,,insect,worm,wasp,,animal
+545,3,Conclusion Specificity,General,gecko,lizard,,reptile,gecko,lizard,,animal
+546,3,Conclusion Specificity,General,hamster,elephant,,mammal,hamster,elephant,,animal
+547,3,Conclusion Specificity,General,peacock,owl,,bird,peacock,owl,,animal
+548,3,Conclusion Specificity,General,alligator,tortoise,,reptile,alligator,tortoise,,animal
+549,3,Conclusion Specificity,General,cuckoo,crow,,bird,cuckoo,crow,,animal
+550,3,Conclusion Specificity,General,goldfish,whale,,fish,goldfish,whale,,animal
+551,3,Conclusion Specificity,General,bison,squirrel,,mammal,bison,squirrel,,animal
+552,3,Conclusion Specificity,General,hedgehog,polar bear,,mammal,hedgehog,polar bear,,animal
+553,3,Conclusion Specificity,General,snake,crocodile,,reptile,snake,crocodile,,animal
+554,3,Conclusion Specificity,General,alligator,python,,reptile,alligator,python,,animal
+555,3,Conclusion Specificity,General,grasshopper,ant,,insect,grasshopper,ant,,animal
+556,3,Conclusion Specificity,General,duck,robin,,bird,duck,robin,,animal
+557,3,Conclusion Specificity,General,worm,cockroach,,insect,worm,cockroach,,animal
+558,3,Conclusion Specificity,General,herring,shark,,fish,herring,shark,,animal
+559,3,Conclusion Specificity,General,frog,viper,,reptile,frog,viper,,animal
+560,3,Conclusion Specificity,General,ray,plaice,,fish,ray,plaice,,animal
+561,3,Conclusion Specificity,General,anchovy,dolphin,,fish,anchovy,dolphin,,animal
+562,3,Conclusion Specificity,General,whale,ray,,fish,whale,ray,,animal
+563,3,Conclusion Specificity,General,tiger,kangaroo,,mammal,tiger,kangaroo,,animal
+564,3,Conclusion Specificity,General,monitor lizard,snake,,reptile,monitor lizard,snake,,animal
+565,3,Conclusion Specificity,General,alligator,crocodile,,reptile,alligator,crocodile,,animal
+566,3,Conclusion Specificity,General,ladybug,cockchafer,,insect,ladybug,cockchafer,,animal
+567,3,Conclusion Specificity,General,sparrow,seagull,,bird,sparrow,seagull,,animal
+568,3,Conclusion Specificity,General,parrot,chickadee,,bird,parrot,chickadee,,animal
+569,3,Conclusion Specificity,General,horse,rhinoceros,,mammal,horse,rhinoceros,,animal
+570,3,Conclusion Specificity,General,cod,stickleback,,fish,cod,stickleback,,animal
+571,3,Conclusion Specificity,General,heron,pheasant,,bird,heron,pheasant,,animal
+572,3,Conclusion Specificity,General,kangaroo,donkey,,mammal,kangaroo,donkey,,animal
+573,3,Conclusion Specificity,General,mosquito,centipede,,insect,mosquito,centipede,,animal
+574,3,Conclusion Specificity,General,moth,fly,,insect,moth,fly,,animal
+575,3,Conclusion Specificity,General,sheep,horse,,mammal,sheep,horse,,animal
+576,3,Conclusion Specificity,General,sparrow,heron,,bird,sparrow,heron,,animal
+577,3,Conclusion Specificity,General,cuckoo,rooster,,bird,cuckoo,rooster,,animal
+578,3,Conclusion Specificity,General,python,toad,,reptile,python,toad,,animal
+579,3,Conclusion Specificity,General,kangaroo,bat,,mammal,kangaroo,bat,,animal
+580,3,Conclusion Specificity,General,iguana,salamander,,reptile,iguana,salamander,,animal
+581,3,Conclusion Specificity,General,heron,duck,,bird,heron,duck,,animal
+582,3,Conclusion Specificity,General,flee,horsefly,,insect,flee,horsefly,,animal
+583,3,Conclusion Specificity,General,sperm whale,carp,,fish,sperm whale,carp,,animal
+584,3,Conclusion Specificity,General,caterpillar,louse,,insect,caterpillar,louse,,animal
+585,3,Conclusion Specificity,General,dolphin,salmon,,fish,dolphin,salmon,,animal
+586,3,Conclusion Specificity,General,alligator,turtle,,reptile,alligator,turtle,,animal
+587,3,Conclusion Specificity,General,woodpecker,swallow,,bird,woodpecker,swallow,,animal
+588,3,Conclusion Specificity,General,pheasant,swan,,bird,pheasant,swan,,animal
+589,3,Conclusion Specificity,General,cricket,earwig,,insect,cricket,earwig,,animal
+590,3,Conclusion Specificity,General,cobra,chameleon,,reptile,cobra,chameleon,,animal
+591,3,Conclusion Specificity,General,orca,piranha,,fish,orca,piranha,,animal
+592,3,Conclusion Specificity,General,cricket,mosquito,,insect,cricket,mosquito,,animal
+593,3,Conclusion Specificity,General,plaice,sole,,fish,plaice,sole,,animal
+594,3,Conclusion Specificity,General,lizard,gecko,,reptile,lizard,gecko,,animal
+595,3,Conclusion Specificity,General,frog,monitor lizard,,reptile,frog,monitor lizard,,animal
+596,3,Conclusion Specificity,General,woodpecker,seagull,,bird,woodpecker,seagull,,animal
+597,3,Conclusion Specificity,General,carp,ray,,fish,carp,ray,,animal
+598,3,Conclusion Specificity,General,squid,piranha,,fish,squid,piranha,,animal
+599,3,Conclusion Specificity,General,lizard,cobra,,reptile,lizard,cobra,,animal
+600,4,Premise Monotonicity,General,monitor lizard,crocodile,cobra,reptile,monitor lizard,crocodile,,reptile
+601,4,Premise Monotonicity,General,blindworm,crocodile,viper,reptile,blindworm,crocodile,,reptile
+602,4,Premise Monotonicity,General,toad,crocodile,cobra,reptile,toad,crocodile,,reptile
+603,4,Premise Monotonicity,General,robin,blackbird,turkey,bird,robin,blackbird,,bird
+604,4,Premise Monotonicity,General,blindworm,boa,crocodile,reptile,blindworm,boa,,reptile
+605,4,Premise Monotonicity,General,crocodile,blindworm,cobra,reptile,crocodile,blindworm,,reptile
+606,4,Premise Monotonicity,General,alligator,lizard,snake,reptile,alligator,lizard,,reptile
+607,4,Premise Monotonicity,General,alligator,gecko,cobra,reptile,alligator,gecko,,reptile
+608,4,Premise Monotonicity,General,toad,alligator,boa,reptile,toad,alligator,,reptile
+609,4,Premise Monotonicity,General,alligator,gecko,python,reptile,alligator,gecko,,reptile
+610,4,Premise Monotonicity,General,crocodile,tortoise,viper,reptile,crocodile,tortoise,,reptile
+611,4,Premise Monotonicity,General,gecko,cobra,iguana,reptile,gecko,cobra,,reptile
+612,4,Premise Monotonicity,General,tortoise,alligator,boa,reptile,tortoise,alligator,,reptile
+613,4,Premise Monotonicity,General,alligator,chameleon,boa,reptile,alligator,chameleon,,reptile
+614,4,Premise Monotonicity,General,crocodile,frog,viper,reptile,crocodile,frog,,reptile
+615,4,Premise Monotonicity,General,turkey,penguin,robin,bird,turkey,penguin,,bird
+616,4,Premise Monotonicity,General,turtle,alligator,python,reptile,turtle,alligator,,reptile
+617,4,Premise Monotonicity,General,turtle,alligator,cobra,reptile,turtle,alligator,,reptile
+618,4,Premise Monotonicity,General,crocodile,lizard,boa,reptile,crocodile,lizard,,reptile
+619,4,Premise Monotonicity,General,flatfish,sole,whale,fish,flatfish,sole,,fish
+620,4,Premise Monotonicity,General,alligator,frog,python,reptile,alligator,frog,,reptile
+621,4,Premise Monotonicity,General,frog,alligator,python,reptile,frog,alligator,,reptile
+622,4,Premise Monotonicity,General,sardine,sole,whale,fish,sardine,sole,,fish
+623,4,Premise Monotonicity,General,gecko,iguana,viper,reptile,gecko,iguana,,reptile
+624,4,Premise Monotonicity,General,iguana,dinosaur,viper,reptile,iguana,dinosaur,,reptile
+625,4,Premise Monotonicity,General,python,snake,alligator,reptile,python,snake,,reptile
+626,4,Premise Monotonicity,General,iguana,turtle,viper,reptile,iguana,turtle,,reptile
+627,4,Premise Monotonicity,General,alligator,dinosaur,cobra,reptile,alligator,dinosaur,,reptile
+628,4,Premise Monotonicity,General,boa,snake,alligator,reptile,boa,snake,,reptile
+629,4,Premise Monotonicity,General,alligator,caiman,python,reptile,alligator,caiman,,reptile
+630,4,Premise Monotonicity,General,crocodile,alligator,cobra,reptile,crocodile,alligator,,reptile
+631,4,Premise Monotonicity,General,chicken,ostrich,sparrow,bird,chicken,ostrich,,bird
+632,4,Premise Monotonicity,General,ostrich,chicken,sparrow,bird,ostrich,chicken,,bird
+633,4,Premise Monotonicity,General,boa,gecko,iguana,reptile,boa,gecko,,reptile
+634,4,Premise Monotonicity,General,crocodile,alligator,python,reptile,crocodile,alligator,,reptile
+635,4,Premise Monotonicity,General,iguana,blindworm,viper,reptile,iguana,blindworm,,reptile
+636,4,Premise Monotonicity,General,blindworm,iguana,viper,reptile,blindworm,iguana,,reptile
+637,4,Premise Monotonicity,General,alligator,gecko,viper,reptile,alligator,gecko,,reptile
+638,4,Premise Monotonicity,General,eel,flatfish,orca,fish,eel,flatfish,,fish
+639,4,Premise Monotonicity,General,squid,orca,plaice,fish,squid,orca,,fish
+640,4,Premise Monotonicity,General,anchovy,salmon,whale,fish,anchovy,salmon,,fish
+641,4,Premise Monotonicity,General,cobra,monitor lizard,iguana,reptile,cobra,monitor lizard,,reptile
+642,4,Premise Monotonicity,General,salamander,caiman,boa,reptile,salamander,caiman,,reptile
+643,4,Premise Monotonicity,General,flatfish,goldfish,orca,fish,flatfish,goldfish,,fish
+644,4,Premise Monotonicity,General,heron,ostrich,parakeet,bird,heron,ostrich,,bird
+645,4,Premise Monotonicity,General,salamander,dinosaur,boa,reptile,salamander,dinosaur,,reptile
+646,4,Premise Monotonicity,General,ray,anchovy,orca,fish,ray,anchovy,,fish
+647,4,Premise Monotonicity,General,snake,turtle,salamander,reptile,snake,turtle,,reptile
+648,4,Premise Monotonicity,General,flatfish,piranha,orca,fish,flatfish,piranha,,fish
+649,4,Premise Monotonicity,General,turkey,chicken,sparrow,bird,turkey,chicken,,bird
+650,4,Premise Monotonicity,General,sardine,salmon,whale,fish,sardine,salmon,,fish
+651,4,Premise Monotonicity,General,sole,piranha,whale,fish,sole,piranha,,fish
+652,4,Premise Monotonicity,General,pelican,turkey,robin,bird,pelican,turkey,,bird
+653,4,Premise Monotonicity,General,squid,flatfish,orca,fish,squid,flatfish,,fish
+654,4,Premise Monotonicity,General,turkey,swan,parakeet,bird,turkey,swan,,bird
+655,4,Premise Monotonicity,General,eel,herring,orca,fish,eel,herring,,fish
+656,4,Premise Monotonicity,General,salamander,chameleon,boa,reptile,salamander,chameleon,,reptile
+657,4,Premise Monotonicity,General,frog,salamander,boa,reptile,frog,salamander,,reptile
+658,4,Premise Monotonicity,General,cod,sole,whale,fish,cod,sole,,fish
+659,4,Premise Monotonicity,General,salmon,sole,whale,fish,salmon,sole,,fish
+660,4,Premise Monotonicity,General,salamander,iguana,boa,reptile,salamander,iguana,,reptile
+661,4,Premise Monotonicity,General,penguin,chicken,heron,bird,penguin,chicken,,bird
+662,4,Premise Monotonicity,General,heron,penguin,canary,bird,heron,penguin,,bird
+663,4,Premise Monotonicity,General,salmon,ray,orca,fish,salmon,ray,,fish
+664,4,Premise Monotonicity,General,plaice,salmon,whale,fish,plaice,salmon,,fish
+665,4,Premise Monotonicity,General,alligator,dinosaur,viper,reptile,alligator,dinosaur,,reptile
+666,4,Premise Monotonicity,General,alligator,toad,viper,reptile,alligator,toad,,reptile
+667,4,Premise Monotonicity,General,stickleback,sole,orca,fish,stickleback,sole,,fish
+668,4,Premise Monotonicity,General,gecko,lizard,python,reptile,gecko,lizard,,reptile
+669,4,Premise Monotonicity,General,crocodile,alligator,viper,reptile,crocodile,alligator,,reptile
+670,4,Premise Monotonicity,General,caiman,lizard,python,reptile,caiman,lizard,,reptile
+671,4,Premise Monotonicity,General,sperm whale,whale,plaice,fish,sperm whale,whale,,fish
+672,4,Premise Monotonicity,General,anchovy,carp,whale,fish,anchovy,carp,,fish
+673,4,Premise Monotonicity,General,lizard,alligator,boa,reptile,lizard,alligator,,reptile
+674,4,Premise Monotonicity,General,cod,sardine,whale,fish,cod,sardine,,fish
+675,4,Premise Monotonicity,General,squid,herring,orca,fish,squid,herring,,fish
+676,4,Premise Monotonicity,General,boa,blindworm,iguana,reptile,boa,blindworm,,reptile
+677,4,Premise Monotonicity,General,cod,flatfish,whale,fish,cod,flatfish,,fish
+678,4,Premise Monotonicity,General,squid,stickleback,orca,fish,squid,stickleback,,fish
+679,4,Premise Monotonicity,General,whale,squid,sardine,fish,whale,squid,,fish
+680,4,Premise Monotonicity,General,penguin,rooster,canary,bird,penguin,rooster,,bird
+681,4,Premise Monotonicity,General,canary,penguin,stork,bird,canary,penguin,,bird
+682,4,Premise Monotonicity,General,lizard,toad,cobra,reptile,lizard,toad,,reptile
+683,4,Premise Monotonicity,General,toad,lizard,cobra,reptile,toad,lizard,,reptile
+684,4,Premise Monotonicity,General,chameleon,lizard,cobra,reptile,chameleon,lizard,,reptile
+685,4,Premise Monotonicity,General,pheasant,duck,sparrow,bird,pheasant,duck,,bird
+686,4,Premise Monotonicity,General,python,toad,iguana,reptile,python,toad,,reptile
+687,4,Premise Monotonicity,General,squid,whale,plaice,fish,squid,whale,,fish
+688,4,Premise Monotonicity,General,python,frog,crocodile,reptile,python,frog,,reptile
+689,4,Premise Monotonicity,General,frog,python,crocodile,reptile,frog,python,,reptile
+690,4,Premise Monotonicity,General,turkey,chicken,blackbird,bird,turkey,chicken,,bird
+691,4,Premise Monotonicity,General,crow,canary,turkey,bird,crow,canary,,bird
+692,4,Premise Monotonicity,General,duck,ostrich,canary,bird,duck,ostrich,,bird
+693,4,Premise Monotonicity,General,penguin,chicken,crow,bird,penguin,chicken,,bird
+694,4,Premise Monotonicity,General,sperm whale,orca,sardine,fish,sperm whale,orca,,fish
+695,4,Premise Monotonicity,General,cobra,python,chameleon,reptile,cobra,python,,reptile
+696,4,Premise Monotonicity,General,alligator,chameleon,viper,reptile,alligator,chameleon,,reptile
+697,4,Premise Monotonicity,General,butterfly,bumblebee,beetle,insect,butterfly,bumblebee,,insect
+698,4,Premise Monotonicity,General,alligator,turtle,viper,reptile,alligator,turtle,,reptile
+699,4,Premise Monotonicity,General,tortoise,alligator,viper,reptile,tortoise,alligator,,reptile
+700,4,Premise Monotonicity,General,tortoise,snake,crocodile,reptile,tortoise,snake,,reptile
+701,4,Premise Monotonicity,General,carp,cod,whale,fish,carp,cod,,fish
+702,4,Premise Monotonicity,General,whale,orca,plaice,fish,whale,orca,,fish
+703,4,Premise Monotonicity,General,turkey,eagle,robin,bird,turkey,eagle,,bird
+704,4,Premise Monotonicity,General,carp,sole,orca,fish,carp,sole,,fish
+705,4,Premise Monotonicity,General,ostrich,falcon,sparrow,bird,ostrich,falcon,,bird
+706,4,Premise Monotonicity,General,robin,blackbird,pheasant,bird,robin,blackbird,,bird
+707,4,Premise Monotonicity,General,salmon,stickleback,whale,fish,salmon,stickleback,,fish
+708,4,Premise Monotonicity,General,salmon,trout,orca,fish,salmon,trout,,fish
+709,4,Premise Monotonicity,General,blindworm,salamander,viper,reptile,blindworm,salamander,,reptile
+710,4,Premise Monotonicity,General,salamander,blindworm,viper,reptile,salamander,blindworm,,reptile
+711,4,Premise Monotonicity,General,bumblebee,horsefly,beetle,insect,bumblebee,horsefly,,insect
+712,4,Premise Monotonicity,General,dolphin,shark,sardine,fish,dolphin,shark,,fish
+713,4,Premise Monotonicity,General,worm,bumblebee,beetle,insect,worm,bumblebee,,insect
+714,4,Premise Monotonicity,General,flatfish,trout,whale,fish,flatfish,trout,,fish
+715,4,Premise Monotonicity,General,bumblebee,flee,beetle,insect,bumblebee,flee,,insect
+716,4,Premise Monotonicity,General,chicken,pelican,blackbird,bird,chicken,pelican,,bird
+717,4,Premise Monotonicity,General,carp,eel,orca,fish,carp,eel,,fish
+718,4,Premise Monotonicity,General,carp,stickleback,orca,fish,carp,stickleback,,fish
+719,4,Premise Monotonicity,General,dolphin,shark,anchovy,fish,dolphin,shark,,fish
+720,4,Premise Monotonicity,General,falcon,pelican,sparrow,bird,falcon,pelican,,bird
+721,4,Premise Monotonicity,General,carp,sardine,orca,fish,carp,sardine,,fish
+722,4,Premise Monotonicity,General,whale,dolphin,sardine,fish,whale,dolphin,,fish
+723,4,Premise Monotonicity,General,swan,pheasant,chickadee,bird,swan,pheasant,,bird
+724,4,Premise Monotonicity,General,swan,heron,robin,bird,swan,heron,,bird
+725,4,Premise Monotonicity,General,iguana,lizard,viper,reptile,iguana,lizard,,reptile
+726,4,Premise Monotonicity,General,dromedary,cow,cat,mammal,dromedary,cow,,mammal
+727,4,Premise Monotonicity,General,carp,flatfish,orca,fish,carp,flatfish,,fish
+728,4,Premise Monotonicity,General,orca,whale,flatfish,fish,orca,whale,,fish
+729,4,Premise Monotonicity,General,chicken,stork,blackbird,bird,chicken,stork,,bird
+730,4,Premise Monotonicity,General,peacock,chicken,sparrow,bird,peacock,chicken,,bird
+731,4,Premise Monotonicity,General,whale,sperm whale,flatfish,fish,whale,sperm whale,,fish
+732,4,Premise Monotonicity,General,viper,cobra,chameleon,reptile,viper,cobra,,reptile
+733,4,Premise Monotonicity,General,duck,heron,sparrow,bird,duck,heron,,bird
+734,4,Premise Monotonicity,General,cobra,boa,chameleon,reptile,cobra,boa,,reptile
+735,4,Premise Monotonicity,General,alligator,lizard,cobra,reptile,alligator,lizard,,reptile
+736,4,Premise Monotonicity,General,robin,canary,vulture,bird,robin,canary,,bird
+737,4,Premise Monotonicity,General,stork,falcon,sparrow,bird,stork,falcon,,bird
+738,4,Premise Monotonicity,General,heron,rooster,sparrow,bird,heron,rooster,,bird
+739,4,Premise Monotonicity,General,magpie,swallow,turkey,bird,magpie,swallow,,bird
+740,4,Premise Monotonicity,General,turkey,vulture,robin,bird,turkey,vulture,,bird
+741,4,Premise Monotonicity,General,sardine,plaice,shark,fish,sardine,plaice,,fish
+742,4,Premise Monotonicity,General,rabbit,cat,rhinoceros,mammal,rabbit,cat,,mammal
+743,4,Premise Monotonicity,General,orca,dolphin,eel,fish,orca,dolphin,,fish
+744,4,Premise Monotonicity,General,dolphin,orca,eel,fish,dolphin,orca,,fish
+745,4,Premise Monotonicity,General,eagle,turkey,canary,bird,eagle,turkey,,bird
+746,4,Premise Monotonicity,General,pheasant,rooster,chickadee,bird,pheasant,rooster,,bird
+747,4,Premise Monotonicity,General,sardine,anchovy,sperm whale,fish,sardine,anchovy,,fish
+748,4,Premise Monotonicity,General,pheasant,swan,robin,bird,pheasant,swan,,bird
+749,4,Premise Monotonicity,General,stork,pheasant,robin,bird,stork,pheasant,,bird
+750,4,Premise Monotonicity,General,swan,pheasant,robin,bird,swan,pheasant,,bird
+751,4,Premise Monotonicity,General,pheasant,swan,parakeet,bird,pheasant,swan,,bird
+752,4,Premise Monotonicity,General,alligator,salamander,cobra,reptile,alligator,salamander,,reptile
+753,4,Premise Monotonicity,General,ray,sardine,shark,fish,ray,sardine,,fish
+754,4,Premise Monotonicity,General,sparrow,parrot,turkey,bird,sparrow,parrot,,bird
+755,4,Premise Monotonicity,General,blindworm,dinosaur,turtle,reptile,blindworm,dinosaur,,reptile
+756,4,Premise Monotonicity,General,salamander,alligator,python,reptile,salamander,alligator,,reptile
+757,4,Premise Monotonicity,General,blackbird,penguin,heron,bird,blackbird,penguin,,bird
+758,4,Premise Monotonicity,General,pheasant,pelican,robin,bird,pheasant,pelican,,bird
+759,4,Premise Monotonicity,General,turkey,pheasant,parakeet,bird,turkey,pheasant,,bird
+760,4,Premise Monotonicity,General,sperm whale,whale,eel,fish,sperm whale,whale,,fish
+761,4,Premise Monotonicity,General,shark,squid,anchovy,fish,shark,squid,,fish
+762,4,Premise Monotonicity,General,monitor lizard,cobra,chameleon,reptile,monitor lizard,cobra,,reptile
+763,4,Premise Monotonicity,General,turkey,pheasant,robin,bird,turkey,pheasant,,bird
+764,4,Premise Monotonicity,General,chickadee,robin,swan,bird,chickadee,robin,,bird
+765,4,Premise Monotonicity,General,woodpecker,sparrow,chicken,bird,woodpecker,sparrow,,bird
+766,4,Premise Monotonicity,General,toad,salamander,viper,reptile,toad,salamander,,reptile
+767,4,Premise Monotonicity,General,duck,peacock,robin,bird,duck,peacock,,bird
+768,4,Premise Monotonicity,General,robin,canary,peacock,bird,robin,canary,,bird
+769,4,Premise Monotonicity,General,robin,chickadee,peacock,bird,robin,chickadee,,bird
+770,4,Premise Monotonicity,General,sperm whale,orca,eel,fish,sperm whale,orca,,fish
+771,4,Premise Monotonicity,General,orca,sperm whale,eel,fish,orca,sperm whale,,fish
+772,4,Premise Monotonicity,General,fruit fly,flee,beetle,insect,fruit fly,flee,,insect
+773,4,Premise Monotonicity,General,worm,wood louse,butterfly,insect,worm,wood louse,,insect
+774,4,Premise Monotonicity,General,viper,python,iguana,reptile,viper,python,,reptile
+775,4,Premise Monotonicity,General,chickadee,canary,duck,bird,chickadee,canary,,bird
+776,4,Premise Monotonicity,General,falcon,crow,turkey,bird,falcon,crow,,bird
+777,4,Premise Monotonicity,General,iguana,salamander,viper,reptile,iguana,salamander,,reptile
+778,4,Premise Monotonicity,General,canary,sparrow,pelican,bird,canary,sparrow,,bird
+779,4,Premise Monotonicity,General,heron,chicken,sparrow,bird,heron,chicken,,bird
+780,4,Premise Monotonicity,General,heron,turkey,chickadee,bird,heron,turkey,,bird
+781,4,Premise Monotonicity,General,hamster,cat,giraffe,mammal,hamster,cat,,mammal
+782,4,Premise Monotonicity,General,sardine,flatfish,shark,fish,sardine,flatfish,,fish
+783,4,Premise Monotonicity,General,blackbird,penguin,stork,bird,blackbird,penguin,,bird
+784,4,Premise Monotonicity,General,whale,shark,plaice,fish,whale,shark,,fish
+785,4,Premise Monotonicity,General,shark,whale,plaice,fish,shark,whale,,fish
+786,4,Premise Monotonicity,General,caiman,python,chameleon,reptile,caiman,python,,reptile
+787,4,Premise Monotonicity,General,swallow,falcon,turkey,bird,swallow,falcon,,bird
+788,4,Premise Monotonicity,General,blindworm,cobra,dinosaur,reptile,blindworm,cobra,,reptile
+789,4,Premise Monotonicity,General,worm,earwig,horsefly,insect,worm,earwig,,insect
+790,4,Premise Monotonicity,General,sparrow,chickadee,peacock,bird,sparrow,chickadee,,bird
+791,4,Premise Monotonicity,General,squid,anchovy,sperm whale,fish,squid,anchovy,,fish
+792,4,Premise Monotonicity,General,dinosaur,snake,salamander,reptile,dinosaur,snake,,reptile
+793,4,Premise Monotonicity,General,monitor lizard,boa,chameleon,reptile,monitor lizard,boa,,reptile
+794,4,Premise Monotonicity,General,alligator,salamander,viper,reptile,alligator,salamander,,reptile
+795,4,Premise Monotonicity,General,alligator,lizard,viper,reptile,alligator,lizard,,reptile
+796,4,Premise Monotonicity,General,zebra,rhinoceros,hamster,mammal,zebra,rhinoceros,,mammal
+797,4,Premise Monotonicity,General,heron,turkey,canary,bird,heron,turkey,,bird
+798,4,Premise Monotonicity,General,frog,cobra,iguana,reptile,frog,cobra,,reptile
+799,4,Premise Monotonicity,General,sardine,eel,dolphin,fish,sardine,eel,,fish
+800,5,Premise-conclusion Similarity,Specific,snake,monitor lizard,,cobra,snake,monitor lizard,,gecko
+801,5,Premise-conclusion Similarity,Specific,turtle,toad,,tortoise,turtle,toad,,gecko
+802,5,Premise-conclusion Similarity,Specific,monitor lizard,turtle,,tortoise,monitor lizard,turtle,,gecko
+803,5,Premise-conclusion Similarity,Specific,spider,bumblebee,,wasp,spider,bumblebee,,worm
+804,5,Premise-conclusion Similarity,Specific,monitor lizard,turtle,,tortoise,monitor lizard,turtle,,viper
+805,5,Premise-conclusion Similarity,Specific,boa,cobra,,snake,boa,cobra,,caiman
+806,5,Premise-conclusion Similarity,Specific,cobra,gecko,,snake,cobra,gecko,,turtle
+807,5,Premise-conclusion Similarity,Specific,cobra,alligator,,snake,cobra,alligator,,gecko
+808,5,Premise-conclusion Similarity,Specific,tortoise,python,,turtle,tortoise,python,,monitor lizard
+809,5,Premise-conclusion Similarity,Specific,gecko,boa,,snake,gecko,boa,,toad
+810,5,Premise-conclusion Similarity,Specific,tortoise,monitor lizard,,turtle,tortoise,monitor lizard,,viper
+811,5,Premise-conclusion Similarity,Specific,blindworm,snake,,python,blindworm,snake,,tortoise
+812,5,Premise-conclusion Similarity,Specific,flee,earwig,,louse,flee,earwig,,butterfly
+813,5,Premise-conclusion Similarity,Specific,tortoise,dinosaur,,turtle,tortoise,dinosaur,,python
+814,5,Premise-conclusion Similarity,Specific,wasp,moth,,bee,wasp,moth,,cockroach
+815,5,Premise-conclusion Similarity,Specific,turtle,snake,,tortoise,turtle,snake,,caiman
+816,5,Premise-conclusion Similarity,Specific,monitor lizard,toad,,frog,monitor lizard,toad,,cobra
+817,5,Premise-conclusion Similarity,Specific,shark,orca,,whale,shark,orca,,stickleback
+818,5,Premise-conclusion Similarity,Specific,snake,caiman,,boa,snake,caiman,,frog
+819,5,Premise-conclusion Similarity,Specific,horse,bat,,donkey,horse,bat,,polar bear
+820,5,Premise-conclusion Similarity,Specific,cobra,blindworm,,snake,cobra,blindworm,,crocodile
+821,5,Premise-conclusion Similarity,Specific,monitor lizard,cobra,,python,monitor lizard,cobra,,toad
+822,5,Premise-conclusion Similarity,Specific,python,blindworm,,cobra,python,blindworm,,toad
+823,5,Premise-conclusion Similarity,Specific,python,viper,,snake,python,viper,,frog
+824,5,Premise-conclusion Similarity,Specific,gecko,boa,,cobra,gecko,boa,,toad
+825,5,Premise-conclusion Similarity,Specific,cobra,toad,,snake,cobra,toad,,lizard
+826,5,Premise-conclusion Similarity,Specific,crocodile,snake,,boa,crocodile,snake,,toad
+827,5,Premise-conclusion Similarity,Specific,python,monitor lizard,,snake,python,monitor lizard,,caiman
+828,5,Premise-conclusion Similarity,Specific,python,viper,,snake,python,viper,,caiman
+829,5,Premise-conclusion Similarity,Specific,caterpillar,wasp,,bee,caterpillar,wasp,,cricket
+830,5,Premise-conclusion Similarity,Specific,zebra,polar bear,,horse,zebra,polar bear,,hedgehog
+831,5,Premise-conclusion Similarity,Specific,frog,caiman,,toad,frog,caiman,,gecko
+832,5,Premise-conclusion Similarity,Specific,snake,frog,,toad,snake,frog,,gecko
+833,5,Premise-conclusion Similarity,Specific,donkey,kangaroo,,horse,donkey,kangaroo,,rabbit
+834,5,Premise-conclusion Similarity,Specific,fruit fly,cockroach,,fly,fruit fly,cockroach,,ant
+835,5,Premise-conclusion Similarity,Specific,tortoise,python,,boa,tortoise,python,,monitor lizard
+836,5,Premise-conclusion Similarity,Specific,bee,wood louse,,bumblebee,bee,wood louse,,caterpillar
+837,5,Premise-conclusion Similarity,Specific,boa,caiman,,cobra,boa,caiman,,frog
+838,5,Premise-conclusion Similarity,Specific,crocodile,tortoise,,alligator,crocodile,tortoise,,python
+839,5,Premise-conclusion Similarity,Specific,cat,horse,,donkey,cat,horse,,kangaroo
+840,5,Premise-conclusion Similarity,Specific,blackbird,pheasant,,magpie,blackbird,pheasant,,penguin
+841,5,Premise-conclusion Similarity,Specific,chicken,cuckoo,,turkey,chicken,cuckoo,,ostrich
+842,5,Premise-conclusion Similarity,Specific,monitor lizard,cobra,,python,monitor lizard,cobra,,turtle
+843,5,Premise-conclusion Similarity,Specific,cobra,toad,,python,cobra,toad,,caiman
+844,5,Premise-conclusion Similarity,Specific,rooster,vulture,,chicken,rooster,vulture,,stork
+845,5,Premise-conclusion Similarity,Specific,blindworm,turtle,,tortoise,blindworm,turtle,,dinosaur
+846,5,Premise-conclusion Similarity,Specific,anchovy,eel,,sardine,anchovy,eel,,shark
+847,5,Premise-conclusion Similarity,Specific,wasp,butterfly,,bumblebee,wasp,butterfly,,cricket
+848,5,Premise-conclusion Similarity,Specific,parrot,parakeet,,canary,parrot,parakeet,,vulture
+849,5,Premise-conclusion Similarity,Specific,frog,tortoise,,toad,frog,tortoise,,boa
+850,5,Premise-conclusion Similarity,Specific,horse,beaver,,donkey,horse,beaver,,lion
+851,5,Premise-conclusion Similarity,Specific,gecko,python,,boa,gecko,python,,tortoise
+852,5,Premise-conclusion Similarity,Specific,viper,turtle,,python,viper,turtle,,monitor lizard
+853,5,Premise-conclusion Similarity,Specific,tortoise,toad,,turtle,tortoise,toad,,alligator
+854,5,Premise-conclusion Similarity,Specific,tortoise,frog,,turtle,tortoise,frog,,alligator
+855,5,Premise-conclusion Similarity,Specific,fruit fly,ant,,fly,fruit fly,ant,,spider
+856,5,Premise-conclusion Similarity,Specific,cobra,boa,,python,cobra,boa,,dinosaur
+857,5,Premise-conclusion Similarity,Specific,donkey,squirrel,,horse,donkey,squirrel,,bat
+858,5,Premise-conclusion Similarity,Specific,grasshopper,wasp,,bumblebee,grasshopper,wasp,,louse
+859,5,Premise-conclusion Similarity,Specific,turtle,python,,tortoise,turtle,python,,blindworm
+860,5,Premise-conclusion Similarity,Specific,robin,ostrich,,sparrow,robin,ostrich,,duck
+861,5,Premise-conclusion Similarity,Specific,crocodile,blindworm,,alligator,crocodile,blindworm,,python
+862,5,Premise-conclusion Similarity,Specific,turtle,alligator,,tortoise,turtle,alligator,,boa
+863,5,Premise-conclusion Similarity,Specific,shark,sperm whale,,whale,shark,sperm whale,,plaice
+864,5,Premise-conclusion Similarity,Specific,gecko,viper,,boa,gecko,viper,,tortoise
+865,5,Premise-conclusion Similarity,Specific,cobra,viper,,boa,cobra,viper,,crocodile
+866,5,Premise-conclusion Similarity,Specific,turtle,frog,,toad,turtle,frog,,viper
+867,5,Premise-conclusion Similarity,Specific,caiman,iguana,,alligator,caiman,iguana,,blindworm
+868,5,Premise-conclusion Similarity,Specific,bee,earwig,,bumblebee,bee,earwig,,cockchafer
+869,5,Premise-conclusion Similarity,Specific,tortoise,chameleon,,turtle,tortoise,chameleon,,toad
+870,5,Premise-conclusion Similarity,Specific,caiman,toad,,frog,caiman,toad,,python
+871,5,Premise-conclusion Similarity,Specific,crow,vulture,,eagle,crow,vulture,,robin
+872,5,Premise-conclusion Similarity,Specific,viper,frog,,cobra,viper,frog,,dinosaur
+873,5,Premise-conclusion Similarity,Specific,salamander,cobra,,snake,salamander,cobra,,crocodile
+874,5,Premise-conclusion Similarity,Specific,rooster,chickadee,,sparrow,rooster,chickadee,,swan
+875,5,Premise-conclusion Similarity,Specific,bumblebee,horsefly,,bee,bumblebee,horsefly,,ladybug
+876,5,Premise-conclusion Similarity,Specific,wood louse,wasp,,bee,wood louse,wasp,,butterfly
+877,5,Premise-conclusion Similarity,Specific,hamster,bat,,rabbit,hamster,bat,,cow
+878,5,Premise-conclusion Similarity,Specific,gecko,boa,,viper,gecko,boa,,dinosaur
+879,5,Premise-conclusion Similarity,Specific,stork,penguin,,heron,stork,penguin,,chicken
+880,5,Premise-conclusion Similarity,Specific,crocodile,python,,caiman,crocodile,python,,toad
+881,5,Premise-conclusion Similarity,Specific,trout,whale,,orca,trout,whale,,piranha
+882,5,Premise-conclusion Similarity,Specific,orca,eel,,whale,orca,eel,,cod
+883,5,Premise-conclusion Similarity,Specific,alligator,boa,,crocodile,alligator,boa,,salamander
+884,5,Premise-conclusion Similarity,Specific,tortoise,cobra,,python,tortoise,cobra,,crocodile
+885,5,Premise-conclusion Similarity,Specific,crocodile,gecko,,alligator,crocodile,gecko,,salamander
+886,5,Premise-conclusion Similarity,Specific,python,toad,,snake,python,toad,,alligator
+887,5,Premise-conclusion Similarity,Specific,toad,python,,cobra,toad,python,,chameleon
+888,5,Premise-conclusion Similarity,Specific,beaver,horse,,zebra,beaver,horse,,pig
+889,5,Premise-conclusion Similarity,Specific,hamster,horse,,zebra,hamster,horse,,pig
+890,5,Premise-conclusion Similarity,Specific,turtle,cobra,,tortoise,turtle,cobra,,frog
+891,5,Premise-conclusion Similarity,Specific,lizard,boa,,python,lizard,boa,,toad
+892,5,Premise-conclusion Similarity,Specific,caterpillar,worm,,centipede,caterpillar,worm,,fruit fly
+893,5,Premise-conclusion Similarity,Specific,spider,louse,,flee,spider,louse,,fruit fly
+894,5,Premise-conclusion Similarity,Specific,cobra,viper,,boa,cobra,viper,,iguana
+895,5,Premise-conclusion Similarity,Specific,woodpecker,pheasant,,crow,woodpecker,pheasant,,penguin
+896,5,Premise-conclusion Similarity,Specific,salamander,boa,,cobra,salamander,boa,,tortoise
+897,5,Premise-conclusion Similarity,Specific,sperm whale,shark,,orca,sperm whale,shark,,flatfish
+898,5,Premise-conclusion Similarity,Specific,dragonfly,beetle,,ladybug,dragonfly,beetle,,louse
+899,5,Premise-conclusion Similarity,Specific,alligator,viper,,snake,alligator,viper,,frog
+900,5,Premise-conclusion Similarity,Specific,cobra,dinosaur,,python,cobra,dinosaur,,tortoise
+901,5,Premise-conclusion Similarity,Specific,shark,flatfish,,orca,shark,flatfish,,squid
+902,5,Premise-conclusion Similarity,Specific,python,frog,,snake,python,frog,,turtle
+903,5,Premise-conclusion Similarity,Specific,moth,worm,,butterfly,moth,worm,,grasshopper
+904,5,Premise-conclusion Similarity,Specific,frog,caiman,,toad,frog,caiman,,iguana
+905,5,Premise-conclusion Similarity,Specific,whale,orca,,sperm whale,whale,orca,,salmon
+906,5,Premise-conclusion Similarity,Specific,ray,orca,,sperm whale,ray,orca,,goldfish
+907,5,Premise-conclusion Similarity,Specific,heron,penguin,,stork,heron,penguin,,owl
+908,5,Premise-conclusion Similarity,Specific,hippopotamus,kangaroo,,rhinoceros,hippopotamus,kangaroo,,hedgehog
+909,5,Premise-conclusion Similarity,Specific,sparrow,stork,,robin,sparrow,stork,,chicken
+910,5,Premise-conclusion Similarity,Specific,rooster,stork,,pelican,rooster,stork,,chickadee
+911,5,Premise-conclusion Similarity,Specific,seagull,parakeet,,canary,seagull,parakeet,,swan
+912,5,Premise-conclusion Similarity,Specific,chickadee,eagle,,falcon,chickadee,eagle,,parrot
+913,5,Premise-conclusion Similarity,Specific,carp,orca,,shark,carp,orca,,ray
+914,5,Premise-conclusion Similarity,Specific,cow,horse,,donkey,cow,horse,,rhinoceros
+915,5,Premise-conclusion Similarity,Specific,bumblebee,caterpillar,,centipede,bumblebee,caterpillar,,flee
+916,5,Premise-conclusion Similarity,Specific,swordfish,sperm whale,,whale,swordfish,sperm whale,,squid
+917,5,Premise-conclusion Similarity,Specific,canary,crow,,robin,canary,crow,,penguin
+918,5,Premise-conclusion Similarity,Specific,dinosaur,python,,boa,dinosaur,python,,salamander
+919,5,Premise-conclusion Similarity,Specific,wolf,rabbit,,dog,wolf,rabbit,,monkey
+920,5,Premise-conclusion Similarity,Specific,zebra,tiger,,cat,zebra,tiger,,sheep
+921,5,Premise-conclusion Similarity,Specific,falcon,stork,,eagle,falcon,stork,,turkey
+922,5,Premise-conclusion Similarity,Specific,seagull,eagle,,falcon,seagull,eagle,,pheasant
+923,5,Premise-conclusion Similarity,Specific,robin,magpie,,parakeet,robin,magpie,,ostrich
+924,5,Premise-conclusion Similarity,Specific,caterpillar,wood louse,,worm,caterpillar,wood louse,,bumblebee
+925,5,Premise-conclusion Similarity,Specific,woodpecker,blackbird,,sparrow,woodpecker,blackbird,,turkey
+926,5,Premise-conclusion Similarity,Specific,cobra,caiman,,viper,cobra,caiman,,turtle
+927,5,Premise-conclusion Similarity,Specific,iguana,viper,,boa,iguana,viper,,toad
+928,5,Premise-conclusion Similarity,Specific,caiman,python,,cobra,caiman,python,,dinosaur
+929,5,Premise-conclusion Similarity,Specific,dolphin,swordfish,,whale,dolphin,swordfish,,piranha
+930,5,Premise-conclusion Similarity,Specific,shark,flatfish,,plaice,shark,flatfish,,goldfish
+931,5,Premise-conclusion Similarity,Specific,boa,lizard,,cobra,boa,lizard,,caiman
+932,5,Premise-conclusion Similarity,Specific,lizard,cobra,,boa,lizard,cobra,,caiman
+933,5,Premise-conclusion Similarity,Specific,dragonfly,fly,,bumblebee,dragonfly,fly,,caterpillar
+934,5,Premise-conclusion Similarity,Specific,cockroach,centipede,,caterpillar,cockroach,centipede,,moth
+935,5,Premise-conclusion Similarity,Specific,cuckoo,blackbird,,sparrow,cuckoo,blackbird,,heron
+936,5,Premise-conclusion Similarity,Specific,chickadee,cuckoo,,robin,chickadee,cuckoo,,ostrich
+937,5,Premise-conclusion Similarity,Specific,lizard,cobra,,boa,lizard,cobra,,monitor lizard
+938,5,Premise-conclusion Similarity,Specific,wood louse,centipede,,caterpillar,wood louse,centipede,,butterfly
+939,5,Premise-conclusion Similarity,Specific,horse,wolf,,fox,horse,wolf,,rabbit
+940,5,Premise-conclusion Similarity,Specific,monkey,lion,,tiger,monkey,lion,,donkey
+941,5,Premise-conclusion Similarity,Specific,sardine,orca,,shark,sardine,orca,,piranha
+942,5,Premise-conclusion Similarity,Specific,goldfish,whale,,sperm whale,goldfish,whale,,cod
+943,5,Premise-conclusion Similarity,Specific,rabbit,beaver,,hamster,rabbit,beaver,,hippopotamus
+944,5,Premise-conclusion Similarity,Specific,sperm whale,sardine,,orca,sperm whale,sardine,,piranha
+945,5,Premise-conclusion Similarity,Specific,worm,cricket,,grasshopper,worm,cricket,,mosquito
+946,5,Premise-conclusion Similarity,Specific,cricket,butterfly,,moth,cricket,butterfly,,ant
+947,5,Premise-conclusion Similarity,Specific,lizard,frog,,toad,lizard,frog,,snake
+948,5,Premise-conclusion Similarity,Specific,iguana,lizard,,salamander,iguana,lizard,,turtle
+949,5,Premise-conclusion Similarity,Specific,fly,bee,,butterfly,fly,bee,,centipede
+950,5,Premise-conclusion Similarity,Specific,eel,ray,,trout,eel,ray,,orca
+951,5,Premise-conclusion Similarity,Specific,monitor lizard,caiman,,alligator,monitor lizard,caiman,,snake
+952,5,Premise-conclusion Similarity,Specific,toad,viper,,python,toad,viper,,crocodile
+953,5,Premise-conclusion Similarity,Specific,sperm whale,whale,,dolphin,sperm whale,whale,,trout
+954,5,Premise-conclusion Similarity,Specific,sparrow,woodpecker,,magpie,sparrow,woodpecker,,duck
+955,5,Premise-conclusion Similarity,Specific,rhinoceros,monkey,,hippopotamus,rhinoceros,monkey,,dog
+956,5,Premise-conclusion Similarity,Specific,boa,salamander,,viper,boa,salamander,,tortoise
+957,5,Premise-conclusion Similarity,Specific,heron,parakeet,,canary,heron,parakeet,,dove
+958,5,Premise-conclusion Similarity,Specific,vulture,parakeet,,canary,vulture,parakeet,,dove
+959,5,Premise-conclusion Similarity,Specific,cod,sperm whale,,whale,cod,sperm whale,,plaice
+960,5,Premise-conclusion Similarity,Specific,owl,robin,,sparrow,owl,robin,,swallow
+961,5,Premise-conclusion Similarity,Specific,louse,cockchafer,,beetle,louse,cockchafer,,cockroach
+962,5,Premise-conclusion Similarity,Specific,chameleon,boa,,python,chameleon,boa,,crocodile
+963,5,Premise-conclusion Similarity,Specific,horse,wolf,,zebra,horse,wolf,,hippopotamus
+964,5,Premise-conclusion Similarity,Specific,sperm whale,plaice,,whale,sperm whale,plaice,,anchovy
+965,5,Premise-conclusion Similarity,Specific,seagull,robin,,sparrow,seagull,robin,,woodpecker
+966,5,Premise-conclusion Similarity,Specific,chicken,swallow,,rooster,chicken,swallow,,dove
+967,5,Premise-conclusion Similarity,Specific,lion,pig,,tiger,lion,pig,,rhinoceros
+968,5,Premise-conclusion Similarity,Specific,cockchafer,louse,,ladybug,cockchafer,louse,,worm
+969,5,Premise-conclusion Similarity,Specific,sparrow,swallow,,blackbird,sparrow,swallow,,duck
+970,5,Premise-conclusion Similarity,Specific,toad,dinosaur,,lizard,toad,dinosaur,,blindworm
+971,5,Premise-conclusion Similarity,Specific,llama,lion,,cat,llama,lion,,hamster
+972,5,Premise-conclusion Similarity,Specific,turkey,woodpecker,,rooster,turkey,woodpecker,,penguin
+973,5,Premise-conclusion Similarity,Specific,duck,canary,,robin,duck,canary,,ostrich
+974,5,Premise-conclusion Similarity,Specific,swan,robin,,chickadee,swan,robin,,rooster
+975,5,Premise-conclusion Similarity,Specific,vulture,turkey,,rooster,vulture,turkey,,parakeet
+976,5,Premise-conclusion Similarity,Specific,salamander,viper,,python,salamander,viper,,monitor lizard
+977,5,Premise-conclusion Similarity,Specific,lion,mouse,,tiger,lion,mouse,,bat
+978,5,Premise-conclusion Similarity,Specific,chicken,eagle,,duck,chicken,eagle,,penguin
+979,5,Premise-conclusion Similarity,Specific,goldfish,sardine,,herring,goldfish,sardine,,orca
+980,5,Premise-conclusion Similarity,Specific,hamster,donkey,,horse,hamster,donkey,,deer
+981,5,Premise-conclusion Similarity,Specific,crocodile,python,,caiman,crocodile,python,,turtle
+982,5,Premise-conclusion Similarity,Specific,lizard,boa,,viper,lizard,boa,,blindworm
+983,5,Premise-conclusion Similarity,Specific,penguin,falcon,,eagle,penguin,falcon,,woodpecker
+984,5,Premise-conclusion Similarity,Specific,cod,trout,,salmon,cod,trout,,shark
+985,5,Premise-conclusion Similarity,Specific,magpie,canary,,chickadee,magpie,canary,,ostrich
+986,5,Premise-conclusion Similarity,Specific,cricket,dragonfly,,grasshopper,cricket,dragonfly,,caterpillar
+987,5,Premise-conclusion Similarity,Specific,snake,toad,,viper,snake,toad,,blindworm
+988,5,Premise-conclusion Similarity,Specific,wasp,ant,,bumblebee,wasp,ant,,horsefly
+989,5,Premise-conclusion Similarity,Specific,eagle,chickadee,,falcon,eagle,chickadee,,seagull
+990,5,Premise-conclusion Similarity,Specific,cuckoo,blackbird,,swallow,cuckoo,blackbird,,penguin
+991,5,Premise-conclusion Similarity,Specific,salmon,trout,,eel,salmon,trout,,squid
+992,5,Premise-conclusion Similarity,Specific,hamster,wolf,,fox,hamster,wolf,,bat
+993,5,Premise-conclusion Similarity,Specific,elephant,deer,,donkey,elephant,deer,,mouse
+994,5,Premise-conclusion Similarity,Specific,salamander,snake,,cobra,salamander,snake,,iguana
+995,5,Premise-conclusion Similarity,Specific,python,toad,,viper,python,toad,,lizard
+996,5,Premise-conclusion Similarity,Specific,lizard,monitor lizard,,chameleon,lizard,monitor lizard,,blindworm
+997,5,Premise-conclusion Similarity,Specific,hippopotamus,bison,,elephant,hippopotamus,bison,,rabbit
+998,5,Premise-conclusion Similarity,Specific,sperm whale,sole,,trout,sperm whale,sole,,goldfish
+999,5,Premise-conclusion Similarity,Specific,squid,whale,,dolphin,squid,whale,,piranha
+1000,6,Premise Diversity,Specific,sperm whale,trout,,shark,sperm whale,squid,,shark
+1001,6,Premise Diversity,Specific,hamster,horse,,rabbit,hamster,mouse,,rabbit
+1002,6,Premise Diversity,Specific,iguana,blindworm,,viper,iguana,chameleon,,viper
+1003,6,Premise Diversity,Specific,monitor lizard,cobra,,chameleon,monitor lizard,gecko,,chameleon
+1004,6,Premise Diversity,Specific,hamster,zebra,,hedgehog,hamster,mouse,,hedgehog
+1005,6,Premise Diversity,Specific,mouse,bison,,squirrel,mouse,bat,,squirrel
+1006,6,Premise Diversity,Specific,mouse,cow,,beaver,mouse,bat,,beaver
+1007,6,Premise Diversity,Specific,viper,lizard,,cobra,viper,blindworm,,cobra
+1008,6,Premise Diversity,Specific,viper,lizard,,python,viper,blindworm,,python
+1009,6,Premise Diversity,Specific,viper,lizard,,snake,viper,blindworm,,snake
+1010,6,Premise Diversity,Specific,sperm whale,herring,,shark,sperm whale,squid,,shark
+1011,6,Premise Diversity,Specific,dinosaur,boa,,gecko,dinosaur,monitor lizard,,gecko
+1012,6,Premise Diversity,Specific,dinosaur,boa,,caiman,dinosaur,monitor lizard,,caiman
+1013,6,Premise Diversity,Specific,hedgehog,zebra,,rabbit,hedgehog,mouse,,rabbit
+1014,6,Premise Diversity,Specific,hedgehog,llama,,beaver,hedgehog,mouse,,beaver
+1015,6,Premise Diversity,Specific,cobra,toad,,chameleon,cobra,blindworm,,chameleon
+1016,6,Premise Diversity,Specific,viper,salamander,,boa,viper,blindworm,,boa
+1017,6,Premise Diversity,Specific,chameleon,boa,,caiman,chameleon,gecko,,caiman
+1018,6,Premise Diversity,Specific,hamster,bison,,squirrel,hamster,mouse,,squirrel
+1019,6,Premise Diversity,Specific,snake,dinosaur,,tortoise,snake,cobra,,tortoise
+1020,6,Premise Diversity,Specific,dinosaur,viper,,lizard,dinosaur,monitor lizard,,lizard
+1021,6,Premise Diversity,Specific,dinosaur,viper,,gecko,dinosaur,monitor lizard,,gecko
+1022,6,Premise Diversity,Specific,orca,herring,,sperm whale,orca,shark,,sperm whale
+1023,6,Premise Diversity,Specific,hedgehog,hippopotamus,,cat,hedgehog,bat,,cat
+1024,6,Premise Diversity,Specific,hedgehog,rhinoceros,,cat,hedgehog,bat,,cat
+1025,6,Premise Diversity,Specific,bumblebee,worm,,wood louse,bumblebee,wasp,,wood louse
+1026,6,Premise Diversity,Specific,crocodile,snake,,tortoise,crocodile,caiman,,tortoise
+1027,6,Premise Diversity,Specific,dinosaur,boa,,monitor lizard,dinosaur,caiman,,monitor lizard
+1028,6,Premise Diversity,Specific,hamster,deer,,beaver,hamster,mouse,,beaver
+1029,6,Premise Diversity,Specific,stork,magpie,,swan,stork,ostrich,,swan
+1030,6,Premise Diversity,Specific,frog,boa,,salamander,frog,toad,,salamander
+1031,6,Premise Diversity,Specific,boa,monitor lizard,,gecko,boa,blindworm,,gecko
+1032,6,Premise Diversity,Specific,chameleon,snake,,gecko,chameleon,iguana,,gecko
+1033,6,Premise Diversity,Specific,dinosaur,cobra,,monitor lizard,dinosaur,caiman,,monitor lizard
+1034,6,Premise Diversity,Specific,whale,cod,,dolphin,whale,orca,,dolphin
+1035,6,Premise Diversity,Specific,worm,mosquito,,earwig,worm,caterpillar,,earwig
+1036,6,Premise Diversity,Specific,iguana,boa,,tortoise,iguana,monitor lizard,,tortoise
+1037,6,Premise Diversity,Specific,rabbit,llama,,hamster,rabbit,squirrel,,hamster
+1038,6,Premise Diversity,Specific,hamster,rhinoceros,,dog,hamster,mouse,,dog
+1039,6,Premise Diversity,Specific,orca,cod,,whale,orca,shark,,whale
+1040,6,Premise Diversity,Specific,orca,cod,,dolphin,orca,shark,,dolphin
+1041,6,Premise Diversity,Specific,swan,canary,,pheasant,swan,penguin,,pheasant
+1042,6,Premise Diversity,Specific,chameleon,cobra,,crocodile,chameleon,gecko,,crocodile
+1043,6,Premise Diversity,Specific,boa,turtle,,dinosaur,boa,cobra,,dinosaur
+1044,6,Premise Diversity,Specific,centipede,mosquito,,cockroach,centipede,caterpillar,,cockroach
+1045,6,Premise Diversity,Specific,chameleon,viper,,alligator,chameleon,gecko,,alligator
+1046,6,Premise Diversity,Specific,chameleon,viper,,caiman,chameleon,gecko,,caiman
+1047,6,Premise Diversity,Specific,chickadee,penguin,,pelican,chickadee,sparrow,,pelican
+1048,6,Premise Diversity,Specific,dolphin,cod,,sperm whale,dolphin,shark,,sperm whale
+1049,6,Premise Diversity,Specific,squirrel,deer,,beaver,squirrel,hedgehog,,beaver
+1050,6,Premise Diversity,Specific,squirrel,deer,,hamster,squirrel,hedgehog,,hamster
+1051,6,Premise Diversity,Specific,iguana,cobra,,frog,iguana,monitor lizard,,frog
+1052,6,Premise Diversity,Specific,bat,bison,,mouse,bat,monkey,,mouse
+1053,6,Premise Diversity,Specific,bat,bison,,hamster,bat,monkey,,hamster
+1054,6,Premise Diversity,Specific,hamster,dromedary,,beaver,hamster,mouse,,beaver
+1055,6,Premise Diversity,Specific,robin,penguin,,pelican,robin,sparrow,,pelican
+1056,6,Premise Diversity,Specific,cobra,monitor lizard,,dinosaur,cobra,python,,dinosaur
+1057,6,Premise Diversity,Specific,boa,dinosaur,,turtle,boa,cobra,,turtle
+1058,6,Premise Diversity,Specific,cockchafer,mosquito,,cockroach,cockchafer,ladybug,,cockroach
+1059,6,Premise Diversity,Specific,penguin,woodpecker,,duck,penguin,ostrich,,duck
+1060,6,Premise Diversity,Specific,python,lizard,,blindworm,python,cobra,,blindworm
+1061,6,Premise Diversity,Specific,cockchafer,mosquito,,centipede,cockchafer,cricket,,centipede
+1062,6,Premise Diversity,Specific,hedgehog,horse,,bat,hedgehog,rabbit,,bat
+1063,6,Premise Diversity,Specific,dinosaur,python,,monitor lizard,dinosaur,caiman,,monitor lizard
+1064,6,Premise Diversity,Specific,fly,wood louse,,cockchafer,fly,fruit fly,,cockchafer
+1065,6,Premise Diversity,Specific,cobra,lizard,,snake,cobra,python,,snake
+1066,6,Premise Diversity,Specific,hedgehog,wolf,,rabbit,hedgehog,mouse,,rabbit
+1067,6,Premise Diversity,Specific,iguana,python,,tortoise,iguana,monitor lizard,,tortoise
+1068,6,Premise Diversity,Specific,orca,cod,,swordfish,orca,whale,,swordfish
+1069,6,Premise Diversity,Specific,mosquito,louse,,earwig,mosquito,bumblebee,,earwig
+1070,6,Premise Diversity,Specific,frog,cobra,,salamander,frog,toad,,salamander
+1071,6,Premise Diversity,Specific,frog,cobra,,lizard,frog,toad,,lizard
+1072,6,Premise Diversity,Specific,earwig,bumblebee,,spider,earwig,worm,,spider
+1073,6,Premise Diversity,Specific,squirrel,dromedary,,beaver,squirrel,hedgehog,,beaver
+1074,6,Premise Diversity,Specific,anchovy,trout,,sardine,anchovy,goldfish,,sardine
+1075,6,Premise Diversity,Specific,mouse,elephant,,bat,mouse,hedgehog,,bat
+1076,6,Premise Diversity,Specific,beetle,mosquito,,worm,beetle,cockchafer,,worm
+1077,6,Premise Diversity,Specific,beetle,mosquito,,earwig,beetle,cockchafer,,earwig
+1078,6,Premise Diversity,Specific,hamster,tiger,,mouse,hamster,rabbit,,mouse
+1079,6,Premise Diversity,Specific,trout,dolphin,,swordfish,trout,herring,,swordfish
+1080,6,Premise Diversity,Specific,squirrel,rhinoceros,,dog,squirrel,hedgehog,,dog
+1081,6,Premise Diversity,Specific,ladybug,fly,,caterpillar,ladybug,cockchafer,,caterpillar
+1082,6,Premise Diversity,Specific,horse,mouse,,beaver,horse,donkey,,beaver
+1083,6,Premise Diversity,Specific,crocodile,python,,salamander,crocodile,caiman,,salamander
+1084,6,Premise Diversity,Specific,crocodile,python,,toad,crocodile,caiman,,toad
+1085,6,Premise Diversity,Specific,crocodile,python,,dinosaur,crocodile,caiman,,dinosaur
+1086,6,Premise Diversity,Specific,orca,pike,,sperm whale,orca,shark,,sperm whale
+1087,6,Premise Diversity,Specific,orca,pike,,dolphin,orca,shark,,dolphin
+1088,6,Premise Diversity,Specific,salamander,snake,,chameleon,salamander,iguana,,chameleon
+1089,6,Premise Diversity,Specific,tortoise,python,,dinosaur,tortoise,toad,,dinosaur
+1090,6,Premise Diversity,Specific,crocodile,cobra,,tortoise,crocodile,caiman,,tortoise
+1091,6,Premise Diversity,Specific,snake,monitor lizard,,dinosaur,snake,cobra,,dinosaur
+1092,6,Premise Diversity,Specific,canary,penguin,,pelican,canary,sparrow,,pelican
+1093,6,Premise Diversity,Specific,gecko,cobra,,chameleon,gecko,toad,,chameleon
+1094,6,Premise Diversity,Specific,viper,turtle,,monitor lizard,viper,blindworm,,monitor lizard
+1095,6,Premise Diversity,Specific,stork,magpie,,ostrich,stork,pelican,,ostrich
+1096,6,Premise Diversity,Specific,snake,lizard,,blindworm,snake,cobra,,blindworm
+1097,6,Premise Diversity,Specific,snake,lizard,,alligator,snake,cobra,,alligator
+1098,6,Premise Diversity,Specific,tortoise,cobra,,turtle,tortoise,toad,,turtle
+1099,6,Premise Diversity,Specific,boa,lizard,,snake,boa,cobra,,snake
+1100,6,Premise Diversity,Specific,worm,mosquito,,centipede,worm,leech,,centipede
+1101,6,Premise Diversity,Specific,plaice,whale,,herring,plaice,squid,,herring
+1102,6,Premise Diversity,Specific,centipede,bumblebee,,cricket,centipede,caterpillar,,cricket
+1103,6,Premise Diversity,Specific,mosquito,spider,,beetle,mosquito,dragonfly,,beetle
+1104,6,Premise Diversity,Specific,viper,chameleon,,boa,viper,blindworm,,boa
+1105,6,Premise Diversity,Specific,centipede,bee,,leech,centipede,caterpillar,,leech
+1106,6,Premise Diversity,Specific,centipede,bee,,spider,centipede,caterpillar,,spider
+1107,6,Premise Diversity,Specific,cod,swordfish,,dolphin,cod,salmon,,dolphin
+1108,6,Premise Diversity,Specific,dolphin,carp,,shark,dolphin,sperm whale,,shark
+1109,6,Premise Diversity,Specific,chameleon,boa,,frog,chameleon,iguana,,frog
+1110,6,Premise Diversity,Specific,beaver,donkey,,cat,beaver,squirrel,,cat
+1111,6,Premise Diversity,Specific,pelican,dove,,heron,pelican,swan,,heron
+1112,6,Premise Diversity,Specific,cobra,alligator,,python,cobra,viper,,python
+1113,6,Premise Diversity,Specific,iguana,boa,,toad,iguana,chameleon,,toad
+1114,6,Premise Diversity,Specific,tortoise,cobra,,lizard,tortoise,turtle,,lizard
+1115,6,Premise Diversity,Specific,tortoise,cobra,,toad,tortoise,turtle,,toad
+1116,6,Premise Diversity,Specific,earwig,fruit fly,,beetle,earwig,centipede,,beetle
+1117,6,Premise Diversity,Specific,herring,shark,,piranha,herring,salmon,,piranha
+1118,6,Premise Diversity,Specific,python,tortoise,,chameleon,python,cobra,,chameleon
+1119,6,Premise Diversity,Specific,crocodile,tortoise,,frog,crocodile,caiman,,frog
+1120,6,Premise Diversity,Specific,swan,woodpecker,,chicken,swan,pelican,,chicken
+1121,6,Premise Diversity,Specific,pelican,blackbird,,vulture,pelican,stork,,vulture
+1122,6,Premise Diversity,Specific,hippopotamus,mouse,,sheep,hippopotamus,elephant,,sheep
+1123,6,Premise Diversity,Specific,bat,hippopotamus,,squirrel,bat,monkey,,squirrel
+1124,6,Premise Diversity,Specific,snake,tortoise,,toad,snake,cobra,,toad
+1125,6,Premise Diversity,Specific,alligator,python,,crocodile,alligator,caiman,,crocodile
+1126,6,Premise Diversity,Specific,alligator,cobra,,lizard,alligator,caiman,,lizard
+1127,6,Premise Diversity,Specific,viper,toad,,dinosaur,viper,blindworm,,dinosaur
+1128,6,Premise Diversity,Specific,sparrow,turkey,,robin,sparrow,chickadee,,robin
+1129,6,Premise Diversity,Specific,wood louse,bee,,worm,wood louse,cockroach,,worm
+1130,6,Premise Diversity,Specific,orca,sole,,sperm whale,orca,shark,,sperm whale
+1131,6,Premise Diversity,Specific,squirrel,giraffe,,dog,squirrel,hedgehog,,dog
+1132,6,Premise Diversity,Specific,boa,dinosaur,,chameleon,boa,cobra,,chameleon
+1133,6,Premise Diversity,Specific,anchovy,pike,,sardine,anchovy,goldfish,,sardine
+1134,6,Premise Diversity,Specific,turtle,cobra,,dinosaur,turtle,tortoise,,dinosaur
+1135,6,Premise Diversity,Specific,snake,alligator,,blindworm,snake,cobra,,blindworm
+1136,6,Premise Diversity,Specific,bee,earwig,,spider,bee,bumblebee,,spider
+1137,6,Premise Diversity,Specific,sparrow,turkey,,woodpecker,sparrow,robin,,woodpecker
+1138,6,Premise Diversity,Specific,crocodile,salamander,,alligator,crocodile,caiman,,alligator
+1139,6,Premise Diversity,Specific,tortoise,viper,,dinosaur,tortoise,toad,,dinosaur
+1140,6,Premise Diversity,Specific,wood louse,bumblebee,,earwig,wood louse,cockroach,,earwig
+1141,6,Premise Diversity,Specific,ladybug,mosquito,,centipede,ladybug,cockchafer,,centipede
+1142,6,Premise Diversity,Specific,beetle,bee,,worm,beetle,cockchafer,,worm
+1143,6,Premise Diversity,Specific,swan,magpie,,turkey,swan,stork,,turkey
+1144,6,Premise Diversity,Specific,iguana,python,,caiman,iguana,chameleon,,caiman
+1145,6,Premise Diversity,Specific,robin,penguin,,stork,robin,chickadee,,stork
+1146,6,Premise Diversity,Specific,orca,goldfish,,sole,orca,squid,,sole
+1147,6,Premise Diversity,Specific,earwig,dragonfly,,beetle,earwig,centipede,,beetle
+1148,6,Premise Diversity,Specific,sparrow,eagle,,crow,sparrow,robin,,crow
+1149,6,Premise Diversity,Specific,snake,dinosaur,,turtle,snake,cobra,,turtle
+1150,6,Premise Diversity,Specific,chickadee,chicken,,eagle,chickadee,robin,,eagle
+1151,6,Premise Diversity,Specific,python,dinosaur,,gecko,python,boa,,gecko
+1152,6,Premise Diversity,Specific,bat,rhinoceros,,hamster,bat,monkey,,hamster
+1153,6,Premise Diversity,Specific,pelican,parakeet,,pheasant,pelican,swan,,pheasant
+1154,6,Premise Diversity,Specific,tortoise,python,,frog,tortoise,dinosaur,,frog
+1155,6,Premise Diversity,Specific,turtle,crocodile,,frog,turtle,tortoise,,frog
+1156,6,Premise Diversity,Specific,python,salamander,,boa,python,viper,,boa
+1157,6,Premise Diversity,Specific,caiman,viper,,monitor lizard,caiman,tortoise,,monitor lizard
+1158,6,Premise Diversity,Specific,robin,chicken,,woodpecker,robin,canary,,woodpecker
+1159,6,Premise Diversity,Specific,dinosaur,blindworm,,cobra,dinosaur,monitor lizard,,cobra
+1160,6,Premise Diversity,Specific,ostrich,sparrow,,eagle,ostrich,swan,,eagle
+1161,6,Premise Diversity,Specific,boa,crocodile,,toad,boa,cobra,,toad
+1162,6,Premise Diversity,Specific,boa,crocodile,,viper,boa,cobra,,viper
+1163,6,Premise Diversity,Specific,boa,crocodile,,blindworm,boa,cobra,,blindworm
+1164,6,Premise Diversity,Specific,python,crocodile,,viper,python,cobra,,viper
+1165,6,Premise Diversity,Specific,lizard,python,,toad,lizard,chameleon,,toad
+1166,6,Premise Diversity,Specific,bumblebee,louse,,centipede,bumblebee,bee,,centipede
+1167,6,Premise Diversity,Specific,beetle,bumblebee,,spider,beetle,cockchafer,,spider
+1168,6,Premise Diversity,Specific,bison,monkey,,squirrel,bison,rhinoceros,,squirrel
+1169,6,Premise Diversity,Specific,lizard,snake,,iguana,lizard,salamander,,iguana
+1170,6,Premise Diversity,Specific,lizard,snake,,tortoise,lizard,salamander,,tortoise
+1171,6,Premise Diversity,Specific,vulture,sparrow,,ostrich,vulture,eagle,,ostrich
+1172,6,Premise Diversity,Specific,salamander,boa,,alligator,salamander,chameleon,,alligator
+1173,6,Premise Diversity,Specific,toad,python,,salamander,toad,tortoise,,salamander
+1174,6,Premise Diversity,Specific,chameleon,dinosaur,,cobra,chameleon,gecko,,cobra
+1175,6,Premise Diversity,Specific,monitor lizard,toad,,alligator,monitor lizard,gecko,,alligator
+1176,6,Premise Diversity,Specific,monitor lizard,toad,,crocodile,monitor lizard,gecko,,crocodile
+1177,6,Premise Diversity,Specific,falcon,penguin,,duck,falcon,eagle,,duck
+1178,6,Premise Diversity,Specific,boa,frog,,lizard,boa,cobra,,lizard
+1179,6,Premise Diversity,Specific,herring,orca,,stickleback,herring,salmon,,stickleback
+1180,6,Premise Diversity,Specific,parakeet,penguin,,pelican,parakeet,canary,,pelican
+1181,6,Premise Diversity,Specific,alligator,viper,,caiman,alligator,dinosaur,,caiman
+1182,6,Premise Diversity,Specific,rabbit,lion,,beaver,rabbit,hamster,,beaver
+1183,6,Premise Diversity,Specific,mouse,kangaroo,,pig,mouse,bat,,pig
+1184,6,Premise Diversity,Specific,cobra,crocodile,,snake,cobra,python,,snake
+1185,6,Premise Diversity,Specific,ostrich,magpie,,turkey,ostrich,vulture,,turkey
+1186,6,Premise Diversity,Specific,lizard,cobra,,toad,lizard,chameleon,,toad
+1187,6,Premise Diversity,Specific,stork,chickadee,,eagle,stork,pelican,,eagle
+1188,6,Premise Diversity,Specific,stork,sparrow,,parrot,stork,swan,,parrot
+1189,6,Premise Diversity,Specific,tortoise,blindworm,,cobra,tortoise,toad,,cobra
+1190,6,Premise Diversity,Specific,caterpillar,bee,,wood louse,caterpillar,worm,,wood louse
+1191,6,Premise Diversity,Specific,hamster,cat,,kangaroo,hamster,mouse,,kangaroo
+1192,6,Premise Diversity,Specific,hamster,cat,,hedgehog,hamster,mouse,,hedgehog
+1193,6,Premise Diversity,Specific,pelican,parakeet,,crow,pelican,stork,,crow
+1194,6,Premise Diversity,Specific,eagle,chicken,,owl,eagle,vulture,,owl
+1195,6,Premise Diversity,Specific,turtle,viper,,frog,turtle,tortoise,,frog
+1196,6,Premise Diversity,Specific,sparrow,vulture,,pheasant,sparrow,robin,,pheasant
+1197,6,Premise Diversity,Specific,duck,magpie,,chicken,duck,swan,,chicken
+1198,6,Premise Diversity,Specific,beetle,bee,,cockchafer,beetle,ladybug,,cockchafer
+1199,6,Premise Diversity,Specific,ladybug,fly,,cockchafer,ladybug,butterfly,,cockchafer
+1200,7,Premise Monotonicity,Specific,gecko,iguana,blindworm,viper,gecko,iguana,,viper
+1201,7,Premise Monotonicity,Specific,llama,giraffe,mouse,beaver,llama,giraffe,,beaver
+1202,7,Premise Monotonicity,Specific,turtle,caiman,snake,crocodile,turtle,caiman,,crocodile
+1203,7,Premise Monotonicity,Specific,toad,snake,caiman,dinosaur,toad,snake,,dinosaur
+1204,7,Premise Monotonicity,Specific,earwig,centipede,fly,cockroach,earwig,centipede,,cockroach
+1205,7,Premise Monotonicity,Specific,tortoise,gecko,boa,frog,tortoise,gecko,,frog
+1206,7,Premise Monotonicity,Specific,worm,beetle,fly,cricket,worm,beetle,,cricket
+1207,7,Premise Monotonicity,Specific,monitor lizard,turtle,boa,frog,monitor lizard,turtle,,frog
+1208,7,Premise Monotonicity,Specific,gecko,toad,python,turtle,gecko,toad,,turtle
+1209,7,Premise Monotonicity,Specific,lizard,monitor lizard,cobra,blindworm,lizard,monitor lizard,,blindworm
+1210,7,Premise Monotonicity,Specific,frog,monitor lizard,boa,tortoise,frog,monitor lizard,,tortoise
+1211,7,Premise Monotonicity,Specific,chameleon,frog,snake,lizard,chameleon,frog,,lizard
+1212,7,Premise Monotonicity,Specific,wood louse,ant,fly,spider,wood louse,ant,,spider
+1213,7,Premise Monotonicity,Specific,blindworm,alligator,snake,caiman,blindworm,alligator,,caiman
+1214,7,Premise Monotonicity,Specific,frog,turtle,boa,salamander,frog,turtle,,salamander
+1215,7,Premise Monotonicity,Specific,dinosaur,caiman,boa,monitor lizard,dinosaur,caiman,,monitor lizard
+1216,7,Premise Monotonicity,Specific,monitor lizard,dinosaur,python,chameleon,monitor lizard,dinosaur,,chameleon
+1217,7,Premise Monotonicity,Specific,ant,cockroach,mosquito,cockchafer,ant,cockroach,,cockchafer
+1218,7,Premise Monotonicity,Specific,bison,hippopotamus,hedgehog,bat,bison,hippopotamus,,bat
+1219,7,Premise Monotonicity,Specific,dinosaur,blindworm,boa,iguana,dinosaur,blindworm,,iguana
+1220,7,Premise Monotonicity,Specific,gecko,frog,python,lizard,gecko,frog,,lizard
+1221,7,Premise Monotonicity,Specific,snake,frog,chameleon,caiman,snake,frog,,caiman
+1222,7,Premise Monotonicity,Specific,monitor lizard,frog,python,dinosaur,monitor lizard,frog,,dinosaur
+1223,7,Premise Monotonicity,Specific,blindworm,boa,lizard,viper,blindworm,boa,,viper
+1224,7,Premise Monotonicity,Specific,tortoise,caiman,boa,alligator,tortoise,caiman,,alligator
+1225,7,Premise Monotonicity,Specific,gecko,crocodile,boa,tortoise,gecko,crocodile,,tortoise
+1226,7,Premise Monotonicity,Specific,stork,penguin,sparrow,vulture,stork,penguin,,vulture
+1227,7,Premise Monotonicity,Specific,gecko,dinosaur,python,crocodile,gecko,dinosaur,,crocodile
+1228,7,Premise Monotonicity,Specific,dinosaur,gecko,python,lizard,dinosaur,gecko,,lizard
+1229,7,Premise Monotonicity,Specific,monitor lizard,turtle,cobra,frog,monitor lizard,turtle,,frog
+1230,7,Premise Monotonicity,Specific,crocodile,chameleon,snake,tortoise,crocodile,chameleon,,tortoise
+1231,7,Premise Monotonicity,Specific,turtle,frog,python,gecko,turtle,frog,,gecko
+1232,7,Premise Monotonicity,Specific,snake,gecko,turtle,crocodile,snake,gecko,,crocodile
+1233,7,Premise Monotonicity,Specific,monitor lizard,chameleon,boa,frog,monitor lizard,chameleon,,frog
+1234,7,Premise Monotonicity,Specific,caiman,turtle,python,dinosaur,caiman,turtle,,dinosaur
+1235,7,Premise Monotonicity,Specific,grasshopper,spider,fly,cricket,grasshopper,spider,,cricket
+1236,7,Premise Monotonicity,Specific,sperm whale,shark,cod,orca,sperm whale,shark,,orca
+1237,7,Premise Monotonicity,Specific,caiman,toad,python,dinosaur,caiman,toad,,dinosaur
+1238,7,Premise Monotonicity,Specific,caiman,tortoise,python,frog,caiman,tortoise,,frog
+1239,7,Premise Monotonicity,Specific,monitor lizard,viper,lizard,cobra,monitor lizard,viper,,cobra
+1240,7,Premise Monotonicity,Specific,whale,shark,cod,dolphin,whale,shark,,dolphin
+1241,7,Premise Monotonicity,Specific,monitor lizard,boa,dinosaur,turtle,monitor lizard,boa,,turtle
+1242,7,Premise Monotonicity,Specific,dinosaur,blindworm,viper,gecko,dinosaur,blindworm,,gecko
+1243,7,Premise Monotonicity,Specific,caiman,dinosaur,python,tortoise,caiman,dinosaur,,tortoise
+1244,7,Premise Monotonicity,Specific,frog,toad,cobra,lizard,frog,toad,,lizard
+1245,7,Premise Monotonicity,Specific,crocodile,monitor lizard,boa,frog,crocodile,monitor lizard,,frog
+1246,7,Premise Monotonicity,Specific,alligator,dinosaur,snake,turtle,alligator,dinosaur,,turtle
+1247,7,Premise Monotonicity,Specific,turtle,toad,cobra,dinosaur,turtle,toad,,dinosaur
+1248,7,Premise Monotonicity,Specific,dinosaur,turtle,python,toad,dinosaur,turtle,,toad
+1249,7,Premise Monotonicity,Specific,caiman,turtle,cobra,alligator,caiman,turtle,,alligator
+1250,7,Premise Monotonicity,Specific,python,blindworm,alligator,boa,python,blindworm,,boa
+1251,7,Premise Monotonicity,Specific,caterpillar,beetle,mosquito,ant,caterpillar,beetle,,ant
+1252,7,Premise Monotonicity,Specific,bumblebee,mosquito,centipede,cricket,bumblebee,mosquito,,cricket
+1253,7,Premise Monotonicity,Specific,caiman,toad,cobra,turtle,caiman,toad,,turtle
+1254,7,Premise Monotonicity,Specific,blindworm,dinosaur,cobra,tortoise,blindworm,dinosaur,,tortoise
+1255,7,Premise Monotonicity,Specific,toad,viper,lizard,snake,toad,viper,,snake
+1256,7,Premise Monotonicity,Specific,ladybug,cricket,fly,grasshopper,ladybug,cricket,,grasshopper
+1257,7,Premise Monotonicity,Specific,chameleon,frog,boa,iguana,chameleon,frog,,iguana
+1258,7,Premise Monotonicity,Specific,orca,squid,salmon,whale,orca,squid,,whale
+1259,7,Premise Monotonicity,Specific,stork,penguin,chickadee,peacock,stork,penguin,,peacock
+1260,7,Premise Monotonicity,Specific,blindworm,crocodile,boa,monitor lizard,blindworm,crocodile,,monitor lizard
+1261,7,Premise Monotonicity,Specific,blindworm,salamander,snake,chameleon,blindworm,salamander,,chameleon
+1262,7,Premise Monotonicity,Specific,boa,python,dinosaur,gecko,boa,python,,gecko
+1263,7,Premise Monotonicity,Specific,crocodile,gecko,python,iguana,crocodile,gecko,,iguana
+1264,7,Premise Monotonicity,Specific,monkey,hamster,zebra,bat,monkey,hamster,,bat
+1265,7,Premise Monotonicity,Specific,frog,monitor lizard,alligator,toad,frog,monitor lizard,,toad
+1266,7,Premise Monotonicity,Specific,crow,canary,ostrich,pelican,crow,canary,,pelican
+1267,7,Premise Monotonicity,Specific,crocodile,gecko,cobra,monitor lizard,crocodile,gecko,,monitor lizard
+1268,7,Premise Monotonicity,Specific,pelican,penguin,parakeet,vulture,pelican,penguin,,vulture
+1269,7,Premise Monotonicity,Specific,dinosaur,turtle,viper,caiman,dinosaur,turtle,,caiman
+1270,7,Premise Monotonicity,Specific,orca,dolphin,salmon,swordfish,orca,dolphin,,swordfish
+1271,7,Premise Monotonicity,Specific,boa,gecko,crocodile,toad,boa,gecko,,toad
+1272,7,Premise Monotonicity,Specific,snake,monitor lizard,tortoise,frog,snake,monitor lizard,,frog
+1273,7,Premise Monotonicity,Specific,tortoise,iguana,boa,caiman,tortoise,iguana,,caiman
+1274,7,Premise Monotonicity,Specific,cobra,python,salamander,blindworm,cobra,python,,blindworm
+1275,7,Premise Monotonicity,Specific,iguana,turtle,boa,frog,iguana,turtle,,frog
+1276,7,Premise Monotonicity,Specific,gecko,viper,crocodile,blindworm,gecko,viper,,blindworm
+1277,7,Premise Monotonicity,Specific,chickadee,owl,penguin,pelican,chickadee,owl,,pelican
+1278,7,Premise Monotonicity,Specific,pelican,ostrich,woodpecker,swan,pelican,ostrich,,swan
+1279,7,Premise Monotonicity,Specific,iguana,dinosaur,boa,crocodile,iguana,dinosaur,,crocodile
+1280,7,Premise Monotonicity,Specific,dinosaur,iguana,boa,monitor lizard,dinosaur,iguana,,monitor lizard
+1281,7,Premise Monotonicity,Specific,crocodile,monitor lizard,python,caiman,crocodile,monitor lizard,,caiman
+1282,7,Premise Monotonicity,Specific,toad,iguana,boa,crocodile,toad,iguana,,crocodile
+1283,7,Premise Monotonicity,Specific,crocodile,monitor lizard,cobra,iguana,crocodile,monitor lizard,,iguana
+1284,7,Premise Monotonicity,Specific,crocodile,caiman,cobra,turtle,crocodile,caiman,,turtle
+1285,7,Premise Monotonicity,Specific,dinosaur,crocodile,cobra,toad,dinosaur,crocodile,,toad
+1286,7,Premise Monotonicity,Specific,toad,cobra,salamander,snake,toad,cobra,,snake
+1287,7,Premise Monotonicity,Specific,cobra,toad,salamander,viper,cobra,toad,,viper
+1288,7,Premise Monotonicity,Specific,crocodile,tortoise,cobra,lizard,crocodile,tortoise,,lizard
+1289,7,Premise Monotonicity,Specific,horsefly,spider,fly,centipede,horsefly,spider,,centipede
+1290,7,Premise Monotonicity,Specific,chameleon,frog,cobra,lizard,chameleon,frog,,lizard
+1291,7,Premise Monotonicity,Specific,blindworm,crocodile,viper,turtle,blindworm,crocodile,,turtle
+1292,7,Premise Monotonicity,Specific,leech,grasshopper,mosquito,centipede,leech,grasshopper,,centipede
+1293,7,Premise Monotonicity,Specific,tortoise,chameleon,blindworm,cobra,tortoise,chameleon,,cobra
+1294,7,Premise Monotonicity,Specific,worm,cricket,fruit fly,earwig,worm,cricket,,earwig
+1295,7,Premise Monotonicity,Specific,bat,hedgehog,elephant,fox,bat,hedgehog,,fox
+1296,7,Premise Monotonicity,Specific,gecko,iguana,cobra,crocodile,gecko,iguana,,crocodile
+1297,7,Premise Monotonicity,Specific,penguin,eagle,robin,pelican,penguin,eagle,,pelican
+1298,7,Premise Monotonicity,Specific,orca,shark,sole,piranha,orca,shark,,piranha
+1299,7,Premise Monotonicity,Specific,python,turtle,lizard,viper,python,turtle,,viper
+1300,7,Premise Monotonicity,Specific,caiman,iguana,cobra,tortoise,caiman,iguana,,tortoise
+1301,7,Premise Monotonicity,Specific,squirrel,polar bear,horse,mouse,squirrel,polar bear,,mouse
+1302,7,Premise Monotonicity,Specific,beetle,ladybug,mosquito,wood louse,beetle,ladybug,,wood louse
+1303,7,Premise Monotonicity,Specific,whale,shark,sole,goldfish,whale,shark,,goldfish
+1304,7,Premise Monotonicity,Specific,llama,elephant,monkey,bat,llama,elephant,,bat
+1305,7,Premise Monotonicity,Specific,snake,frog,dinosaur,iguana,snake,frog,,iguana
+1306,7,Premise Monotonicity,Specific,bumblebee,leech,louse,grasshopper,bumblebee,leech,,grasshopper
+1307,7,Premise Monotonicity,Specific,toad,cobra,monitor lizard,lizard,toad,cobra,,lizard
+1308,7,Premise Monotonicity,Specific,sardine,eel,whale,trout,sardine,eel,,trout
+1309,7,Premise Monotonicity,Specific,robin,chickadee,turkey,magpie,robin,chickadee,,magpie
+1310,7,Premise Monotonicity,Specific,viper,turtle,alligator,tortoise,viper,turtle,,tortoise
+1311,7,Premise Monotonicity,Specific,dinosaur,iguana,python,lizard,dinosaur,iguana,,lizard
+1312,7,Premise Monotonicity,Specific,blindworm,boa,crocodile,cobra,blindworm,boa,,cobra
+1313,7,Premise Monotonicity,Specific,boa,blindworm,crocodile,toad,boa,blindworm,,toad
+1314,7,Premise Monotonicity,Specific,iguana,caiman,python,gecko,iguana,caiman,,gecko
+1315,7,Premise Monotonicity,Specific,monitor lizard,iguana,python,crocodile,monitor lizard,iguana,,crocodile
+1316,7,Premise Monotonicity,Specific,frog,toad,crocodile,turtle,frog,toad,,turtle
+1317,7,Premise Monotonicity,Specific,flee,ant,mosquito,worm,flee,ant,,worm
+1318,7,Premise Monotonicity,Specific,ostrich,duck,dove,vulture,ostrich,duck,,vulture
+1319,7,Premise Monotonicity,Specific,turtle,python,alligator,cobra,turtle,python,,cobra
+1320,7,Premise Monotonicity,Specific,blindworm,crocodile,cobra,alligator,blindworm,crocodile,,alligator
+1321,7,Premise Monotonicity,Specific,sperm whale,sardine,trout,anchovy,sperm whale,sardine,,anchovy
+1322,7,Premise Monotonicity,Specific,iguana,crocodile,cobra,frog,iguana,crocodile,,frog
+1323,7,Premise Monotonicity,Specific,turtle,python,tortoise,chameleon,turtle,python,,chameleon
+1324,7,Premise Monotonicity,Specific,robin,canary,stork,crow,robin,canary,,crow
+1325,7,Premise Monotonicity,Specific,turkey,penguin,chickadee,heron,turkey,penguin,,heron
+1326,7,Premise Monotonicity,Specific,spider,ant,bumblebee,leech,spider,ant,,leech
+1327,7,Premise Monotonicity,Specific,frog,blindworm,crocodile,toad,frog,blindworm,,toad
+1328,7,Premise Monotonicity,Specific,ostrich,turkey,dove,penguin,ostrich,turkey,,penguin
+1329,7,Premise Monotonicity,Specific,dolphin,whale,carp,squid,dolphin,whale,,squid
+1330,7,Premise Monotonicity,Specific,penguin,chickadee,turkey,blackbird,penguin,chickadee,,blackbird
+1331,7,Premise Monotonicity,Specific,hedgehog,squirrel,wolf,rabbit,hedgehog,squirrel,,rabbit
+1332,7,Premise Monotonicity,Specific,blindworm,lizard,boa,alligator,blindworm,lizard,,alligator
+1333,7,Premise Monotonicity,Specific,gecko,iguana,blindworm,snake,gecko,iguana,,snake
+1334,7,Premise Monotonicity,Specific,tortoise,alligator,boa,gecko,tortoise,alligator,,gecko
+1335,7,Premise Monotonicity,Specific,caiman,alligator,boa,chameleon,caiman,alligator,,chameleon
+1336,7,Premise Monotonicity,Specific,turtle,crocodile,viper,tortoise,turtle,crocodile,,tortoise
+1337,7,Premise Monotonicity,Specific,hippopotamus,elephant,mouse,sheep,hippopotamus,elephant,,sheep
+1338,7,Premise Monotonicity,Specific,flee,cricket,mosquito,earwig,flee,cricket,,earwig
+1339,7,Premise Monotonicity,Specific,cricket,ant,wasp,grasshopper,cricket,ant,,grasshopper
+1340,7,Premise Monotonicity,Specific,worm,louse,butterfly,cockroach,worm,louse,,cockroach
+1341,7,Premise Monotonicity,Specific,eagle,heron,sparrow,rooster,eagle,heron,,rooster
+1342,7,Premise Monotonicity,Specific,blindworm,chameleon,cobra,caiman,blindworm,chameleon,,caiman
+1343,7,Premise Monotonicity,Specific,blindworm,chameleon,cobra,gecko,blindworm,chameleon,,gecko
+1344,7,Premise Monotonicity,Specific,caterpillar,beetle,fruit fly,grasshopper,caterpillar,beetle,,grasshopper
+1345,7,Premise Monotonicity,Specific,ladybug,louse,mosquito,caterpillar,ladybug,louse,,caterpillar
+1346,7,Premise Monotonicity,Specific,cricket,caterpillar,fruit fly,wood louse,cricket,caterpillar,,wood louse
+1347,7,Premise Monotonicity,Specific,alligator,turtle,cobra,crocodile,alligator,turtle,,crocodile
+1348,7,Premise Monotonicity,Specific,alligator,turtle,python,lizard,alligator,turtle,,lizard
+1349,7,Premise Monotonicity,Specific,turtle,alligator,cobra,tortoise,turtle,alligator,,tortoise
+1350,7,Premise Monotonicity,Specific,cockroach,beetle,bumblebee,caterpillar,cockroach,beetle,,caterpillar
+1351,7,Premise Monotonicity,Specific,caiman,lizard,boa,tortoise,caiman,lizard,,tortoise
+1352,7,Premise Monotonicity,Specific,lizard,caiman,boa,tortoise,lizard,caiman,,tortoise
+1353,7,Premise Monotonicity,Specific,swordfish,squid,salmon,dolphin,swordfish,squid,,dolphin
+1354,7,Premise Monotonicity,Specific,stork,peacock,sparrow,pheasant,stork,peacock,,pheasant
+1355,7,Premise Monotonicity,Specific,boa,gecko,chameleon,blindworm,boa,gecko,,blindworm
+1356,7,Premise Monotonicity,Specific,sardine,plaice,squid,sperm whale,sardine,plaice,,sperm whale
+1357,7,Premise Monotonicity,Specific,spider,louse,fruit fly,wood louse,spider,louse,,wood louse
+1358,7,Premise Monotonicity,Specific,python,blindworm,monitor lizard,lizard,python,blindworm,,lizard
+1359,7,Premise Monotonicity,Specific,boa,turtle,toad,gecko,boa,turtle,,gecko
+1360,7,Premise Monotonicity,Specific,wood louse,centipede,fruit fly,caterpillar,wood louse,centipede,,caterpillar
+1361,7,Premise Monotonicity,Specific,monitor lizard,iguana,viper,gecko,monitor lizard,iguana,,gecko
+1362,7,Premise Monotonicity,Specific,louse,fruit fly,centipede,cricket,louse,fruit fly,,cricket
+1363,7,Premise Monotonicity,Specific,cockchafer,caterpillar,bumblebee,louse,cockchafer,caterpillar,,louse
+1364,7,Premise Monotonicity,Specific,cricket,beetle,fruit fly,grasshopper,cricket,beetle,,grasshopper
+1365,7,Premise Monotonicity,Specific,louse,beetle,wasp,cockroach,louse,beetle,,cockroach
+1366,7,Premise Monotonicity,Specific,viper,gecko,chameleon,toad,viper,gecko,,toad
+1367,7,Premise Monotonicity,Specific,eagle,heron,dove,pelican,eagle,heron,,pelican
+1368,7,Premise Monotonicity,Specific,alligator,chameleon,cobra,monitor lizard,alligator,chameleon,,monitor lizard
+1369,7,Premise Monotonicity,Specific,frog,iguana,viper,crocodile,frog,iguana,,crocodile
+1370,7,Premise Monotonicity,Specific,monitor lizard,alligator,cobra,turtle,monitor lizard,alligator,,turtle
+1371,7,Premise Monotonicity,Specific,iguana,tortoise,viper,gecko,iguana,tortoise,,gecko
+1372,7,Premise Monotonicity,Specific,sperm whale,eel,trout,orca,sperm whale,eel,,orca
+1373,7,Premise Monotonicity,Specific,shark,orca,carp,whale,shark,orca,,whale
+1374,7,Premise Monotonicity,Specific,python,crocodile,frog,salamander,python,crocodile,,salamander
+1375,7,Premise Monotonicity,Specific,eel,sardine,squid,whale,eel,sardine,,whale
+1376,7,Premise Monotonicity,Specific,boa,snake,alligator,python,boa,snake,,python
+1377,7,Premise Monotonicity,Specific,flatfish,sardine,orca,salmon,flatfish,sardine,,salmon
+1378,7,Premise Monotonicity,Specific,crocodile,blindworm,salamander,caiman,crocodile,blindworm,,caiman
+1379,7,Premise Monotonicity,Specific,sole,anchovy,orca,ray,sole,anchovy,,ray
+1380,7,Premise Monotonicity,Specific,anchovy,piranha,whale,goldfish,anchovy,piranha,,goldfish
+1381,7,Premise Monotonicity,Specific,blindworm,caiman,chameleon,viper,blindworm,caiman,,viper
+1382,7,Premise Monotonicity,Specific,goldfish,piranha,whale,stickleback,goldfish,piranha,,stickleback
+1383,7,Premise Monotonicity,Specific,wasp,fly,centipede,louse,wasp,fly,,louse
+1384,7,Premise Monotonicity,Specific,ant,grasshopper,wasp,flee,ant,grasshopper,,flee
+1385,7,Premise Monotonicity,Specific,blindworm,iguana,viper,crocodile,blindworm,iguana,,crocodile
+1386,7,Premise Monotonicity,Specific,flee,centipede,bee,worm,flee,centipede,,worm
+1387,7,Premise Monotonicity,Specific,eagle,ostrich,chicken,heron,eagle,ostrich,,heron
+1388,7,Premise Monotonicity,Specific,hamster,wolf,horse,beaver,hamster,wolf,,beaver
+1389,7,Premise Monotonicity,Specific,tortoise,viper,crocodile,boa,tortoise,viper,,boa
+1390,7,Premise Monotonicity,Specific,elephant,hippopotamus,bat,cat,elephant,hippopotamus,,cat
+1391,7,Premise Monotonicity,Specific,fly,butterfly,ladybug,cockroach,fly,butterfly,,cockroach
+1392,7,Premise Monotonicity,Specific,fruit fly,bumblebee,cockroach,caterpillar,fruit fly,bumblebee,,caterpillar
+1393,7,Premise Monotonicity,Specific,parakeet,penguin,turkey,robin,parakeet,penguin,,robin
+1394,7,Premise Monotonicity,Specific,cobra,blindworm,turtle,salamander,cobra,blindworm,,salamander
+1395,7,Premise Monotonicity,Specific,blackbird,robin,chicken,eagle,blackbird,robin,,eagle
+1396,7,Premise Monotonicity,Specific,robin,blackbird,chicken,cuckoo,robin,blackbird,,cuckoo
+1397,7,Premise Monotonicity,Specific,leech,earwig,wasp,caterpillar,leech,earwig,,caterpillar
+1398,7,Premise Monotonicity,Specific,frog,toad,monitor lizard,alligator,frog,toad,,alligator
+1399,7,Premise Monotonicity,Specific,swordfish,dolphin,carp,whale,swordfish,dolphin,,whale
+1400,8,Premise-conclusion Asymmetry,Specific,pheasant,,,canary,canary,,,pheasant
+1401,8,Premise-conclusion Asymmetry,Specific,wood louse,,,ladybug,ladybug,,,wood louse
+1402,8,Premise-conclusion Asymmetry,Specific,stickleback,,,shark,shark,,,stickleback
+1403,8,Premise-conclusion Asymmetry,Specific,gecko,,,dinosaur,dinosaur,,,gecko
+1404,8,Premise-conclusion Asymmetry,Specific,boa,,,crocodile,crocodile,,,boa
+1405,8,Premise-conclusion Asymmetry,Specific,heron,,,falcon,falcon,,,heron
+1406,8,Premise-conclusion Asymmetry,Specific,dolphin,,,salmon,salmon,,,dolphin
+1407,8,Premise-conclusion Asymmetry,Specific,monitor lizard,,,chameleon,chameleon,,,monitor lizard
+1408,8,Premise-conclusion Asymmetry,Specific,boa,,,dinosaur,dinosaur,,,boa
+1409,8,Premise-conclusion Asymmetry,Specific,rhinoceros,,,tiger,tiger,,,rhinoceros
+1410,8,Premise-conclusion Asymmetry,Specific,snake,,,blindworm,blindworm,,,snake
+1411,8,Premise-conclusion Asymmetry,Specific,monitor lizard,,,caiman,caiman,,,monitor lizard
+1412,8,Premise-conclusion Asymmetry,Specific,mouse,,,wolf,wolf,,,mouse
+1413,8,Premise-conclusion Asymmetry,Specific,turkey,,,peacock,peacock,,,turkey
+1414,8,Premise-conclusion Asymmetry,Specific,centipede,,,cricket,cricket,,,centipede
+1415,8,Premise-conclusion Asymmetry,Specific,leech,,,mosquito,mosquito,,,leech
+1416,8,Premise-conclusion Asymmetry,Specific,hippopotamus,,,hedgehog,hedgehog,,,hippopotamus
+1417,8,Premise-conclusion Asymmetry,Specific,alligator,,,python,python,,,alligator
+1418,8,Premise-conclusion Asymmetry,Specific,rhinoceros,,,squirrel,squirrel,,,rhinoceros
+1419,8,Premise-conclusion Asymmetry,Specific,mouse,,,hamster,hamster,,,mouse
+1420,8,Premise-conclusion Asymmetry,Specific,horsefly,,,centipede,centipede,,,horsefly
+1421,8,Premise-conclusion Asymmetry,Specific,spider,,,leech,leech,,,spider
+1422,8,Premise-conclusion Asymmetry,Specific,dog,,,elephant,elephant,,,dog
+1423,8,Premise-conclusion Asymmetry,Specific,ray,,,dolphin,dolphin,,,ray
+1424,8,Premise-conclusion Asymmetry,Specific,hamster,,,monkey,monkey,,,hamster
+1425,8,Premise-conclusion Asymmetry,Specific,crow,,,pheasant,pheasant,,,crow
+1426,8,Premise-conclusion Asymmetry,Specific,squirrel,,,hamster,hamster,,,squirrel
+1427,8,Premise-conclusion Asymmetry,Specific,dragonfly,,,moth,moth,,,dragonfly
+1428,8,Premise-conclusion Asymmetry,Specific,zebra,,,elephant,elephant,,,zebra
+1429,8,Premise-conclusion Asymmetry,Specific,swordfish,,,ray,ray,,,swordfish
+1430,8,Premise-conclusion Asymmetry,Specific,dolphin,,,ray,ray,,,dolphin
+1431,8,Premise-conclusion Asymmetry,Specific,cat,,,hamster,hamster,,,cat
+1432,8,Premise-conclusion Asymmetry,Specific,mouse,,,elephant,elephant,,,mouse
+1433,8,Premise-conclusion Asymmetry,Specific,swan,,,sparrow,sparrow,,,swan
+1434,8,Premise-conclusion Asymmetry,Specific,goldfish,,,salmon,salmon,,,goldfish
+1435,8,Premise-conclusion Asymmetry,Specific,herring,,,swordfish,swordfish,,,herring
+1436,8,Premise-conclusion Asymmetry,Specific,turkey,,,canary,canary,,,turkey
+1437,8,Premise-conclusion Asymmetry,Specific,monkey,,,dog,dog,,,monkey
+1438,8,Premise-conclusion Asymmetry,Specific,parrot,,,swan,swan,,,parrot
+1439,8,Premise-conclusion Asymmetry,Specific,cod,,,dolphin,dolphin,,,cod
+1440,8,Premise-conclusion Asymmetry,Specific,chameleon,,,boa,boa,,,chameleon
+1441,8,Premise-conclusion Asymmetry,Specific,dog,,,bison,bison,,,dog
+1442,8,Premise-conclusion Asymmetry,Specific,parakeet,,,turkey,turkey,,,parakeet
+1443,8,Premise-conclusion Asymmetry,Specific,ant,,,horsefly,horsefly,,,ant
+1444,8,Premise-conclusion Asymmetry,Specific,sheep,,,kangaroo,kangaroo,,,sheep
+1445,8,Premise-conclusion Asymmetry,Specific,wood louse,,,louse,louse,,,wood louse
+1446,8,Premise-conclusion Asymmetry,Specific,rhinoceros,,,fox,fox,,,rhinoceros
+1447,8,Premise-conclusion Asymmetry,Specific,whale,,,flatfish,flatfish,,,whale
+1448,8,Premise-conclusion Asymmetry,Specific,deer,,,bat,bat,,,deer
+1449,8,Premise-conclusion Asymmetry,Specific,hedgehog,,,sheep,sheep,,,hedgehog
+1450,8,Premise-conclusion Asymmetry,Specific,salamander,,,iguana,iguana,,,salamander
+1451,8,Premise-conclusion Asymmetry,Specific,blindworm,,,chameleon,chameleon,,,blindworm
+1452,8,Premise-conclusion Asymmetry,Specific,elephant,,,fox,fox,,,elephant
+1453,8,Premise-conclusion Asymmetry,Specific,carp,,,orca,orca,,,carp
+1454,8,Premise-conclusion Asymmetry,Specific,eagle,,,stork,stork,,,eagle
+1455,8,Premise-conclusion Asymmetry,Specific,zebra,,,horse,horse,,,zebra
+1456,8,Premise-conclusion Asymmetry,Specific,woodpecker,,,rooster,rooster,,,woodpecker
+1457,8,Premise-conclusion Asymmetry,Specific,wolf,,,hamster,hamster,,,wolf
+1458,8,Premise-conclusion Asymmetry,Specific,hamster,,,zebra,zebra,,,hamster
+1459,8,Premise-conclusion Asymmetry,Specific,duck,,,parrot,parrot,,,duck
+1460,8,Premise-conclusion Asymmetry,Specific,magpie,,,sparrow,sparrow,,,magpie
+1461,8,Premise-conclusion Asymmetry,Specific,deer,,,dog,dog,,,deer
+1462,8,Premise-conclusion Asymmetry,Specific,boa,,,monitor lizard,monitor lizard,,,boa
+1463,8,Premise-conclusion Asymmetry,Specific,caterpillar,,,grasshopper,grasshopper,,,caterpillar
+1464,8,Premise-conclusion Asymmetry,Specific,squirrel,,,rabbit,rabbit,,,squirrel
+1465,8,Premise-conclusion Asymmetry,Specific,sparrow,,,pelican,pelican,,,sparrow
+1466,8,Premise-conclusion Asymmetry,Specific,ostrich,,,woodpecker,woodpecker,,,ostrich
+1467,8,Premise-conclusion Asymmetry,Specific,tortoise,,,chameleon,chameleon,,,tortoise
+1468,8,Premise-conclusion Asymmetry,Specific,pig,,,lion,lion,,,pig
+1469,8,Premise-conclusion Asymmetry,Specific,robin,,,swan,swan,,,robin
+1470,8,Premise-conclusion Asymmetry,Specific,trout,,,anchovy,anchovy,,,trout
+1471,8,Premise-conclusion Asymmetry,Specific,tortoise,,,monitor lizard,monitor lizard,,,tortoise
+1472,8,Premise-conclusion Asymmetry,Specific,anchovy,,,sole,sole,,,anchovy
+1473,8,Premise-conclusion Asymmetry,Specific,sheep,,,hedgehog,hedgehog,,,sheep
+1474,8,Premise-conclusion Asymmetry,Specific,beetle,,,dragonfly,dragonfly,,,beetle
+1475,8,Premise-conclusion Asymmetry,Specific,dove,,,chickadee,chickadee,,,dove
+1476,8,Premise-conclusion Asymmetry,Specific,tiger,,,wolf,wolf,,,tiger
+1477,8,Premise-conclusion Asymmetry,Specific,elephant,,,cat,cat,,,elephant
+1478,8,Premise-conclusion Asymmetry,Specific,ray,,,eel,eel,,,ray
+1479,8,Premise-conclusion Asymmetry,Specific,shark,,,stickleback,stickleback,,,shark
+1480,8,Premise-conclusion Asymmetry,Specific,louse,,,cockchafer,cockchafer,,,louse
+1481,8,Premise-conclusion Asymmetry,Specific,leech,,,wood louse,wood louse,,,leech
+1482,8,Premise-conclusion Asymmetry,Specific,mosquito,,,cricket,cricket,,,mosquito
+1483,8,Premise-conclusion Asymmetry,Specific,penguin,,,rooster,rooster,,,penguin
+1484,8,Premise-conclusion Asymmetry,Specific,swallow,,,stork,stork,,,swallow
+1485,8,Premise-conclusion Asymmetry,Specific,blindworm,,,boa,boa,,,blindworm
+1486,8,Premise-conclusion Asymmetry,Specific,cobra,,,chameleon,chameleon,,,cobra
+1487,8,Premise-conclusion Asymmetry,Specific,goldfish,,,carp,carp,,,goldfish
+1488,8,Premise-conclusion Asymmetry,Specific,seagull,,,sparrow,sparrow,,,seagull
+1489,8,Premise-conclusion Asymmetry,Specific,gecko,,,frog,frog,,,gecko
+1490,8,Premise-conclusion Asymmetry,Specific,toad,,,salamander,salamander,,,toad
+1491,8,Premise-conclusion Asymmetry,Specific,cobra,,,snake,snake,,,cobra
+1492,8,Premise-conclusion Asymmetry,Specific,leech,,,flee,flee,,,leech
+1493,8,Premise-conclusion Asymmetry,Specific,python,,,cobra,cobra,,,python
+1494,8,Premise-conclusion Asymmetry,Specific,hedgehog,,,giraffe,giraffe,,,hedgehog
+1495,8,Premise-conclusion Asymmetry,Specific,chickadee,,,rooster,rooster,,,chickadee
+1496,8,Premise-conclusion Asymmetry,Specific,grasshopper,,,fruit fly,fruit fly,,,grasshopper
+1497,8,Premise-conclusion Asymmetry,Specific,whale,,,swordfish,swordfish,,,whale
+1498,8,Premise-conclusion Asymmetry,Specific,piranha,,,sole,sole,,,piranha
+1499,8,Premise-conclusion Asymmetry,Specific,stork,,,duck,duck,,,stork
+1500,8,Premise-conclusion Asymmetry,Specific,heron,,,swallow,swallow,,,heron
+1501,8,Premise-conclusion Asymmetry,Specific,plaice,,,trout,trout,,,plaice
+1502,8,Premise-conclusion Asymmetry,Specific,moth,,,butterfly,butterfly,,,moth
+1503,8,Premise-conclusion Asymmetry,Specific,tortoise,,,frog,frog,,,tortoise
+1504,8,Premise-conclusion Asymmetry,Specific,fruit fly,,,wasp,wasp,,,fruit fly
+1505,8,Premise-conclusion Asymmetry,Specific,snake,,,toad,toad,,,snake
+1506,8,Premise-conclusion Asymmetry,Specific,monitor lizard,,,gecko,gecko,,,monitor lizard
+1507,8,Premise-conclusion Asymmetry,Specific,chameleon,,,alligator,alligator,,,chameleon
+1508,8,Premise-conclusion Asymmetry,Specific,seagull,,,chickadee,chickadee,,,seagull
+1509,8,Premise-conclusion Asymmetry,Specific,toad,,,snake,snake,,,toad
+1510,8,Premise-conclusion Asymmetry,Specific,fox,,,lion,lion,,,fox
+1511,8,Premise-conclusion Asymmetry,Specific,cuckoo,,,pheasant,pheasant,,,cuckoo
+1512,8,Premise-conclusion Asymmetry,Specific,dromedary,,,fox,fox,,,dromedary
+1513,8,Premise-conclusion Asymmetry,Specific,blackbird,,,chicken,chicken,,,blackbird
+1514,8,Premise-conclusion Asymmetry,Specific,cod,,,sperm whale,sperm whale,,,cod
+1515,8,Premise-conclusion Asymmetry,Specific,deer,,,pig,pig,,,deer
+1516,8,Premise-conclusion Asymmetry,Specific,herring,,,dolphin,dolphin,,,herring
+1517,8,Premise-conclusion Asymmetry,Specific,chicken,,,chickadee,chickadee,,,chicken
+1518,8,Premise-conclusion Asymmetry,Specific,peacock,,,sparrow,sparrow,,,peacock
+1519,8,Premise-conclusion Asymmetry,Specific,cat,,,hippopotamus,hippopotamus,,,cat
+1520,8,Premise-conclusion Asymmetry,Specific,flatfish,,,cod,cod,,,flatfish
+1521,8,Premise-conclusion Asymmetry,Specific,cod,,,goldfish,goldfish,,,cod
+1522,8,Premise-conclusion Asymmetry,Specific,cricket,,,leech,leech,,,cricket
+1523,8,Premise-conclusion Asymmetry,Specific,swan,,,duck,duck,,,swan
+1524,8,Premise-conclusion Asymmetry,Specific,turkey,,,cuckoo,cuckoo,,,turkey
+1525,8,Premise-conclusion Asymmetry,Specific,plaice,,,salmon,salmon,,,plaice
+1526,8,Premise-conclusion Asymmetry,Specific,salamander,,,frog,frog,,,salamander
+1527,8,Premise-conclusion Asymmetry,Specific,beetle,,,cockchafer,cockchafer,,,beetle
+1528,8,Premise-conclusion Asymmetry,Specific,hedgehog,,,bison,bison,,,hedgehog
+1529,8,Premise-conclusion Asymmetry,Specific,heron,,,woodpecker,woodpecker,,,heron
+1530,8,Premise-conclusion Asymmetry,Specific,piranha,,,squid,squid,,,piranha
+1531,8,Premise-conclusion Asymmetry,Specific,sparrow,,,peacock,peacock,,,sparrow
+1532,8,Premise-conclusion Asymmetry,Specific,salamander,,,alligator,alligator,,,salamander
+1533,8,Premise-conclusion Asymmetry,Specific,boa,,,iguana,iguana,,,boa
+1534,8,Premise-conclusion Asymmetry,Specific,trout,,,herring,herring,,,trout
+1535,8,Premise-conclusion Asymmetry,Specific,bat,,,horse,horse,,,bat
+1536,8,Premise-conclusion Asymmetry,Specific,tortoise,,,python,python,,,tortoise
+1537,8,Premise-conclusion Asymmetry,Specific,squirrel,,,horse,horse,,,squirrel
+1538,8,Premise-conclusion Asymmetry,Specific,giraffe,,,deer,deer,,,giraffe
+1539,8,Premise-conclusion Asymmetry,Specific,pig,,,zebra,zebra,,,pig
+1540,8,Premise-conclusion Asymmetry,Specific,parakeet,,,parrot,parrot,,,parakeet
+1541,8,Premise-conclusion Asymmetry,Specific,dove,,,parrot,parrot,,,dove
+1542,8,Premise-conclusion Asymmetry,Specific,cow,,,hamster,hamster,,,cow
+1543,8,Premise-conclusion Asymmetry,Specific,tortoise,,,iguana,iguana,,,tortoise
+1544,8,Premise-conclusion Asymmetry,Specific,louse,,,fruit fly,fruit fly,,,louse
+1545,8,Premise-conclusion Asymmetry,Specific,falcon,,,chicken,chicken,,,falcon
+1546,8,Premise-conclusion Asymmetry,Specific,trout,,,sperm whale,sperm whale,,,trout
+1547,8,Premise-conclusion Asymmetry,Specific,donkey,,,cow,cow,,,donkey
+1548,8,Premise-conclusion Asymmetry,Specific,stork,,,owl,owl,,,stork
+1549,8,Premise-conclusion Asymmetry,Specific,viper,,,tortoise,tortoise,,,viper
+1550,8,Premise-conclusion Asymmetry,Specific,orca,,,sardine,sardine,,,orca
+1551,8,Premise-conclusion Asymmetry,Specific,owl,,,duck,duck,,,owl
+1552,8,Premise-conclusion Asymmetry,Specific,hedgehog,,,hamster,hamster,,,hedgehog
+1553,8,Premise-conclusion Asymmetry,Specific,gecko,,,turtle,turtle,,,gecko
+1554,8,Premise-conclusion Asymmetry,Specific,dinosaur,,,cobra,cobra,,,dinosaur
+1555,8,Premise-conclusion Asymmetry,Specific,bumblebee,,,centipede,centipede,,,bumblebee
+1556,8,Premise-conclusion Asymmetry,Specific,dolphin,,,flatfish,flatfish,,,dolphin
+1557,8,Premise-conclusion Asymmetry,Specific,trout,,,stickleback,stickleback,,,trout
+1558,8,Premise-conclusion Asymmetry,Specific,trout,,,orca,orca,,,trout
+1559,8,Premise-conclusion Asymmetry,Specific,magpie,,,robin,robin,,,magpie
+1560,8,Premise-conclusion Asymmetry,Specific,lion,,,polar bear,polar bear,,,lion
+1561,8,Premise-conclusion Asymmetry,Specific,bison,,,dog,dog,,,bison
+1562,8,Premise-conclusion Asymmetry,Specific,whale,,,orca,orca,,,whale
+1563,8,Premise-conclusion Asymmetry,Specific,hamster,,,beaver,beaver,,,hamster
+1564,8,Premise-conclusion Asymmetry,Specific,rabbit,,,wolf,wolf,,,rabbit
+1565,8,Premise-conclusion Asymmetry,Specific,frog,,,dinosaur,dinosaur,,,frog
+1566,8,Premise-conclusion Asymmetry,Specific,pelican,,,rooster,rooster,,,pelican
+1567,8,Premise-conclusion Asymmetry,Specific,swordfish,,,eel,eel,,,swordfish
+1568,8,Premise-conclusion Asymmetry,Specific,turkey,,,chickadee,chickadee,,,turkey
+1569,8,Premise-conclusion Asymmetry,Specific,caiman,,,crocodile,crocodile,,,caiman
+1570,8,Premise-conclusion Asymmetry,Specific,falcon,,,ostrich,ostrich,,,falcon
+1571,8,Premise-conclusion Asymmetry,Specific,deer,,,hippopotamus,hippopotamus,,,deer
+1572,8,Premise-conclusion Asymmetry,Specific,squirrel,,,hippopotamus,hippopotamus,,,squirrel
+1573,8,Premise-conclusion Asymmetry,Specific,horse,,,kangaroo,kangaroo,,,horse
+1574,8,Premise-conclusion Asymmetry,Specific,whale,,,anchovy,anchovy,,,whale
+1575,8,Premise-conclusion Asymmetry,Specific,hamster,,,donkey,donkey,,,hamster
+1576,8,Premise-conclusion Asymmetry,Specific,polar bear,,,lion,lion,,,polar bear
+1577,8,Premise-conclusion Asymmetry,Specific,flee,,,wasp,wasp,,,flee
+1578,8,Premise-conclusion Asymmetry,Specific,cricket,,,wood louse,wood louse,,,cricket
+1579,8,Premise-conclusion Asymmetry,Specific,lion,,,giraffe,giraffe,,,lion
+1580,8,Premise-conclusion Asymmetry,Specific,sheep,,,dog,dog,,,sheep
+1581,8,Premise-conclusion Asymmetry,Specific,whale,,,carp,carp,,,whale
+1582,8,Premise-conclusion Asymmetry,Specific,pig,,,bison,bison,,,pig
+1583,8,Premise-conclusion Asymmetry,Specific,sparrow,,,crow,crow,,,sparrow
+1584,8,Premise-conclusion Asymmetry,Specific,snake,,,python,python,,,snake
+1585,8,Premise-conclusion Asymmetry,Specific,herring,,,salmon,salmon,,,herring
+1586,8,Premise-conclusion Asymmetry,Specific,parrot,,,chicken,chicken,,,parrot
+1587,8,Premise-conclusion Asymmetry,Specific,woodpecker,,,dove,dove,,,woodpecker
+1588,8,Premise-conclusion Asymmetry,Specific,seagull,,,vulture,vulture,,,seagull
+1589,8,Premise-conclusion Asymmetry,Specific,frog,,,gecko,gecko,,,frog
+1590,8,Premise-conclusion Asymmetry,Specific,llama,,,zebra,zebra,,,llama
+1591,8,Premise-conclusion Asymmetry,Specific,tiger,,,donkey,donkey,,,tiger
+1592,8,Premise-conclusion Asymmetry,Specific,blindworm,,,gecko,gecko,,,blindworm
+1593,8,Premise-conclusion Asymmetry,Specific,canary,,,duck,duck,,,canary
+1594,8,Premise-conclusion Asymmetry,Specific,kangaroo,,,tiger,tiger,,,kangaroo
+1595,8,Premise-conclusion Asymmetry,Specific,cobra,,,dinosaur,dinosaur,,,cobra
+1596,8,Premise-conclusion Asymmetry,Specific,mouse,,,llama,llama,,,mouse
+1597,8,Premise-conclusion Asymmetry,Specific,blackbird,,,swan,swan,,,blackbird
+1598,8,Premise-conclusion Asymmetry,Specific,plaice,,,whale,whale,,,plaice
+1599,8,Premise-conclusion Asymmetry,Specific,ray,,,stickleback,stickleback,,,ray
+1600,9,Nonmonotonicity-general,Mixed,cricket,bee,,pheasant,cricket,bee,wolf,pheasant
+1601,9,Nonmonotonicity-general,Mixed,eagle,dove,,pheasant,eagle,dove,crocodile,pheasant
+1602,9,Nonmonotonicity-general,Mixed,hippopotamus,hedgehog,,pheasant,hippopotamus,hedgehog,chameleon,pheasant
+1603,9,Nonmonotonicity-general,Mixed,eel,squid,,pheasant,eel,squid,turtle,pheasant
+1604,9,Nonmonotonicity-general,Mixed,moth,fly,,pheasant,moth,fly,sheep,pheasant
+1605,9,Nonmonotonicity-general,Mixed,whale,anchovy,,pheasant,whale,anchovy,giraffe,pheasant
+1606,9,Nonmonotonicity-general,Mixed,pike,whale,,pheasant,pike,whale,fruit fly,pheasant
+1607,9,Nonmonotonicity-general,Mixed,leech,cockchafer,,pheasant,leech,cockchafer,ray,pheasant
+1608,9,Nonmonotonicity-general,Mixed,monitor lizard,gecko,,pheasant,monitor lizard,gecko,flatfish,pheasant
+1609,9,Nonmonotonicity-general,Mixed,lizard,crocodile,,pheasant,lizard,crocodile,beetle,pheasant
+1610,9,Nonmonotonicity-general,Mixed,beaver,kangaroo,,pheasant,beaver,kangaroo,spider,pheasant
+1611,9,Nonmonotonicity-general,Mixed,fox,cow,,pheasant,fox,cow,grasshopper,pheasant
+1612,9,Nonmonotonicity-general,Mixed,sheep,elephant,,pheasant,sheep,elephant,iguana,pheasant
+1613,9,Nonmonotonicity-general,Mixed,beetle,cockroach,,pheasant,beetle,cockroach,rabbit,pheasant
+1614,9,Nonmonotonicity-general,Mixed,butterfly,wood louse,,pheasant,butterfly,wood louse,ostrich,pheasant
+1615,9,Nonmonotonicity-general,Mixed,cuckoo,pelican,,pheasant,cuckoo,pelican,sardine,pheasant
+1616,9,Nonmonotonicity-general,Mixed,butterfly,dragonfly,,pheasant,butterfly,dragonfly,toad,pheasant
+1617,9,Nonmonotonicity-general,Mixed,cuckoo,stork,,pheasant,cuckoo,stork,cobra,pheasant
+1618,9,Nonmonotonicity-general,Mixed,ladybug,leech,,pheasant,ladybug,leech,pig,pheasant
+1619,9,Nonmonotonicity-general,Mixed,horsefly,flee,,pheasant,horsefly,flee,falcon,pheasant
+1620,9,Nonmonotonicity-general,Mixed,cat,bat,,pheasant,cat,bat,sardine,pheasant
+1621,9,Nonmonotonicity-general,Mixed,pike,cod,,pheasant,pike,cod,salamander,pheasant
+1622,9,Nonmonotonicity-general,Mixed,donkey,rhinoceros,,pheasant,donkey,rhinoceros,ladybug,pheasant
+1623,9,Nonmonotonicity-general,Mixed,giraffe,sheep,,pheasant,giraffe,sheep,boa,pheasant
+1624,9,Nonmonotonicity-general,Mixed,blindworm,snake,,pheasant,blindworm,snake,dolphin,pheasant
+1625,9,Nonmonotonicity-general,Mixed,hedgehog,wolf,,pheasant,hedgehog,wolf,centipede,pheasant
+1626,9,Nonmonotonicity-general,Mixed,wasp,moth,,pheasant,wasp,moth,chameleon,pheasant
+1627,9,Nonmonotonicity-general,Mixed,lizard,viper,,pheasant,lizard,viper,giraffe,pheasant
+1628,9,Nonmonotonicity-general,Mixed,stickleback,sole,,pheasant,stickleback,sole,woodpecker,pheasant
+1629,9,Nonmonotonicity-general,Mixed,trout,salmon,,pheasant,trout,salmon,ostrich,pheasant
+1630,9,Nonmonotonicity-general,Mixed,bee,louse,,pheasant,bee,louse,chickadee,pheasant
+1631,9,Nonmonotonicity-general,Mixed,robin,dove,,pheasant,robin,dove,deer,pheasant
+1632,9,Nonmonotonicity-general,Mixed,crow,canary,,pheasant,crow,canary,dromedary,pheasant
+1633,9,Nonmonotonicity-general,Mixed,cobra,alligator,,pheasant,cobra,alligator,stork,pheasant
+1634,9,Nonmonotonicity-general,Mixed,sheep,wolf,,pheasant,sheep,wolf,parakeet,pheasant
+1635,9,Nonmonotonicity-general,Mixed,cod,herring,,pheasant,cod,herring,kangaroo,pheasant
+1636,9,Nonmonotonicity-general,Mixed,blackbird,crow,,pheasant,blackbird,crow,deer,pheasant
+1637,9,Nonmonotonicity-general,Mixed,python,dinosaur,,pheasant,python,dinosaur,crow,pheasant
+1638,9,Nonmonotonicity-general,Mixed,bat,lion,,pheasant,bat,lion,sperm whale,pheasant
+1639,9,Nonmonotonicity-general,Mixed,pike,sole,,pheasant,pike,sole,duck,pheasant
+1640,9,Nonmonotonicity-general,Mixed,salamander,caiman,,pheasant,salamander,caiman,pheasant,pheasant
+1641,9,Nonmonotonicity-general,Mixed,snake,dinosaur,,pheasant,snake,dinosaur,horse,pheasant
+1642,9,Nonmonotonicity-general,Mixed,eel,swordfish,,pheasant,eel,swordfish,earwig,pheasant
+1643,9,Nonmonotonicity-general,Mixed,cod,pike,,pheasant,cod,pike,blackbird,pheasant
+1644,9,Nonmonotonicity-general,Mixed,cod,sperm whale,,pheasant,cod,sperm whale,toad,pheasant
+1645,9,Nonmonotonicity-general,Mixed,viper,salamander,,pheasant,viper,salamander,cuckoo,pheasant
+1646,9,Nonmonotonicity-general,Mixed,tortoise,python,,pheasant,tortoise,python,ladybug,pheasant
+1647,9,Nonmonotonicity-general,Mixed,cockchafer,cockroach,,pheasant,cockchafer,cockroach,pike,pheasant
+1648,9,Nonmonotonicity-general,Mixed,horse,lion,,pheasant,horse,lion,bee,pheasant
+1649,9,Nonmonotonicity-general,Mixed,cockroach,caterpillar,,pheasant,cockroach,caterpillar,canary,pheasant
+1650,9,Nonmonotonicity-general,Mixed,chameleon,iguana,,pheasant,chameleon,iguana,lion,pheasant
+1651,9,Nonmonotonicity-general,Mixed,shark,squid,,pheasant,shark,squid,kangaroo,pheasant
+1652,9,Nonmonotonicity-general,Mixed,beetle,louse,,pheasant,beetle,louse,chickadee,pheasant
+1653,9,Nonmonotonicity-general,Mixed,dinosaur,viper,,pheasant,dinosaur,viper,sole,pheasant
+1654,9,Nonmonotonicity-general,Mixed,hedgehog,dromedary,,pheasant,hedgehog,dromedary,monitor lizard,pheasant
+1655,9,Nonmonotonicity-general,Mixed,flee,cricket,,pheasant,flee,cricket,llama,pheasant
+1656,9,Nonmonotonicity-general,Mixed,beetle,cricket,,pheasant,beetle,cricket,duck,pheasant
+1657,9,Nonmonotonicity-general,Mixed,viper,lizard,,pheasant,viper,lizard,fly,pheasant
+1658,9,Nonmonotonicity-general,Mixed,vulture,ostrich,,pheasant,vulture,ostrich,flee,pheasant
+1659,9,Nonmonotonicity-general,Mixed,wood louse,bumblebee,,pheasant,wood louse,bumblebee,blackbird,pheasant
+1660,9,Nonmonotonicity-general,Mixed,penguin,turkey,,pheasant,penguin,turkey,rabbit,pheasant
+1661,9,Nonmonotonicity-general,Mixed,dragonfly,bee,,pheasant,dragonfly,bee,anchovy,pheasant
+1662,9,Nonmonotonicity-general,Mixed,cockchafer,ant,,pheasant,cockchafer,ant,swordfish,pheasant
+1663,9,Nonmonotonicity-general,Mixed,whale,anchovy,,pheasant,whale,anchovy,boa,pheasant
+1664,9,Nonmonotonicity-general,Mixed,iguana,dinosaur,,pheasant,iguana,dinosaur,fly,pheasant
+1665,9,Nonmonotonicity-general,Mixed,swordfish,cod,,pheasant,swordfish,cod,elephant,pheasant
+1666,9,Nonmonotonicity-general,Mixed,snake,tortoise,,pheasant,snake,tortoise,lion,pheasant
+1667,9,Nonmonotonicity-general,Mixed,wasp,ant,,pheasant,wasp,ant,gecko,pheasant
+1668,9,Nonmonotonicity-general,Mixed,wolf,deer,,pheasant,wolf,deer,turtle,pheasant
+1669,9,Nonmonotonicity-general,Mixed,wolf,lion,,pheasant,wolf,lion,magpie,pheasant
+1670,9,Nonmonotonicity-general,Mixed,salamander,turtle,,pheasant,salamander,turtle,blackbird,pheasant
+1671,9,Nonmonotonicity-general,Mixed,carp,herring,,pheasant,carp,herring,mouse,pheasant
+1672,9,Nonmonotonicity-general,Mixed,plaice,stickleback,,pheasant,plaice,stickleback,lion,pheasant
+1673,9,Nonmonotonicity-general,Mixed,duck,parrot,,pheasant,duck,parrot,eel,pheasant
+1674,9,Nonmonotonicity-general,Mixed,python,boa,,pheasant,python,boa,beetle,pheasant
+1675,9,Nonmonotonicity-general,Mixed,robin,blackbird,,pheasant,robin,blackbird,dinosaur,pheasant
+1676,9,Nonmonotonicity-general,Mixed,rhinoceros,hippopotamus,,pheasant,rhinoceros,hippopotamus,iguana,pheasant
+1677,9,Nonmonotonicity-general,Mixed,cobra,crocodile,,pheasant,cobra,crocodile,plaice,pheasant
+1678,9,Nonmonotonicity-general,Mixed,hippopotamus,hamster,,pheasant,hippopotamus,hamster,gecko,pheasant
+1679,9,Nonmonotonicity-general,Mixed,iguana,frog,,pheasant,iguana,frog,cockroach,pheasant
+1680,9,Nonmonotonicity-general,Mixed,donkey,fox,,pheasant,donkey,fox,falcon,pheasant
+1681,9,Nonmonotonicity-general,Mixed,chicken,chickadee,,pheasant,chicken,chickadee,python,pheasant
+1682,9,Nonmonotonicity-general,Mixed,fruit fly,wood louse,,pheasant,fruit fly,wood louse,chameleon,pheasant
+1683,9,Nonmonotonicity-general,Mixed,horse,rhinoceros,,pheasant,horse,rhinoceros,swallow,pheasant
+1684,9,Nonmonotonicity-general,Mixed,stickleback,shark,,pheasant,stickleback,shark,bee,pheasant
+1685,9,Nonmonotonicity-general,Mixed,centipede,ant,,pheasant,centipede,ant,turtle,pheasant
+1686,9,Nonmonotonicity-general,Mixed,polar bear,beaver,,pheasant,polar bear,beaver,parrot,pheasant
+1687,9,Nonmonotonicity-general,Mixed,blindworm,gecko,,pheasant,blindworm,gecko,goldfish,pheasant
+1688,9,Nonmonotonicity-general,Mixed,tiger,beaver,,pheasant,tiger,beaver,whale,pheasant
+1689,9,Nonmonotonicity-general,Mixed,boa,chameleon,,pheasant,boa,chameleon,grasshopper,pheasant
+1690,9,Nonmonotonicity-general,Mixed,canary,magpie,,pheasant,canary,magpie,tortoise,pheasant
+1691,9,Nonmonotonicity-general,Mixed,sole,eel,,pheasant,sole,eel,snake,pheasant
+1692,9,Nonmonotonicity-general,Mixed,squirrel,dog,,pheasant,squirrel,dog,sole,pheasant
+1693,9,Nonmonotonicity-general,Mixed,plaice,whale,,pheasant,plaice,whale,gecko,pheasant
+1694,9,Nonmonotonicity-general,Mixed,cockchafer,cricket,,pheasant,cockchafer,cricket,fox,pheasant
+1695,9,Nonmonotonicity-general,Mixed,fruit fly,moth,,pheasant,fruit fly,moth,salamander,pheasant
+1696,9,Nonmonotonicity-general,Mixed,chameleon,viper,,pheasant,chameleon,viper,hamster,pheasant
+1697,9,Nonmonotonicity-general,Mixed,moth,caterpillar,,pheasant,moth,caterpillar,piranha,pheasant
+1698,9,Nonmonotonicity-general,Mixed,turtle,boa,,pheasant,turtle,boa,piranha,pheasant
+1699,9,Nonmonotonicity-general,Mixed,turtle,crocodile,,pheasant,turtle,crocodile,fly,pheasant
+1700,9,Nonmonotonicity-general,Mixed,cow,dog,,pheasant,cow,dog,cricket,pheasant
+1701,9,Nonmonotonicity-general,Mixed,cat,monkey,,pheasant,cat,monkey,sperm whale,pheasant
+1702,9,Nonmonotonicity-general,Mixed,dromedary,polar bear,,pheasant,dromedary,polar bear,spider,pheasant
+1703,9,Nonmonotonicity-general,Mixed,cockroach,centipede,,pheasant,cockroach,centipede,hippopotamus,pheasant
+1704,9,Nonmonotonicity-general,Mixed,sparrow,rooster,,pheasant,sparrow,rooster,bison,pheasant
+1705,9,Nonmonotonicity-general,Mixed,lion,bat,,pheasant,lion,bat,boa,pheasant
+1706,9,Nonmonotonicity-general,Mixed,anchovy,eel,,pheasant,anchovy,eel,wolf,pheasant
+1707,9,Nonmonotonicity-general,Mixed,toad,alligator,,pheasant,toad,alligator,ladybug,pheasant
+1708,9,Nonmonotonicity-general,Mixed,rhinoceros,bat,,pheasant,rhinoceros,bat,crow,pheasant
+1709,9,Nonmonotonicity-general,Mixed,pig,kangaroo,,pheasant,pig,kangaroo,dove,pheasant
+1710,9,Nonmonotonicity-general,Mixed,trout,whale,,pheasant,trout,whale,crocodile,pheasant
+1711,9,Nonmonotonicity-general,Mixed,bat,polar bear,,pheasant,bat,polar bear,cuckoo,pheasant
+1712,9,Nonmonotonicity-general,Mixed,hedgehog,elephant,,pheasant,hedgehog,elephant,cockroach,pheasant
+1713,9,Nonmonotonicity-general,Mixed,fly,ladybug,,pheasant,fly,ladybug,dolphin,pheasant
+1714,9,Nonmonotonicity-general,Mixed,whale,plaice,,pheasant,whale,plaice,viper,pheasant
+1715,9,Nonmonotonicity-general,Mixed,dove,chickadee,,pheasant,dove,chickadee,fruit fly,pheasant
+1716,9,Nonmonotonicity-general,Mixed,robin,turkey,,pheasant,robin,turkey,anchovy,pheasant
+1717,9,Nonmonotonicity-general,Mixed,heron,eagle,,pheasant,heron,eagle,trout,pheasant
+1718,9,Nonmonotonicity-general,Mixed,magpie,swallow,,pheasant,magpie,swallow,horsefly,pheasant
+1719,9,Nonmonotonicity-general,Mixed,toad,turtle,,pheasant,toad,turtle,cat,pheasant
+1720,9,Nonmonotonicity-general,Mixed,llama,sheep,,pheasant,llama,sheep,horsefly,pheasant
+1721,9,Nonmonotonicity-general,Mixed,alligator,viper,,pheasant,alligator,viper,ant,pheasant
+1722,9,Nonmonotonicity-general,Mixed,crocodile,boa,,pheasant,crocodile,boa,pelican,pheasant
+1723,9,Nonmonotonicity-general,Mixed,pheasant,peacock,,pheasant,pheasant,peacock,horsefly,pheasant
+1724,9,Nonmonotonicity-general,Mixed,swan,cuckoo,,pheasant,swan,cuckoo,piranha,pheasant
+1725,9,Nonmonotonicity-general,Mixed,viper,snake,,pheasant,viper,snake,sperm whale,pheasant
+1726,9,Nonmonotonicity-general,Mixed,rooster,pheasant,,pheasant,rooster,pheasant,ladybug,pheasant
+1727,9,Nonmonotonicity-general,Mixed,fly,fruit fly,,pheasant,fly,fruit fly,dog,pheasant
+1728,9,Nonmonotonicity-general,Mixed,chicken,swan,,pheasant,chicken,swan,orca,pheasant
+1729,9,Nonmonotonicity-general,Mixed,shark,sardine,,pheasant,shark,sardine,giraffe,pheasant
+1730,9,Nonmonotonicity-general,Mixed,ant,louse,,pheasant,ant,louse,alligator,pheasant
+1731,9,Nonmonotonicity-general,Mixed,piranha,sole,,pheasant,piranha,sole,caiman,pheasant
+1732,9,Nonmonotonicity-general,Mixed,dinosaur,crocodile,,pheasant,dinosaur,crocodile,ladybug,pheasant
+1733,9,Nonmonotonicity-general,Mixed,crocodile,frog,,pheasant,crocodile,frog,herring,pheasant
+1734,9,Nonmonotonicity-general,Mixed,pig,polar bear,,pheasant,pig,polar bear,robin,pheasant
+1735,9,Nonmonotonicity-general,Mixed,wasp,centipede,,pheasant,wasp,centipede,pig,pheasant
+1736,9,Nonmonotonicity-general,Mixed,penguin,blackbird,,pheasant,penguin,blackbird,hippopotamus,pheasant
+1737,9,Nonmonotonicity-general,Mixed,stickleback,dolphin,,pheasant,stickleback,dolphin,falcon,pheasant
+1738,9,Nonmonotonicity-general,Mixed,salamander,gecko,,pheasant,salamander,gecko,moth,pheasant
+1739,9,Nonmonotonicity-general,Mixed,mouse,rhinoceros,,pheasant,mouse,rhinoceros,centipede,pheasant
+1740,9,Nonmonotonicity-general,Mixed,eagle,sparrow,,pheasant,eagle,sparrow,ray,pheasant
+1741,9,Nonmonotonicity-general,Mixed,salmon,eel,,pheasant,salmon,eel,fly,pheasant
+1742,9,Nonmonotonicity-general,Mixed,whale,trout,,pheasant,whale,trout,earwig,pheasant
+1743,9,Nonmonotonicity-general,Mixed,monkey,dromedary,,pheasant,monkey,dromedary,vulture,pheasant
+1744,9,Nonmonotonicity-general,Mixed,hippopotamus,elephant,,pheasant,hippopotamus,elephant,crow,pheasant
+1745,9,Nonmonotonicity-general,Mixed,shark,squid,,pheasant,shark,squid,sparrow,pheasant
+1746,9,Nonmonotonicity-general,Mixed,parakeet,seagull,,pheasant,parakeet,seagull,python,pheasant
+1747,9,Nonmonotonicity-general,Mixed,spider,louse,,pheasant,spider,louse,rabbit,pheasant
+1748,9,Nonmonotonicity-general,Mixed,beaver,hippopotamus,,pheasant,beaver,hippopotamus,viper,pheasant
+1749,9,Nonmonotonicity-general,Mixed,pheasant,seagull,,pheasant,pheasant,seagull,flee,pheasant
+1750,9,Nonmonotonicity-general,Mixed,salmon,anchovy,,pheasant,salmon,anchovy,bumblebee,pheasant
+1751,9,Nonmonotonicity-general,Mixed,pike,sardine,,pheasant,pike,sardine,earwig,pheasant
+1752,9,Nonmonotonicity-general,Mixed,bison,beaver,,pheasant,bison,beaver,fruit fly,pheasant
+1753,9,Nonmonotonicity-general,Mixed,ladybug,bee,,pheasant,ladybug,bee,viper,pheasant
+1754,9,Nonmonotonicity-general,Mixed,donkey,deer,,pheasant,donkey,deer,dove,pheasant
+1755,9,Nonmonotonicity-general,Mixed,sparrow,swan,,pheasant,sparrow,swan,beaver,pheasant
+1756,9,Nonmonotonicity-general,Mixed,whale,trout,,pheasant,whale,trout,donkey,pheasant
+1757,9,Nonmonotonicity-general,Mixed,wasp,wood louse,,pheasant,wasp,wood louse,hippopotamus,pheasant
+1758,9,Nonmonotonicity-general,Mixed,worm,fruit fly,,pheasant,worm,fruit fly,lizard,pheasant
+1759,9,Nonmonotonicity-general,Mixed,tortoise,chameleon,,pheasant,tortoise,chameleon,cockroach,pheasant
+1760,9,Nonmonotonicity-general,Mixed,piranha,swordfish,,pheasant,piranha,swordfish,fox,pheasant
+1761,9,Nonmonotonicity-general,Mixed,stork,rooster,,pheasant,stork,rooster,whale,pheasant
+1762,9,Nonmonotonicity-general,Mixed,eel,shark,,pheasant,eel,shark,beaver,pheasant
+1763,9,Nonmonotonicity-general,Mixed,turkey,swan,,pheasant,turkey,swan,boa,pheasant
+1764,9,Nonmonotonicity-general,Mixed,wasp,bumblebee,,pheasant,wasp,bumblebee,whale,pheasant
+1765,9,Nonmonotonicity-general,Mixed,monitor lizard,cobra,,pheasant,monitor lizard,cobra,fruit fly,pheasant
+1766,9,Nonmonotonicity-general,Mixed,giraffe,donkey,,pheasant,giraffe,donkey,blackbird,pheasant
+1767,9,Nonmonotonicity-general,Mixed,rooster,falcon,,pheasant,rooster,falcon,ray,pheasant
+1768,9,Nonmonotonicity-general,Mixed,ostrich,falcon,,pheasant,ostrich,falcon,sperm whale,pheasant
+1769,9,Nonmonotonicity-general,Mixed,flatfish,piranha,,pheasant,flatfish,piranha,parakeet,pheasant
+1770,9,Nonmonotonicity-general,Mixed,rabbit,giraffe,,pheasant,rabbit,giraffe,fly,pheasant
+1771,9,Nonmonotonicity-general,Mixed,horse,hamster,,pheasant,horse,hamster,penguin,pheasant
+1772,9,Nonmonotonicity-general,Mixed,parrot,parakeet,,pheasant,parrot,parakeet,lion,pheasant
+1773,9,Nonmonotonicity-general,Mixed,gecko,caiman,,pheasant,gecko,caiman,herring,pheasant
+1774,9,Nonmonotonicity-general,Mixed,salamander,tortoise,,pheasant,salamander,tortoise,dove,pheasant
+1775,9,Nonmonotonicity-general,Mixed,bat,wolf,,pheasant,bat,wolf,crocodile,pheasant
+1776,9,Nonmonotonicity-general,Mixed,ostrich,cuckoo,,pheasant,ostrich,cuckoo,lizard,pheasant
+1777,9,Nonmonotonicity-general,Mixed,falcon,pelican,,pheasant,falcon,pelican,ray,pheasant
+1778,9,Nonmonotonicity-general,Mixed,vulture,dove,,pheasant,vulture,dove,blindworm,pheasant
+1779,9,Nonmonotonicity-general,Mixed,dragonfly,ladybug,,pheasant,dragonfly,ladybug,pike,pheasant
+1780,9,Nonmonotonicity-general,Mixed,dromedary,bat,,pheasant,dromedary,bat,caiman,pheasant
+1781,9,Nonmonotonicity-general,Mixed,goldfish,pike,,pheasant,goldfish,pike,duck,pheasant
+1782,9,Nonmonotonicity-general,Mixed,peacock,swallow,,pheasant,peacock,swallow,wood louse,pheasant
+1783,9,Nonmonotonicity-general,Mixed,cow,bison,,pheasant,cow,bison,stickleback,pheasant
+1784,9,Nonmonotonicity-general,Mixed,seagull,sparrow,,pheasant,seagull,sparrow,viper,pheasant
+1785,9,Nonmonotonicity-general,Mixed,salamander,turtle,,pheasant,salamander,turtle,stork,pheasant
+1786,9,Nonmonotonicity-general,Mixed,eagle,chickadee,,pheasant,eagle,chickadee,plaice,pheasant
+1787,9,Nonmonotonicity-general,Mixed,canary,falcon,,pheasant,canary,falcon,python,pheasant
+1788,9,Nonmonotonicity-general,Mixed,kangaroo,dromedary,,pheasant,kangaroo,dromedary,flee,pheasant
+1789,9,Nonmonotonicity-general,Mixed,cobra,gecko,,pheasant,cobra,gecko,tiger,pheasant
+1790,9,Nonmonotonicity-general,Mixed,chameleon,lizard,,pheasant,chameleon,lizard,cockchafer,pheasant
+1791,9,Nonmonotonicity-general,Mixed,eel,ray,,pheasant,eel,ray,viper,pheasant
+1792,9,Nonmonotonicity-general,Mixed,falcon,eagle,,pheasant,falcon,eagle,cat,pheasant
+1793,9,Nonmonotonicity-general,Mixed,piranha,flatfish,,pheasant,piranha,flatfish,robin,pheasant
+1794,9,Nonmonotonicity-general,Mixed,ant,caterpillar,,pheasant,ant,caterpillar,stickleback,pheasant
+1795,9,Nonmonotonicity-general,Mixed,crocodile,cobra,,pheasant,crocodile,cobra,parakeet,pheasant
+1796,9,Nonmonotonicity-general,Mixed,caiman,frog,,pheasant,caiman,frog,pheasant,pheasant
+1797,9,Nonmonotonicity-general,Mixed,kangaroo,mouse,,pheasant,kangaroo,mouse,sperm whale,pheasant
+1798,9,Nonmonotonicity-general,Mixed,squirrel,horse,,pheasant,squirrel,horse,snake,pheasant
+1799,9,Nonmonotonicity-general,Mixed,spider,leech,,pheasant,spider,leech,herring,pheasant
+1800,10,Nonmonotonicity-specific,Mixed,worm,,,wood louse,worm,horse,,wood louse
+1801,10,Nonmonotonicity-specific,Mixed,earwig,,,wood louse,earwig,chameleon,,wood louse
+1802,10,Nonmonotonicity-specific,Mixed,dinosaur,,,toad,dinosaur,cat,,toad
+1803,10,Nonmonotonicity-specific,Mixed,dinosaur,,,alligator,dinosaur,chickadee,,alligator
+1804,10,Nonmonotonicity-specific,Mixed,caiman,,,snake,caiman,shark,,snake
+1805,10,Nonmonotonicity-specific,Mixed,spider,,,bumblebee,spider,polar bear,,bumblebee
+1806,10,Nonmonotonicity-specific,Mixed,beaver,,,cat,beaver,ladybug,,cat
+1807,10,Nonmonotonicity-specific,Mixed,louse,,,moth,louse,swan,,moth
+1808,10,Nonmonotonicity-specific,Mixed,alligator,,,boa,alligator,cockroach,,boa
+1809,10,Nonmonotonicity-specific,Mixed,rhinoceros,,,bat,rhinoceros,herring,,bat
+1810,10,Nonmonotonicity-specific,Mixed,squid,,,cod,squid,wolf,,cod
+1811,10,Nonmonotonicity-specific,Mixed,salamander,,,chameleon,salamander,ray,,chameleon
+1812,10,Nonmonotonicity-specific,Mixed,ant,,,spider,ant,tortoise,,spider
+1813,10,Nonmonotonicity-specific,Mixed,turkey,,,eagle,turkey,herring,,eagle
+1814,10,Nonmonotonicity-specific,Mixed,falcon,,,magpie,falcon,zebra,,magpie
+1815,10,Nonmonotonicity-specific,Mixed,dog,,,rhinoceros,dog,trout,,rhinoceros
+1816,10,Nonmonotonicity-specific,Mixed,robin,,,owl,robin,bumblebee,,owl
+1817,10,Nonmonotonicity-specific,Mixed,moth,,,grasshopper,moth,boa,,grasshopper
+1818,10,Nonmonotonicity-specific,Mixed,chameleon,,,blindworm,chameleon,cockchafer,,blindworm
+1819,10,Nonmonotonicity-specific,Mixed,fly,,,butterfly,fly,donkey,,butterfly
+1820,10,Nonmonotonicity-specific,Mixed,turtle,,,viper,turtle,ray,,viper
+1821,10,Nonmonotonicity-specific,Mixed,wolf,,,elephant,wolf,lizard,,elephant
+1822,10,Nonmonotonicity-specific,Mixed,giraffe,,,horse,giraffe,cobra,,horse
+1823,10,Nonmonotonicity-specific,Mixed,gecko,,,cobra,gecko,spider,,cobra
+1824,10,Nonmonotonicity-specific,Mixed,grasshopper,,,fruit fly,grasshopper,vulture,,fruit fly
+1825,10,Nonmonotonicity-specific,Mixed,salmon,,,trout,salmon,swan,,trout
+1826,10,Nonmonotonicity-specific,Mixed,hamster,,,pig,hamster,fruit fly,,pig
+1827,10,Nonmonotonicity-specific,Mixed,elephant,,,deer,elephant,viper,,deer
+1828,10,Nonmonotonicity-specific,Mixed,spider,,,wood louse,spider,tiger,,wood louse
+1829,10,Nonmonotonicity-specific,Mixed,magpie,,,heron,magpie,pike,,heron
+1830,10,Nonmonotonicity-specific,Mixed,rooster,,,vulture,rooster,ray,,vulture
+1831,10,Nonmonotonicity-specific,Mixed,anchovy,,,sardine,anchovy,eagle,,sardine
+1832,10,Nonmonotonicity-specific,Mixed,centipede,,,moth,centipede,swallow,,moth
+1833,10,Nonmonotonicity-specific,Mixed,piranha,,,whale,piranha,stork,,whale
+1834,10,Nonmonotonicity-specific,Mixed,wolf,,,bat,wolf,canary,,bat
+1835,10,Nonmonotonicity-specific,Mixed,dragonfly,,,bee,dragonfly,iguana,,bee
+1836,10,Nonmonotonicity-specific,Mixed,swallow,,,crow,swallow,hippopotamus,,crow
+1837,10,Nonmonotonicity-specific,Mixed,owl,,,pheasant,owl,horse,,pheasant
+1838,10,Nonmonotonicity-specific,Mixed,sperm whale,,,piranha,sperm whale,caterpillar,,piranha
+1839,10,Nonmonotonicity-specific,Mixed,vulture,,,peacock,vulture,shark,,peacock
+1840,10,Nonmonotonicity-specific,Mixed,grasshopper,,,bee,grasshopper,pheasant,,bee
+1841,10,Nonmonotonicity-specific,Mixed,wood louse,,,dragonfly,wood louse,rooster,,dragonfly
+1842,10,Nonmonotonicity-specific,Mixed,falcon,,,owl,falcon,sperm whale,,owl
+1843,10,Nonmonotonicity-specific,Mixed,chameleon,,,viper,chameleon,peacock,,viper
+1844,10,Nonmonotonicity-specific,Mixed,cobra,,,python,cobra,fox,,python
+1845,10,Nonmonotonicity-specific,Mixed,pike,,,salmon,pike,cockchafer,,salmon
+1846,10,Nonmonotonicity-specific,Mixed,deer,,,hedgehog,deer,sardine,,hedgehog
+1847,10,Nonmonotonicity-specific,Mixed,kangaroo,,,polar bear,kangaroo,shark,,polar bear
+1848,10,Nonmonotonicity-specific,Mixed,llama,,,rhinoceros,llama,earwig,,rhinoceros
+1849,10,Nonmonotonicity-specific,Mixed,hippopotamus,,,elephant,hippopotamus,alligator,,elephant
+1850,10,Nonmonotonicity-specific,Mixed,toad,,,python,toad,peacock,,python
+1851,10,Nonmonotonicity-specific,Mixed,herring,,,orca,herring,worm,,orca
+1852,10,Nonmonotonicity-specific,Mixed,sheep,,,squirrel,sheep,turtle,,squirrel
+1853,10,Nonmonotonicity-specific,Mixed,ladybug,,,ant,ladybug,fox,,ant
+1854,10,Nonmonotonicity-specific,Mixed,peacock,,,swan,peacock,tortoise,,swan
+1855,10,Nonmonotonicity-specific,Mixed,parrot,,,chicken,parrot,fox,,chicken
+1856,10,Nonmonotonicity-specific,Mixed,deer,,,kangaroo,deer,spider,,kangaroo
+1857,10,Nonmonotonicity-specific,Mixed,chickadee,,,swan,chickadee,goldfish,,swan
+1858,10,Nonmonotonicity-specific,Mixed,boa,,,dinosaur,boa,swallow,,dinosaur
+1859,10,Nonmonotonicity-specific,Mixed,hedgehog,,,beaver,hedgehog,goldfish,,beaver
+1860,10,Nonmonotonicity-specific,Mixed,parrot,,,rooster,parrot,worm,,rooster
+1861,10,Nonmonotonicity-specific,Mixed,swordfish,,,pike,swordfish,horsefly,,pike
+1862,10,Nonmonotonicity-specific,Mixed,heron,,,swan,heron,flatfish,,swan
+1863,10,Nonmonotonicity-specific,Mixed,moth,,,bumblebee,moth,robin,,bumblebee
+1864,10,Nonmonotonicity-specific,Mixed,mosquito,,,wasp,mosquito,monitor lizard,,wasp
+1865,10,Nonmonotonicity-specific,Mixed,sperm whale,,,salmon,sperm whale,moth,,salmon
+1866,10,Nonmonotonicity-specific,Mixed,flatfish,,,herring,flatfish,louse,,herring
+1867,10,Nonmonotonicity-specific,Mixed,python,,,cobra,python,beaver,,cobra
+1868,10,Nonmonotonicity-specific,Mixed,dog,,,rhinoceros,dog,flatfish,,rhinoceros
+1869,10,Nonmonotonicity-specific,Mixed,sheep,,,polar bear,sheep,flatfish,,polar bear
+1870,10,Nonmonotonicity-specific,Mixed,goldfish,,,pike,goldfish,butterfly,,pike
+1871,10,Nonmonotonicity-specific,Mixed,orca,,,flatfish,orca,parrot,,flatfish
+1872,10,Nonmonotonicity-specific,Mixed,vulture,,,parakeet,vulture,orca,,parakeet
+1873,10,Nonmonotonicity-specific,Mixed,llama,,,wolf,llama,louse,,wolf
+1874,10,Nonmonotonicity-specific,Mixed,moth,,,flee,moth,owl,,flee
+1875,10,Nonmonotonicity-specific,Mixed,monitor lizard,,,tortoise,monitor lizard,kangaroo,,tortoise
+1876,10,Nonmonotonicity-specific,Mixed,swordfish,,,whale,swordfish,horse,,whale
+1877,10,Nonmonotonicity-specific,Mixed,cockchafer,,,butterfly,cockchafer,trout,,butterfly
+1878,10,Nonmonotonicity-specific,Mixed,fruit fly,,,butterfly,fruit fly,lizard,,butterfly
+1879,10,Nonmonotonicity-specific,Mixed,cod,,,salmon,cod,bee,,salmon
+1880,10,Nonmonotonicity-specific,Mixed,ladybug,,,flee,ladybug,squirrel,,flee
+1881,10,Nonmonotonicity-specific,Mixed,dragonfly,,,beetle,dragonfly,falcon,,beetle
+1882,10,Nonmonotonicity-specific,Mixed,giraffe,,,llama,giraffe,lizard,,llama
+1883,10,Nonmonotonicity-specific,Mixed,fly,,,mosquito,fly,pig,,mosquito
+1884,10,Nonmonotonicity-specific,Mixed,lion,,,hedgehog,lion,squid,,hedgehog
+1885,10,Nonmonotonicity-specific,Mixed,worm,,,fruit fly,worm,viper,,fruit fly
+1886,10,Nonmonotonicity-specific,Mixed,owl,,,robin,owl,dromedary,,robin
+1887,10,Nonmonotonicity-specific,Mixed,caiman,,,toad,caiman,cockchafer,,toad
+1888,10,Nonmonotonicity-specific,Mixed,zebra,,,beaver,zebra,dinosaur,,beaver
+1889,10,Nonmonotonicity-specific,Mixed,ladybug,,,bumblebee,ladybug,chameleon,,bumblebee
+1890,10,Nonmonotonicity-specific,Mixed,bee,,,cricket,bee,rooster,,cricket
+1891,10,Nonmonotonicity-specific,Mixed,cod,,,eel,cod,beaver,,eel
+1892,10,Nonmonotonicity-specific,Mixed,bee,,,flee,bee,goldfish,,flee
+1893,10,Nonmonotonicity-specific,Mixed,monkey,,,beaver,monkey,squid,,beaver
+1894,10,Nonmonotonicity-specific,Mixed,toad,,,caiman,toad,cockchafer,,caiman
+1895,10,Nonmonotonicity-specific,Mixed,turtle,,,chameleon,turtle,cow,,chameleon
+1896,10,Nonmonotonicity-specific,Mixed,canary,,,seagull,canary,hamster,,seagull
+1897,10,Nonmonotonicity-specific,Mixed,blindworm,,,frog,blindworm,spider,,frog
+1898,10,Nonmonotonicity-specific,Mixed,lion,,,cat,lion,peacock,,cat
+1899,10,Nonmonotonicity-specific,Mixed,pike,,,eel,pike,fruit fly,,eel
+1900,10,Nonmonotonicity-specific,Mixed,hedgehog,,,cow,hedgehog,cod,,cow
+1901,10,Nonmonotonicity-specific,Mixed,chickadee,,,owl,chickadee,eel,,owl
+1902,10,Nonmonotonicity-specific,Mixed,hamster,,,rhinoceros,hamster,bee,,rhinoceros
+1903,10,Nonmonotonicity-specific,Mixed,lizard,,,tortoise,lizard,pheasant,,tortoise
+1904,10,Nonmonotonicity-specific,Mixed,worm,,,mosquito,worm,salmon,,mosquito
+1905,10,Nonmonotonicity-specific,Mixed,crocodile,,,turtle,crocodile,ladybug,,turtle
+1906,10,Nonmonotonicity-specific,Mixed,dinosaur,,,python,dinosaur,shark,,python
+1907,10,Nonmonotonicity-specific,Mixed,tortoise,,,turtle,tortoise,seagull,,turtle
+1908,10,Nonmonotonicity-specific,Mixed,giraffe,,,hippopotamus,giraffe,flatfish,,hippopotamus
+1909,10,Nonmonotonicity-specific,Mixed,salamander,,,gecko,salamander,giraffe,,gecko
+1910,10,Nonmonotonicity-specific,Mixed,ostrich,,,swallow,ostrich,centipede,,swallow
+1911,10,Nonmonotonicity-specific,Mixed,trout,,,plaice,trout,ladybug,,plaice
+1912,10,Nonmonotonicity-specific,Mixed,earwig,,,wood louse,earwig,parakeet,,wood louse
+1913,10,Nonmonotonicity-specific,Mixed,caiman,,,chameleon,caiman,herring,,chameleon
+1914,10,Nonmonotonicity-specific,Mixed,cockchafer,,,mosquito,cockchafer,turtle,,mosquito
+1915,10,Nonmonotonicity-specific,Mixed,giraffe,,,cow,giraffe,stork,,cow
+1916,10,Nonmonotonicity-specific,Mixed,swordfish,,,cod,swordfish,viper,,cod
+1917,10,Nonmonotonicity-specific,Mixed,grasshopper,,,beetle,grasshopper,peacock,,beetle
+1918,10,Nonmonotonicity-specific,Mixed,leech,,,cockroach,leech,eel,,cockroach
+1919,10,Nonmonotonicity-specific,Mixed,cuckoo,,,vulture,cuckoo,caiman,,vulture
+1920,10,Nonmonotonicity-specific,Mixed,stickleback,,,sole,stickleback,donkey,,sole
+1921,10,Nonmonotonicity-specific,Mixed,pheasant,,,stork,pheasant,caiman,,stork
+1922,10,Nonmonotonicity-specific,Mixed,iguana,,,lizard,iguana,anchovy,,lizard
+1923,10,Nonmonotonicity-specific,Mixed,crow,,,swallow,crow,bumblebee,,swallow
+1924,10,Nonmonotonicity-specific,Mixed,horse,,,zebra,horse,woodpecker,,zebra
+1925,10,Nonmonotonicity-specific,Mixed,alligator,,,tortoise,alligator,llama,,tortoise
+1926,10,Nonmonotonicity-specific,Mixed,rabbit,,,bison,rabbit,canary,,bison
+1927,10,Nonmonotonicity-specific,Mixed,iguana,,,salamander,iguana,dragonfly,,salamander
+1928,10,Nonmonotonicity-specific,Mixed,pike,,,sperm whale,pike,caterpillar,,sperm whale
+1929,10,Nonmonotonicity-specific,Mixed,vulture,,,seagull,vulture,louse,,seagull
+1930,10,Nonmonotonicity-specific,Mixed,boa,,,tortoise,boa,carp,,tortoise
+1931,10,Nonmonotonicity-specific,Mixed,python,,,crocodile,python,horse,,crocodile
+1932,10,Nonmonotonicity-specific,Mixed,leech,,,mosquito,leech,falcon,,mosquito
+1933,10,Nonmonotonicity-specific,Mixed,tortoise,,,chameleon,tortoise,anchovy,,chameleon
+1934,10,Nonmonotonicity-specific,Mixed,parrot,,,swallow,parrot,viper,,swallow
+1935,10,Nonmonotonicity-specific,Mixed,chameleon,,,lizard,chameleon,pheasant,,lizard
+1936,10,Nonmonotonicity-specific,Mixed,sperm whale,,,whale,sperm whale,eagle,,whale
+1937,10,Nonmonotonicity-specific,Mixed,ladybug,,,caterpillar,ladybug,robin,,caterpillar
+1938,10,Nonmonotonicity-specific,Mixed,hippopotamus,,,cat,hippopotamus,bumblebee,,cat
+1939,10,Nonmonotonicity-specific,Mixed,leech,,,horsefly,leech,frog,,horsefly
+1940,10,Nonmonotonicity-specific,Mixed,parrot,,,swallow,parrot,cod,,swallow
+1941,10,Nonmonotonicity-specific,Mixed,fly,,,leech,fly,piranha,,leech
+1942,10,Nonmonotonicity-specific,Mixed,swallow,,,peacock,swallow,carp,,peacock
+1943,10,Nonmonotonicity-specific,Mixed,swordfish,,,sardine,swordfish,crocodile,,sardine
+1944,10,Nonmonotonicity-specific,Mixed,chameleon,,,cobra,chameleon,zebra,,cobra
+1945,10,Nonmonotonicity-specific,Mixed,kangaroo,,,pig,kangaroo,piranha,,pig
+1946,10,Nonmonotonicity-specific,Mixed,cod,,,dolphin,cod,beetle,,dolphin
+1947,10,Nonmonotonicity-specific,Mixed,fox,,,cow,fox,leech,,cow
+1948,10,Nonmonotonicity-specific,Mixed,seagull,,,chicken,seagull,trout,,chicken
+1949,10,Nonmonotonicity-specific,Mixed,earwig,,,grasshopper,earwig,pig,,grasshopper
+1950,10,Nonmonotonicity-specific,Mixed,shark,,,whale,shark,dinosaur,,whale
+1951,10,Nonmonotonicity-specific,Mixed,penguin,,,parakeet,penguin,stickleback,,parakeet
+1952,10,Nonmonotonicity-specific,Mixed,mouse,,,fox,mouse,ostrich,,fox
+1953,10,Nonmonotonicity-specific,Mixed,chickadee,,,ostrich,chickadee,pike,,ostrich
+1954,10,Nonmonotonicity-specific,Mixed,shark,,,anchovy,shark,flee,,anchovy
+1955,10,Nonmonotonicity-specific,Mixed,pike,,,herring,pike,cobra,,herring
+1956,10,Nonmonotonicity-specific,Mixed,caterpillar,,,grasshopper,caterpillar,mouse,,grasshopper
+1957,10,Nonmonotonicity-specific,Mixed,ant,,,worm,ant,viper,,worm
+1958,10,Nonmonotonicity-specific,Mixed,cuckoo,,,pheasant,cuckoo,bat,,pheasant
+1959,10,Nonmonotonicity-specific,Mixed,goldfish,,,orca,goldfish,salamander,,orca
+1960,10,Nonmonotonicity-specific,Mixed,bat,,,pig,bat,wood louse,,pig
+1961,10,Nonmonotonicity-specific,Mixed,iguana,,,lizard,iguana,swan,,lizard
+1962,10,Nonmonotonicity-specific,Mixed,wolf,,,squirrel,wolf,butterfly,,squirrel
+1963,10,Nonmonotonicity-specific,Mixed,cockroach,,,leech,cockroach,squirrel,,leech
+1964,10,Nonmonotonicity-specific,Mixed,cod,,,salmon,cod,flee,,salmon
+1965,10,Nonmonotonicity-specific,Mixed,eel,,,sardine,eel,toad,,sardine
+1966,10,Nonmonotonicity-specific,Mixed,caiman,,,iguana,caiman,chickadee,,iguana
+1967,10,Nonmonotonicity-specific,Mixed,plaice,,,piranha,plaice,earwig,,piranha
+1968,10,Nonmonotonicity-specific,Mixed,beetle,,,fruit fly,beetle,tortoise,,fruit fly
+1969,10,Nonmonotonicity-specific,Mixed,cat,,,elephant,cat,leech,,elephant
+1970,10,Nonmonotonicity-specific,Mixed,owl,,,dove,owl,cow,,dove
+1971,10,Nonmonotonicity-specific,Mixed,peacock,,,duck,peacock,flatfish,,duck
+1972,10,Nonmonotonicity-specific,Mixed,horsefly,,,fly,horsefly,toad,,fly
+1973,10,Nonmonotonicity-specific,Mixed,owl,,,duck,owl,whale,,duck
+1974,10,Nonmonotonicity-specific,Mixed,earwig,,,centipede,earwig,cow,,centipede
+1975,10,Nonmonotonicity-specific,Mixed,cockroach,,,centipede,cockroach,alligator,,centipede
+1976,10,Nonmonotonicity-specific,Mixed,pig,,,bison,pig,cockroach,,bison
+1977,10,Nonmonotonicity-specific,Mixed,sheep,,,polar bear,sheep,shark,,polar bear
+1978,10,Nonmonotonicity-specific,Mixed,louse,,,horsefly,louse,vulture,,horsefly
+1979,10,Nonmonotonicity-specific,Mixed,piranha,,,orca,piranha,robin,,orca
+1980,10,Nonmonotonicity-specific,Mixed,sperm whale,,,piranha,sperm whale,centipede,,piranha
+1981,10,Nonmonotonicity-specific,Mixed,chicken,,,parakeet,chicken,butterfly,,parakeet
+1982,10,Nonmonotonicity-specific,Mixed,chicken,,,cuckoo,chicken,tortoise,,cuckoo
+1983,10,Nonmonotonicity-specific,Mixed,mosquito,,,centipede,mosquito,wolf,,centipede
+1984,10,Nonmonotonicity-specific,Mixed,kangaroo,,,beaver,kangaroo,lizard,,beaver
+1985,10,Nonmonotonicity-specific,Mixed,grasshopper,,,flee,grasshopper,donkey,,flee
+1986,10,Nonmonotonicity-specific,Mixed,heron,,,turkey,heron,spider,,turkey
+1987,10,Nonmonotonicity-specific,Mixed,falcon,,,dove,falcon,earwig,,dove
+1988,10,Nonmonotonicity-specific,Mixed,cricket,,,ant,cricket,dog,,ant
+1989,10,Nonmonotonicity-specific,Mixed,eel,,,sperm whale,eel,squirrel,,sperm whale
+1990,10,Nonmonotonicity-specific,Mixed,rooster,,,peacock,rooster,gecko,,peacock
+1991,10,Nonmonotonicity-specific,Mixed,eagle,,,chicken,eagle,dromedary,,chicken
+1992,10,Nonmonotonicity-specific,Mixed,flatfish,,,carp,flatfish,lion,,carp
+1993,10,Nonmonotonicity-specific,Mixed,flatfish,,,piranha,flatfish,stork,,piranha
+1994,10,Nonmonotonicity-specific,Mixed,toad,,,snake,toad,centipede,,snake
+1995,10,Nonmonotonicity-specific,Mixed,bison,,,squirrel,bison,magpie,,squirrel
+1996,10,Nonmonotonicity-specific,Mixed,tortoise,,,gecko,tortoise,cat,,gecko
+1997,10,Nonmonotonicity-specific,Mixed,fruit fly,,,centipede,fruit fly,alligator,,centipede
+1998,10,Nonmonotonicity-specific,Mixed,grasshopper,,,moth,grasshopper,parakeet,,moth
+1999,10,Nonmonotonicity-specific,Mixed,bee,,,centipede,bee,fox,,centipede
+2000,11,Inclusion Fallacy,Specific,dinosaur,,,reptile,dinosaur,,,blindworm
+2001,11,Inclusion Fallacy,Specific,boa,,,reptile,boa,,,gecko
+2002,11,Inclusion Fallacy,Specific,alligator,,,reptile,alligator,,,blindworm
+2003,11,Inclusion Fallacy,Specific,crocodile,,,reptile,crocodile,,,blindworm
+2004,11,Inclusion Fallacy,Specific,dove,,,bird,dove,,,ostrich
+2005,11,Inclusion Fallacy,Specific,mosquito,,,insect,mosquito,,,worm
+2006,11,Inclusion Fallacy,Specific,rooster,,,bird,rooster,,,penguin
+2007,11,Inclusion Fallacy,Specific,snake,,,reptile,snake,,,gecko
+2008,11,Inclusion Fallacy,Specific,bison,,,mammal,bison,,,mouse
+2009,11,Inclusion Fallacy,Specific,pheasant,,,bird,pheasant,,,penguin
+2010,11,Inclusion Fallacy,Specific,viper,,,reptile,viper,,,monitor lizard
+2011,11,Inclusion Fallacy,Specific,dove,,,bird,dove,,,penguin
+2012,11,Inclusion Fallacy,Specific,chameleon,,,reptile,chameleon,,,blindworm
+2013,11,Inclusion Fallacy,Specific,viper,,,reptile,viper,,,gecko
+2014,11,Inclusion Fallacy,Specific,woodpecker,,,bird,woodpecker,,,penguin
+2015,11,Inclusion Fallacy,Specific,llama,,,mammal,llama,,,bat
+2016,11,Inclusion Fallacy,Specific,sparrow,,,bird,sparrow,,,penguin
+2017,11,Inclusion Fallacy,Specific,cobra,,,reptile,cobra,,,gecko
+2018,11,Inclusion Fallacy,Specific,fly,,,insect,fly,,,centipede
+2019,11,Inclusion Fallacy,Specific,blackbird,,,bird,blackbird,,,ostrich
+2020,11,Inclusion Fallacy,Specific,vulture,,,bird,vulture,,,penguin
+2021,11,Inclusion Fallacy,Specific,mosquito,,,insect,mosquito,,,earwig
+2022,11,Inclusion Fallacy,Specific,horse,,,mammal,horse,,,bat
+2023,11,Inclusion Fallacy,Specific,rhinoceros,,,mammal,rhinoceros,,,mouse
+2024,11,Inclusion Fallacy,Specific,python,,,reptile,python,,,gecko
+2025,11,Inclusion Fallacy,Specific,chickadee,,,bird,chickadee,,,penguin
+2026,11,Inclusion Fallacy,Specific,zebra,,,mammal,zebra,,,bat
+2027,11,Inclusion Fallacy,Specific,bumblebee,,,insect,bumblebee,,,earwig
+2028,11,Inclusion Fallacy,Specific,bumblebee,,,insect,bumblebee,,,worm
+2029,11,Inclusion Fallacy,Specific,wasp,,,insect,wasp,,,worm
+2030,11,Inclusion Fallacy,Specific,dromedary,,,mammal,dromedary,,,mouse
+2031,11,Inclusion Fallacy,Specific,zebra,,,mammal,zebra,,,mouse
+2032,11,Inclusion Fallacy,Specific,sardine,,,fish,sardine,,,whale
+2033,11,Inclusion Fallacy,Specific,donkey,,,mammal,donkey,,,hamster
+2034,11,Inclusion Fallacy,Specific,ladybug,,,insect,ladybug,,,worm
+2035,11,Inclusion Fallacy,Specific,bison,,,mammal,bison,,,hamster
+2036,11,Inclusion Fallacy,Specific,cobra,,,reptile,cobra,,,monitor lizard
+2037,11,Inclusion Fallacy,Specific,robin,,,bird,robin,,,penguin
+2038,11,Inclusion Fallacy,Specific,iguana,,,reptile,iguana,,,blindworm
+2039,11,Inclusion Fallacy,Specific,canary,,,bird,canary,,,penguin
+2040,11,Inclusion Fallacy,Specific,moth,,,insect,moth,,,centipede
+2041,11,Inclusion Fallacy,Specific,dragonfly,,,insect,dragonfly,,,louse
+2042,11,Inclusion Fallacy,Specific,bee,,,insect,bee,,,worm
+2043,11,Inclusion Fallacy,Specific,lion,,,mammal,lion,,,bat
+2044,11,Inclusion Fallacy,Specific,monitor lizard,,,reptile,monitor lizard,,,blindworm
+2045,11,Inclusion Fallacy,Specific,turkey,,,bird,turkey,,,parakeet
+2046,11,Inclusion Fallacy,Specific,tiger,,,mammal,tiger,,,mouse
+2047,11,Inclusion Fallacy,Specific,magpie,,,bird,magpie,,,swan
+2048,11,Inclusion Fallacy,Specific,robin,,,bird,robin,,,ostrich
+2049,11,Inclusion Fallacy,Specific,turtle,,,reptile,turtle,,,gecko
+2050,11,Inclusion Fallacy,Specific,sparrow,,,bird,sparrow,,,pelican
+2051,11,Inclusion Fallacy,Specific,horse,,,mammal,horse,,,mouse
+2052,11,Inclusion Fallacy,Specific,tortoise,,,reptile,tortoise,,,blindworm
+2053,11,Inclusion Fallacy,Specific,dromedary,,,mammal,dromedary,,,bat
+2054,11,Inclusion Fallacy,Specific,orca,,,fish,orca,,,anchovy
+2055,11,Inclusion Fallacy,Specific,chickadee,,,bird,chickadee,,,ostrich
+2056,11,Inclusion Fallacy,Specific,woodpecker,,,bird,woodpecker,,,duck
+2057,11,Inclusion Fallacy,Specific,caiman,,,reptile,caiman,,,gecko
+2058,11,Inclusion Fallacy,Specific,crow,,,bird,crow,,,penguin
+2059,11,Inclusion Fallacy,Specific,turtle,,,reptile,turtle,,,blindworm
+2060,11,Inclusion Fallacy,Specific,parakeet,,,bird,parakeet,,,turkey
+2061,11,Inclusion Fallacy,Specific,peacock,,,bird,peacock,,,penguin
+2062,11,Inclusion Fallacy,Specific,frog,,,reptile,frog,,,blindworm
+2063,11,Inclusion Fallacy,Specific,cockchafer,,,insect,cockchafer,,,worm
+2064,11,Inclusion Fallacy,Specific,eagle,,,bird,eagle,,,penguin
+2065,11,Inclusion Fallacy,Specific,cuckoo,,,bird,cuckoo,,,penguin
+2066,11,Inclusion Fallacy,Specific,parakeet,,,bird,parakeet,,,stork
+2067,11,Inclusion Fallacy,Specific,anchovy,,,fish,anchovy,,,orca
+2068,11,Inclusion Fallacy,Specific,earwig,,,insect,earwig,,,bumblebee
+2069,11,Inclusion Fallacy,Specific,centipede,,,insect,centipede,,,moth
+2070,11,Inclusion Fallacy,Specific,lion,,,mammal,lion,,,mouse
+2071,11,Inclusion Fallacy,Specific,lion,,,mammal,lion,,,hedgehog
+2072,11,Inclusion Fallacy,Specific,giraffe,,,mammal,giraffe,,,hamster
+2073,11,Inclusion Fallacy,Specific,hippopotamus,,,mammal,hippopotamus,,,bat
+2074,11,Inclusion Fallacy,Specific,bison,,,mammal,bison,,,squirrel
+2075,11,Inclusion Fallacy,Specific,snake,,,reptile,snake,,,tortoise
+2076,11,Inclusion Fallacy,Specific,rhinoceros,,,mammal,rhinoceros,,,bat
+2077,11,Inclusion Fallacy,Specific,cow,,,mammal,cow,,,hamster
+2078,11,Inclusion Fallacy,Specific,cow,,,mammal,cow,,,bat
+2079,11,Inclusion Fallacy,Specific,elephant,,,mammal,elephant,,,mouse
+2080,11,Inclusion Fallacy,Specific,flee,,,insect,flee,,,worm
+2081,11,Inclusion Fallacy,Specific,stork,,,bird,stork,,,chickadee
+2082,11,Inclusion Fallacy,Specific,cobra,,,reptile,cobra,,,toad
+2083,11,Inclusion Fallacy,Specific,orca,,,fish,orca,,,eel
+2084,11,Inclusion Fallacy,Specific,orca,,,fish,orca,,,sardine
+2085,11,Inclusion Fallacy,Specific,robin,,,bird,robin,,,stork
+2086,11,Inclusion Fallacy,Specific,giraffe,,,mammal,giraffe,,,mouse
+2087,11,Inclusion Fallacy,Specific,grasshopper,,,insect,grasshopper,,,worm
+2088,11,Inclusion Fallacy,Specific,hippopotamus,,,mammal,hippopotamus,,,hedgehog
+2089,11,Inclusion Fallacy,Specific,blackbird,,,bird,blackbird,,,eagle
+2090,11,Inclusion Fallacy,Specific,louse,,,insect,louse,,,worm
+2091,11,Inclusion Fallacy,Specific,sparrow,,,bird,sparrow,,,vulture
+2092,11,Inclusion Fallacy,Specific,cow,,,mammal,cow,,,mouse
+2093,11,Inclusion Fallacy,Specific,elephant,,,mammal,elephant,,,squirrel
+2094,11,Inclusion Fallacy,Specific,elephant,,,mammal,elephant,,,bat
+2095,11,Inclusion Fallacy,Specific,tortoise,,,reptile,tortoise,,,gecko
+2096,11,Inclusion Fallacy,Specific,bumblebee,,,insect,bumblebee,,,louse
+2097,11,Inclusion Fallacy,Specific,viper,,,reptile,viper,,,dinosaur
+2098,11,Inclusion Fallacy,Specific,wasp,,,insect,wasp,,,wood louse
+2099,11,Inclusion Fallacy,Specific,rooster,,,bird,rooster,,,stork
+2100,11,Inclusion Fallacy,Specific,boa,,,reptile,boa,,,monitor lizard
+2101,11,Inclusion Fallacy,Specific,canary,,,bird,canary,,,eagle
+2102,11,Inclusion Fallacy,Specific,sparrow,,,bird,sparrow,,,peacock
+2103,11,Inclusion Fallacy,Specific,rhinoceros,,,mammal,rhinoceros,,,squirrel
+2104,11,Inclusion Fallacy,Specific,plaice,,,fish,plaice,,,piranha
+2105,11,Inclusion Fallacy,Specific,mosquito,,,insect,mosquito,,,centipede
+2106,11,Inclusion Fallacy,Specific,stickleback,,,fish,stickleback,,,squid
+2107,11,Inclusion Fallacy,Specific,wolf,,,mammal,wolf,,,hedgehog
+2108,11,Inclusion Fallacy,Specific,bumblebee,,,insect,bumblebee,,,leech
+2109,11,Inclusion Fallacy,Specific,eel,,,fish,eel,,,orca
+2110,11,Inclusion Fallacy,Specific,owl,,,bird,owl,,,penguin
+2111,11,Inclusion Fallacy,Specific,sardine,,,fish,sardine,,,orca
+2112,11,Inclusion Fallacy,Specific,canary,,,bird,canary,,,stork
+2113,11,Inclusion Fallacy,Specific,fruit fly,,,insect,fruit fly,,,caterpillar
+2114,11,Inclusion Fallacy,Specific,mosquito,,,insect,mosquito,,,caterpillar
+2115,11,Inclusion Fallacy,Specific,wolf,,,mammal,wolf,,,mouse
+2116,11,Inclusion Fallacy,Specific,duck,,,bird,duck,,,woodpecker
+2117,11,Inclusion Fallacy,Specific,donkey,,,mammal,donkey,,,bat
+2118,11,Inclusion Fallacy,Specific,horse,,,mammal,horse,,,rabbit
+2119,11,Inclusion Fallacy,Specific,sole,,,fish,sole,,,squid
+2120,11,Inclusion Fallacy,Specific,sole,,,fish,sole,,,orca
+2121,11,Inclusion Fallacy,Specific,butterfly,,,insect,butterfly,,,louse
+2122,11,Inclusion Fallacy,Specific,magpie,,,bird,magpie,,,stork
+2123,11,Inclusion Fallacy,Specific,python,,,reptile,python,,,turtle
+2124,11,Inclusion Fallacy,Specific,dromedary,,,mammal,dromedary,,,hamster
+2125,11,Inclusion Fallacy,Specific,beetle,,,insect,beetle,,,flee
+2126,11,Inclusion Fallacy,Specific,beetle,,,insect,beetle,,,louse
+2127,11,Inclusion Fallacy,Specific,elephant,,,mammal,elephant,,,hamster
+2128,11,Inclusion Fallacy,Specific,plaice,,,fish,plaice,,,shark
+2129,11,Inclusion Fallacy,Specific,hippopotamus,,,mammal,hippopotamus,,,hamster
+2130,11,Inclusion Fallacy,Specific,herring,,,fish,herring,,,sperm whale
+2131,11,Inclusion Fallacy,Specific,shark,,,fish,shark,,,plaice
+2132,11,Inclusion Fallacy,Specific,frog,,,reptile,frog,,,monitor lizard
+2133,11,Inclusion Fallacy,Specific,swallow,,,bird,swallow,,,penguin
+2134,11,Inclusion Fallacy,Specific,fly,,,insect,fly,,,louse
+2135,11,Inclusion Fallacy,Specific,chameleon,,,reptile,chameleon,,,turtle
+2136,11,Inclusion Fallacy,Specific,ray,,,fish,ray,,,orca
+2137,11,Inclusion Fallacy,Specific,mosquito,,,insect,mosquito,,,beetle
+2138,11,Inclusion Fallacy,Specific,pelican,,,bird,pelican,,,sparrow
+2139,11,Inclusion Fallacy,Specific,cobra,,,reptile,cobra,,,chameleon
+2140,11,Inclusion Fallacy,Specific,earwig,,,insect,earwig,,,mosquito
+2141,11,Inclusion Fallacy,Specific,salmon,,,fish,salmon,,,squid
+2142,11,Inclusion Fallacy,Specific,herring,,,fish,herring,,,whale
+2143,11,Inclusion Fallacy,Specific,stork,,,bird,stork,,,parakeet
+2144,11,Inclusion Fallacy,Specific,dolphin,,,fish,dolphin,,,piranha
+2145,11,Inclusion Fallacy,Specific,lizard,,,reptile,lizard,,,blindworm
+2146,11,Inclusion Fallacy,Specific,cow,,,mammal,cow,,,squirrel
+2147,11,Inclusion Fallacy,Specific,fly,,,insect,fly,,,spider
+2148,11,Inclusion Fallacy,Specific,carp,,,fish,carp,,,squid
+2149,11,Inclusion Fallacy,Specific,hamster,,,mammal,hamster,,,rhinoceros
+2150,11,Inclusion Fallacy,Specific,hamster,,,mammal,hamster,,,giraffe
+2151,11,Inclusion Fallacy,Specific,tiger,,,mammal,tiger,,,bat
+2152,11,Inclusion Fallacy,Specific,ostrich,,,bird,ostrich,,,dove
+2153,11,Inclusion Fallacy,Specific,centipede,,,insect,centipede,,,bee
+2154,11,Inclusion Fallacy,Specific,whale,,,fish,whale,,,anchovy
+2155,11,Inclusion Fallacy,Specific,heron,,,bird,heron,,,blackbird
+2156,11,Inclusion Fallacy,Specific,stork,,,bird,stork,,,robin
+2157,11,Inclusion Fallacy,Specific,stork,,,bird,stork,,,rooster
+2158,11,Inclusion Fallacy,Specific,orca,,,fish,orca,,,ray
+2159,11,Inclusion Fallacy,Specific,llama,,,mammal,llama,,,cat
+2160,11,Inclusion Fallacy,Specific,lion,,,mammal,lion,,,rabbit
+2161,11,Inclusion Fallacy,Specific,canary,,,bird,canary,,,vulture
+2162,11,Inclusion Fallacy,Specific,toad,,,reptile,toad,,,monitor lizard
+2163,11,Inclusion Fallacy,Specific,chickadee,,,bird,chickadee,,,peacock
+2164,11,Inclusion Fallacy,Specific,hippopotamus,,,mammal,hippopotamus,,,cat
+2165,11,Inclusion Fallacy,Specific,hippopotamus,,,mammal,hippopotamus,,,squirrel
+2166,11,Inclusion Fallacy,Specific,salamander,,,reptile,salamander,,,blindworm
+2167,11,Inclusion Fallacy,Specific,plaice,,,fish,plaice,,,dolphin
+2168,11,Inclusion Fallacy,Specific,cat,,,mammal,cat,,,rhinoceros
+2169,11,Inclusion Fallacy,Specific,spider,,,insect,spider,,,worm
+2170,11,Inclusion Fallacy,Specific,earwig,,,insect,earwig,,,ladybug
+2171,11,Inclusion Fallacy,Specific,rhinoceros,,,mammal,rhinoceros,,,cat
+2172,11,Inclusion Fallacy,Specific,salmon,,,fish,salmon,,,sperm whale
+2173,11,Inclusion Fallacy,Specific,eagle,,,bird,eagle,,,canary
+2174,11,Inclusion Fallacy,Specific,sardine,,,fish,sardine,,,dolphin
+2175,11,Inclusion Fallacy,Specific,sardine,,,fish,sardine,,,sperm whale
+2176,11,Inclusion Fallacy,Specific,stork,,,bird,stork,,,canary
+2177,11,Inclusion Fallacy,Specific,shark,,,fish,shark,,,eel
+2178,11,Inclusion Fallacy,Specific,llama,,,mammal,llama,,,beaver
+2179,11,Inclusion Fallacy,Specific,wolf,,,mammal,wolf,,,bat
+2180,11,Inclusion Fallacy,Specific,boa,,,reptile,boa,,,caiman
+2181,11,Inclusion Fallacy,Specific,boa,,,reptile,boa,,,toad
+2182,11,Inclusion Fallacy,Specific,peacock,,,bird,peacock,,,sparrow
+2183,11,Inclusion Fallacy,Specific,horse,,,mammal,horse,,,squirrel
+2184,11,Inclusion Fallacy,Specific,beetle,,,insect,beetle,,,worm
+2185,11,Inclusion Fallacy,Specific,vulture,,,bird,vulture,,,duck
+2186,11,Inclusion Fallacy,Specific,squirrel,,,mammal,squirrel,,,elephant
+2187,11,Inclusion Fallacy,Specific,caiman,,,reptile,caiman,,,toad
+2188,11,Inclusion Fallacy,Specific,alligator,,,reptile,alligator,,,gecko
+2189,11,Inclusion Fallacy,Specific,bee,,,insect,bee,,,wood louse
+2190,11,Inclusion Fallacy,Specific,cod,,,fish,cod,,,orca
+2191,11,Inclusion Fallacy,Specific,blindworm,,,reptile,blindworm,,,monitor lizard
+2192,11,Inclusion Fallacy,Specific,crow,,,bird,crow,,,swan
+2193,11,Inclusion Fallacy,Specific,viper,,,reptile,viper,,,turtle
+2194,11,Inclusion Fallacy,Specific,falcon,,,bird,falcon,,,canary
+2195,11,Inclusion Fallacy,Specific,rhinoceros,,,mammal,rhinoceros,,,rabbit
+2196,11,Inclusion Fallacy,Specific,eel,,,fish,eel,,,shark
+2197,11,Inclusion Fallacy,Specific,butterfly,,,insect,butterfly,,,flee
+2198,11,Inclusion Fallacy,Specific,wasp,,,insect,wasp,,,louse
+2199,11,Inclusion Fallacy,Specific,crocodile,,,reptile,crocodile,,,toad

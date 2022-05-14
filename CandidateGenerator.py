@@ -1,14 +1,18 @@
-from CategoryDataset import *
+import CategoryDataset
 
 from abc import ABC, abstractmethod
 from collections import defaultdict
 from dataclasses import dataclass, astuple, fields
-from typing import List
+from typing import List, Dict
 
 import random
 import itertools
 
+import pandas as pd
+import numpy as np
+
 random.seed(1111)
+np.random.seed(1111)
 
 
 @dataclass
@@ -34,7 +38,7 @@ class CandidateGenerator(ABC):
     For a given set of phenomena, generates a list of randomly sampled argument pairs where the strength disparity between the two arguments is maximally large.
     """
 
-    def __init__(self, category_dataset: CategoryDataset) -> None:
+    def __init__(self, category_dataset: CategoryDataset.CategoryDataset) -> None:
         
         self.category_dataset = category_dataset
 
@@ -74,7 +78,7 @@ class CandidateGenerator(ABC):
 
 class SyntheticOshersonSCMCandidateGenerator(CandidateGenerator):
 
-    def __init__(self, category_datasets: Dict[str, DeDeyneCategoryDataset], osherson_phenomena: str = "data/osherson_phenomena.csv") -> None:
+    def __init__(self, category_datasets: Dict[str, CategoryDataset.DeDeyneCategoryDataset], osherson_phenomena: str = "data/osherson_phenomena.csv") -> None:
         
         self.category_datasets = category_datasets
         self.phenomena_df = pd.read_csv(osherson_phenomena)[["phenomenon_number", "phenomenon_name", "phenomenon_type"]].drop_duplicates()
@@ -159,24 +163,6 @@ class SyntheticOshersonSCMCandidateGenerator(CandidateGenerator):
                 elif phenomenon_number == 2:
 
                     conclusion_category = category_class
-                    # premise_category_1, premise_category_2 = random.sample(category_dataset.category_list(), k=2)
-
-                    # # For second argument's second premise, find the premise category with the closest SCM score to the first argument's second premise
-                    # arg1_p2_scm = self._sim(premise_category_2, "", "", conclusion_category, category_class)
-                    # arg2_candidates = [i for i in category_dataset.category_list() if i not in (premise_category_1, premise_category_2)]
-                    # premise_category_3 = arg2_candidates[0]
-                    # closest_scm = np.inf
-                    # for candidate in arg2_candidates:
-                    #     candidate_scm = self._sim(candidate, "", "", conclusion_category, category_class)
-                    #     scm_diff = abs(candidate_scm - arg1_p2_scm)
-                    #     if scm_diff < closest_scm:
-                    #         closest_scm = candidate_scm
-                    #         premise_category_3 = candidate
-
-                    # premise_category_1 = random.choice(category_dataset.category_list())
-                    # similarities = sorted([(c, category_dataset.calculate_category_similarity(premise_category_1, c)) for c in category_dataset.category_list() if c not in (premise_category_1, conclusion_category)], reverse=False, key=lambda x: x[1])
-                    # premise_category_2 = similarities[0][0]
-                    # premise_category_3 = similarities[-2][0]
 
                     candidates = []
 
@@ -187,19 +173,6 @@ class SyntheticOshersonSCMCandidateGenerator(CandidateGenerator):
                         candidates = sorted([(c, category_dataset.calculate_category_similarity(premise_category_1, c)) for c in candidates], reverse=True, key=lambda x: x[1])
                     premise_category_3 = candidates[0][0]
                     premise_category_2 = random.choice(candidates[1:])[0]
-                        
-                        #similarities = sorted([(c, category_dataset.calculate_category_similarity(premise_category_1, c)) for c in arg_candidates if c not in (premise_category_1, conclusion_category)], reverse=True, key=lambda x: x[1])
-                        #premise_category_3 = similarities[1][0]
-
-                        # For first argument's second premise, find the premise category with the closest SCM score to the first argument's first premise
-                        
-                        
-                    #     for candidate in arg2_candidates:
-                    #         candidate_scm = self._scm(candidate, "", "", conclusion_category, category_class)
-                    #         if candidate_scm < arg1_p1_scm:
-                    #             candidates.append((candidate, candidate_scm))
-                    # candidates = sorted(candidates, reverse=True, key=lambda x: x[1])
-                    # premise_category_2 = random.choice(candidates)[0]
 
                     candidate_argument_pair = CandidateArgumentPair(
                         phenomenon_number=phenomenon_number,
@@ -237,7 +210,6 @@ class SyntheticOshersonSCMCandidateGenerator(CandidateGenerator):
                 elif phenomenon_number == 4:
 
                     conclusion_category = category_class
-                    #premise_category_1, premise_category_2, premise_category_3 = random.sample(category_dataset.category_list(), k=3)
 
                     candidates = []
                     while len(candidates) < 1:
@@ -280,29 +252,6 @@ class SyntheticOshersonSCMCandidateGenerator(CandidateGenerator):
 
                 elif phenomenon_number == 6:
 
-                    # premise_category_1, premise_category_2, conclusion_category = random.sample(category_dataset.category_list(), k=3)
-
-                    # # For second argument's second premise, find the premise category with the closest SCM score to the first argument's second premise
-                    # arg1_p2_scm = self._sim(premise_category_2, "", "", conclusion_category, category_class)
-                    # arg2_candidates = [i for i in category_dataset.category_list() if i not in (premise_category_1, premise_category_2, conclusion_category)]
-                    # premise_category_3 = arg2_candidates[0]
-                    # closest_scm = np.inf
-                    # for candidate in arg2_candidates:
-                    #     candidate_scm = self._sim(candidate, "", "", conclusion_category, category_class)
-                    #     scm_diff = abs(candidate_scm - arg1_p2_scm)
-                    #     if scm_diff < closest_scm:
-                    #         closest_scm = candidate_scm
-                    #         premise_category_3 = candidate
-
-
-
-
-                    # premise_category_1, conclusion_category = random.sample(category_dataset.category_list(), k=2)
-                    # similarities = sorted([(c, category_dataset.calculate_category_similarity(premise_category_1, c)) for c in category_dataset.category_list() if c not in (premise_category_1, conclusion_category)], reverse=False, key=lambda x: x[1])
-                    # premise_category_2 = similarities[0][0]
-                    # premise_category_3 = similarities[-2][0]
-
-
                     candidates = []
 
                     while len(candidates) < 2:
@@ -312,22 +261,7 @@ class SyntheticOshersonSCMCandidateGenerator(CandidateGenerator):
                         candidates = sorted([(c, category_dataset.calculate_category_similarity(premise_category_1, c)) for c in candidates], reverse=True, key=lambda x: x[1])
                     premise_category_3 = candidates[0][0]
                     premise_category_2 = random.choice(candidates[1:])[0]
-                    #     similarities = sorted([(c, category_dataset.calculate_category_similarity(premise_category_1, c)) for c in category_dataset.category_list() if c not in (premise_category_1, conclusion_category)], reverse=True, key=lambda x: x[1])
-                    #     premise_category_3 = similarities[1][0]
-
-                    #     # For first argument's second premise, find the premise category with the closest SCM score to the first argument's first premise
-                    #     arg1_p1_scm = self._scm(premise_category_1, "", "", conclusion_category, category_class)
-                    #     arg2_candidates = [i for i in category_dataset.category_list() if i not in (premise_category_1, premise_category_3, conclusion_category)]
-                        
-                    #     for candidate in arg2_candidates:
-                    #         candidate_scm = self._scm(candidate, "", "", conclusion_category, category_class)
-                    #         if candidate_scm < arg1_p1_scm:
-                    #             candidates.append((candidate, candidate_scm))
-                    # candidates = sorted(candidates, reverse=True, key=lambda x: x[1])
-                    # premise_category_2 = random.choice(candidates)[0]
                     
-
-
                     candidate_argument_pair = CandidateArgumentPair(
                         phenomenon_number=phenomenon_number,
                         phenomenon_name=row["phenomenon_name"],
@@ -344,7 +278,6 @@ class SyntheticOshersonSCMCandidateGenerator(CandidateGenerator):
 
                 elif phenomenon_number == 7:
 
-                    #premise_category_1, premise_category_2, premise_category_3, conclusion_category = random.sample(category_dataset.category_list(), k=4)
                     candidates = []
                     while len(candidates) < 1:
                         premise_category_1, premise_category_2, conclusion_category = random.sample(category_dataset.category_list(), k=3)
@@ -423,7 +356,6 @@ class SyntheticOshersonSCMCandidateGenerator(CandidateGenerator):
                     )
 
                 else:
-                    # phenomenon_number == 11
 
                     conclusion_category = category_class
                     premise_category_1, conclusion_category_2 = random.sample(category_dataset.category_list(), k=2)
@@ -470,7 +402,6 @@ class SyntheticOshersonSCMCandidateGenerator(CandidateGenerator):
                     ranked_df = pd.concat([ranked_df, sorted_pdf], axis=0)
 
                 tdf = pdf.sort_values(by="scm_diff", ascending=False)
-                print(phenomenon_number, tdf.iloc[0]["scm_diff"], tdf.iloc[200]["scm_diff"])
             
             else:
                 ranked_df = pd.concat([ranked_df, pdf], axis=0)
@@ -504,7 +435,6 @@ class SyntheticOshersonCandidateGenerator(CandidateGenerator):
                 if phenomenon_number == 1:
 
                     conclusion_category = random.choice(self.category_dataset.class_list())
-                    # conclusion_category = "mammal"
                     premise_category_1, premise_category_2 = random.sample(self.category_dataset.class_category_list(conclusion_category), k=2)
 
                     candidate_argument_pair = CandidateArgumentPair(
@@ -524,7 +454,6 @@ class SyntheticOshersonCandidateGenerator(CandidateGenerator):
                 elif phenomenon_number == 2:
 
                     conclusion_category = random.choice(self.category_dataset.class_list())
-                    # conclusion_category = "mammal"
                     premise_category_1, premise_category_2, premise_category_3 = random.sample(self.category_dataset.class_category_list(conclusion_category), k=3)
 
                     candidate_argument_pair = CandidateArgumentPair(
@@ -544,7 +473,6 @@ class SyntheticOshersonCandidateGenerator(CandidateGenerator):
                 elif phenomenon_number == 3:
 
                     conclusion_category = random.choice(self.category_dataset.class_list())
-                    # conclusion_category = "mammal"
                     premise_category_1, premise_category_2 = random.sample(self.category_dataset.class_category_list(conclusion_category), k=2)
 
                     candidate_argument_pair = CandidateArgumentPair(
@@ -564,7 +492,6 @@ class SyntheticOshersonCandidateGenerator(CandidateGenerator):
                 elif phenomenon_number == 4:
 
                     conclusion_category = random.choice(self.category_dataset.class_list())
-                    # conclusion_category = "mammal"
                     premise_category_1, premise_category_2, premise_category_3 = random.sample(self.category_dataset.class_category_list(conclusion_category), k=3)
         
                     candidate_argument_pair = CandidateArgumentPair(
@@ -586,7 +513,6 @@ class SyntheticOshersonCandidateGenerator(CandidateGenerator):
                     parent_class = random.choice(self.category_dataset.class_list())
                     while len(self.category_dataset.class_category_list(parent_class)) < 4:
                         parent_class = random.choice(self.category_dataset.class_list())
-                    # parent_class = "mammal"
                     premise_category_1, premise_category_2, conclusion_category_1, conclusion_category_2 = random.sample(self.category_dataset.class_category_list(parent_class), k=4)
                     
                     candidate_argument_pair = CandidateArgumentPair(
@@ -608,7 +534,6 @@ class SyntheticOshersonCandidateGenerator(CandidateGenerator):
                     parent_class = random.choice(self.category_dataset.class_list())
                     while len(self.category_dataset.class_category_list(parent_class)) < 4:
                         parent_class = random.choice(self.category_dataset.class_list())
-                    # parent_class = "mammal"
                     premise_category_1, premise_category_2, premise_category_3, conclusion_category = random.sample(self.category_dataset.class_category_list(parent_class), k=4)
 
                     candidate_argument_pair = CandidateArgumentPair(
@@ -630,7 +555,6 @@ class SyntheticOshersonCandidateGenerator(CandidateGenerator):
                     parent_class = random.choice(self.category_dataset.class_list())
                     while len(self.category_dataset.class_category_list(parent_class)) < 4:
                         parent_class = random.choice(self.category_dataset.class_list())
-                    # parent_class = "mammal"
                     premise_category_1, premise_category_2, premise_category_3, conclusion_category = random.sample(self.category_dataset.class_category_list(parent_class), k=4)
 
                     candidate_argument_pair = CandidateArgumentPair(
@@ -650,7 +574,6 @@ class SyntheticOshersonCandidateGenerator(CandidateGenerator):
                 elif phenomenon_number == 9:
 
                     conclusion_category, parent_class_2 = random.sample(self.category_dataset.class_list(), k=2)
-                    # conclusion_category = "mammal"
                     parent_class_2 = random.choice(self.category_dataset.class_list())
                     while parent_class_2 == conclusion_category:
                         parent_class_2 = random.choice(self.category_dataset.class_list())
@@ -675,7 +598,6 @@ class SyntheticOshersonCandidateGenerator(CandidateGenerator):
                 elif phenomenon_number == 10:
 
                     parent_class_1, parent_class_2 = random.sample(self.category_dataset.class_list(), k=2)
-                    # parent_class_1 = "mammal"
                     parent_class_2 = random.choice(self.category_dataset.class_list())
                     while parent_class_2 == parent_class_1:
                         parent_class_2 = random.choice(self.category_dataset.class_list())
@@ -701,7 +623,6 @@ class SyntheticOshersonCandidateGenerator(CandidateGenerator):
                     # phenomenon_number == 11
 
                     conclusion_category_1 = random.choice(self.category_dataset.class_list())
-                    # conclusion_category_1 = "mammal"
 
                     premise_category_1, conclusion_category_2 = random.sample(self.category_dataset.class_category_list(conclusion_category_1), k=2)
 
