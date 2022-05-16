@@ -2,7 +2,7 @@
 
 This repo contains the code and data for our paper:
 
-Han, S. J., Ransom, K., Perfors, A., & Kemp, C. (2022). Human-like property induction is a challenge for large language models. *Proceedings of the 44th Annual Meeting of the Cognitive Science Society*.
+Han, S. J., Ransom, K. J., Perfors, A., & Kemp, C. (2022). Human-like property induction is a challenge for large language models. *Proceedings of the 44th Annual Meeting of the Cognitive Science Society*.
 
 To generate the data used in our analysis, run `main.py`. Please note that this requires an active OpenAI API key.
 
