@@ -1599,206 +1599,206 @@
 1597,8,Premise-conclusion Asymmetry,Specific,blackbird,,,swan,swan,,,blackbird
 1598,8,Premise-conclusion Asymmetry,Specific,plaice,,,whale,whale,,,plaice
 1599,8,Premise-conclusion Asymmetry,Specific,ray,,,stickleback,stickleback,,,ray
-1600,9,Nonmonotonicity-general,Mixed,cricket,bee,,pheasant,cricket,bee,wolf,pheasant
-1601,9,Nonmonotonicity-general,Mixed,eagle,dove,,pheasant,eagle,dove,crocodile,pheasant
-1602,9,Nonmonotonicity-general,Mixed,hippopotamus,hedgehog,,pheasant,hippopotamus,hedgehog,chameleon,pheasant
-1603,9,Nonmonotonicity-general,Mixed,eel,squid,,pheasant,eel,squid,turtle,pheasant
-1604,9,Nonmonotonicity-general,Mixed,moth,fly,,pheasant,moth,fly,sheep,pheasant
-1605,9,Nonmonotonicity-general,Mixed,whale,anchovy,,pheasant,whale,anchovy,giraffe,pheasant
-1606,9,Nonmonotonicity-general,Mixed,pike,whale,,pheasant,pike,whale,fruit fly,pheasant
-1607,9,Nonmonotonicity-general,Mixed,leech,cockchafer,,pheasant,leech,cockchafer,ray,pheasant
-1608,9,Nonmonotonicity-general,Mixed,monitor lizard,gecko,,pheasant,monitor lizard,gecko,flatfish,pheasant
-1609,9,Nonmonotonicity-general,Mixed,lizard,crocodile,,pheasant,lizard,crocodile,beetle,pheasant
-1610,9,Nonmonotonicity-general,Mixed,beaver,kangaroo,,pheasant,beaver,kangaroo,spider,pheasant
-1611,9,Nonmonotonicity-general,Mixed,fox,cow,,pheasant,fox,cow,grasshopper,pheasant
-1612,9,Nonmonotonicity-general,Mixed,sheep,elephant,,pheasant,sheep,elephant,iguana,pheasant
-1613,9,Nonmonotonicity-general,Mixed,beetle,cockroach,,pheasant,beetle,cockroach,rabbit,pheasant
-1614,9,Nonmonotonicity-general,Mixed,butterfly,wood louse,,pheasant,butterfly,wood louse,ostrich,pheasant
-1615,9,Nonmonotonicity-general,Mixed,cuckoo,pelican,,pheasant,cuckoo,pelican,sardine,pheasant
-1616,9,Nonmonotonicity-general,Mixed,butterfly,dragonfly,,pheasant,butterfly,dragonfly,toad,pheasant
-1617,9,Nonmonotonicity-general,Mixed,cuckoo,stork,,pheasant,cuckoo,stork,cobra,pheasant
-1618,9,Nonmonotonicity-general,Mixed,ladybug,leech,,pheasant,ladybug,leech,pig,pheasant
-1619,9,Nonmonotonicity-general,Mixed,horsefly,flee,,pheasant,horsefly,flee,falcon,pheasant
-1620,9,Nonmonotonicity-general,Mixed,cat,bat,,pheasant,cat,bat,sardine,pheasant
-1621,9,Nonmonotonicity-general,Mixed,pike,cod,,pheasant,pike,cod,salamander,pheasant
-1622,9,Nonmonotonicity-general,Mixed,donkey,rhinoceros,,pheasant,donkey,rhinoceros,ladybug,pheasant
-1623,9,Nonmonotonicity-general,Mixed,giraffe,sheep,,pheasant,giraffe,sheep,boa,pheasant
-1624,9,Nonmonotonicity-general,Mixed,blindworm,snake,,pheasant,blindworm,snake,dolphin,pheasant
-1625,9,Nonmonotonicity-general,Mixed,hedgehog,wolf,,pheasant,hedgehog,wolf,centipede,pheasant
-1626,9,Nonmonotonicity-general,Mixed,wasp,moth,,pheasant,wasp,moth,chameleon,pheasant
-1627,9,Nonmonotonicity-general,Mixed,lizard,viper,,pheasant,lizard,viper,giraffe,pheasant
-1628,9,Nonmonotonicity-general,Mixed,stickleback,sole,,pheasant,stickleback,sole,woodpecker,pheasant
-1629,9,Nonmonotonicity-general,Mixed,trout,salmon,,pheasant,trout,salmon,ostrich,pheasant
-1630,9,Nonmonotonicity-general,Mixed,bee,louse,,pheasant,bee,louse,chickadee,pheasant
-1631,9,Nonmonotonicity-general,Mixed,robin,dove,,pheasant,robin,dove,deer,pheasant
-1632,9,Nonmonotonicity-general,Mixed,crow,canary,,pheasant,crow,canary,dromedary,pheasant
-1633,9,Nonmonotonicity-general,Mixed,cobra,alligator,,pheasant,cobra,alligator,stork,pheasant
-1634,9,Nonmonotonicity-general,Mixed,sheep,wolf,,pheasant,sheep,wolf,parakeet,pheasant
-1635,9,Nonmonotonicity-general,Mixed,cod,herring,,pheasant,cod,herring,kangaroo,pheasant
-1636,9,Nonmonotonicity-general,Mixed,blackbird,crow,,pheasant,blackbird,crow,deer,pheasant
-1637,9,Nonmonotonicity-general,Mixed,python,dinosaur,,pheasant,python,dinosaur,crow,pheasant
-1638,9,Nonmonotonicity-general,Mixed,bat,lion,,pheasant,bat,lion,sperm whale,pheasant
-1639,9,Nonmonotonicity-general,Mixed,pike,sole,,pheasant,pike,sole,duck,pheasant
-1640,9,Nonmonotonicity-general,Mixed,salamander,caiman,,pheasant,salamander,caiman,pheasant,pheasant
-1641,9,Nonmonotonicity-general,Mixed,snake,dinosaur,,pheasant,snake,dinosaur,horse,pheasant
-1642,9,Nonmonotonicity-general,Mixed,eel,swordfish,,pheasant,eel,swordfish,earwig,pheasant
-1643,9,Nonmonotonicity-general,Mixed,cod,pike,,pheasant,cod,pike,blackbird,pheasant
-1644,9,Nonmonotonicity-general,Mixed,cod,sperm whale,,pheasant,cod,sperm whale,toad,pheasant
-1645,9,Nonmonotonicity-general,Mixed,viper,salamander,,pheasant,viper,salamander,cuckoo,pheasant
-1646,9,Nonmonotonicity-general,Mixed,tortoise,python,,pheasant,tortoise,python,ladybug,pheasant
-1647,9,Nonmonotonicity-general,Mixed,cockchafer,cockroach,,pheasant,cockchafer,cockroach,pike,pheasant
-1648,9,Nonmonotonicity-general,Mixed,horse,lion,,pheasant,horse,lion,bee,pheasant
-1649,9,Nonmonotonicity-general,Mixed,cockroach,caterpillar,,pheasant,cockroach,caterpillar,canary,pheasant
-1650,9,Nonmonotonicity-general,Mixed,chameleon,iguana,,pheasant,chameleon,iguana,lion,pheasant
-1651,9,Nonmonotonicity-general,Mixed,shark,squid,,pheasant,shark,squid,kangaroo,pheasant
-1652,9,Nonmonotonicity-general,Mixed,beetle,louse,,pheasant,beetle,louse,chickadee,pheasant
-1653,9,Nonmonotonicity-general,Mixed,dinosaur,viper,,pheasant,dinosaur,viper,sole,pheasant
-1654,9,Nonmonotonicity-general,Mixed,hedgehog,dromedary,,pheasant,hedgehog,dromedary,monitor lizard,pheasant
-1655,9,Nonmonotonicity-general,Mixed,flee,cricket,,pheasant,flee,cricket,llama,pheasant
-1656,9,Nonmonotonicity-general,Mixed,beetle,cricket,,pheasant,beetle,cricket,duck,pheasant
-1657,9,Nonmonotonicity-general,Mixed,viper,lizard,,pheasant,viper,lizard,fly,pheasant
-1658,9,Nonmonotonicity-general,Mixed,vulture,ostrich,,pheasant,vulture,ostrich,flee,pheasant
-1659,9,Nonmonotonicity-general,Mixed,wood louse,bumblebee,,pheasant,wood louse,bumblebee,blackbird,pheasant
-1660,9,Nonmonotonicity-general,Mixed,penguin,turkey,,pheasant,penguin,turkey,rabbit,pheasant
-1661,9,Nonmonotonicity-general,Mixed,dragonfly,bee,,pheasant,dragonfly,bee,anchovy,pheasant
-1662,9,Nonmonotonicity-general,Mixed,cockchafer,ant,,pheasant,cockchafer,ant,swordfish,pheasant
-1663,9,Nonmonotonicity-general,Mixed,whale,anchovy,,pheasant,whale,anchovy,boa,pheasant
-1664,9,Nonmonotonicity-general,Mixed,iguana,dinosaur,,pheasant,iguana,dinosaur,fly,pheasant
-1665,9,Nonmonotonicity-general,Mixed,swordfish,cod,,pheasant,swordfish,cod,elephant,pheasant
-1666,9,Nonmonotonicity-general,Mixed,snake,tortoise,,pheasant,snake,tortoise,lion,pheasant
-1667,9,Nonmonotonicity-general,Mixed,wasp,ant,,pheasant,wasp,ant,gecko,pheasant
-1668,9,Nonmonotonicity-general,Mixed,wolf,deer,,pheasant,wolf,deer,turtle,pheasant
-1669,9,Nonmonotonicity-general,Mixed,wolf,lion,,pheasant,wolf,lion,magpie,pheasant
-1670,9,Nonmonotonicity-general,Mixed,salamander,turtle,,pheasant,salamander,turtle,blackbird,pheasant
-1671,9,Nonmonotonicity-general,Mixed,carp,herring,,pheasant,carp,herring,mouse,pheasant
-1672,9,Nonmonotonicity-general,Mixed,plaice,stickleback,,pheasant,plaice,stickleback,lion,pheasant
-1673,9,Nonmonotonicity-general,Mixed,duck,parrot,,pheasant,duck,parrot,eel,pheasant
-1674,9,Nonmonotonicity-general,Mixed,python,boa,,pheasant,python,boa,beetle,pheasant
-1675,9,Nonmonotonicity-general,Mixed,robin,blackbird,,pheasant,robin,blackbird,dinosaur,pheasant
-1676,9,Nonmonotonicity-general,Mixed,rhinoceros,hippopotamus,,pheasant,rhinoceros,hippopotamus,iguana,pheasant
-1677,9,Nonmonotonicity-general,Mixed,cobra,crocodile,,pheasant,cobra,crocodile,plaice,pheasant
-1678,9,Nonmonotonicity-general,Mixed,hippopotamus,hamster,,pheasant,hippopotamus,hamster,gecko,pheasant
-1679,9,Nonmonotonicity-general,Mixed,iguana,frog,,pheasant,iguana,frog,cockroach,pheasant
-1680,9,Nonmonotonicity-general,Mixed,donkey,fox,,pheasant,donkey,fox,falcon,pheasant
-1681,9,Nonmonotonicity-general,Mixed,chicken,chickadee,,pheasant,chicken,chickadee,python,pheasant
-1682,9,Nonmonotonicity-general,Mixed,fruit fly,wood louse,,pheasant,fruit fly,wood louse,chameleon,pheasant
-1683,9,Nonmonotonicity-general,Mixed,horse,rhinoceros,,pheasant,horse,rhinoceros,swallow,pheasant
-1684,9,Nonmonotonicity-general,Mixed,stickleback,shark,,pheasant,stickleback,shark,bee,pheasant
-1685,9,Nonmonotonicity-general,Mixed,centipede,ant,,pheasant,centipede,ant,turtle,pheasant
-1686,9,Nonmonotonicity-general,Mixed,polar bear,beaver,,pheasant,polar bear,beaver,parrot,pheasant
-1687,9,Nonmonotonicity-general,Mixed,blindworm,gecko,,pheasant,blindworm,gecko,goldfish,pheasant
-1688,9,Nonmonotonicity-general,Mixed,tiger,beaver,,pheasant,tiger,beaver,whale,pheasant
-1689,9,Nonmonotonicity-general,Mixed,boa,chameleon,,pheasant,boa,chameleon,grasshopper,pheasant
-1690,9,Nonmonotonicity-general,Mixed,canary,magpie,,pheasant,canary,magpie,tortoise,pheasant
-1691,9,Nonmonotonicity-general,Mixed,sole,eel,,pheasant,sole,eel,snake,pheasant
-1692,9,Nonmonotonicity-general,Mixed,squirrel,dog,,pheasant,squirrel,dog,sole,pheasant
-1693,9,Nonmonotonicity-general,Mixed,plaice,whale,,pheasant,plaice,whale,gecko,pheasant
-1694,9,Nonmonotonicity-general,Mixed,cockchafer,cricket,,pheasant,cockchafer,cricket,fox,pheasant
-1695,9,Nonmonotonicity-general,Mixed,fruit fly,moth,,pheasant,fruit fly,moth,salamander,pheasant
-1696,9,Nonmonotonicity-general,Mixed,chameleon,viper,,pheasant,chameleon,viper,hamster,pheasant
-1697,9,Nonmonotonicity-general,Mixed,moth,caterpillar,,pheasant,moth,caterpillar,piranha,pheasant
-1698,9,Nonmonotonicity-general,Mixed,turtle,boa,,pheasant,turtle,boa,piranha,pheasant
-1699,9,Nonmonotonicity-general,Mixed,turtle,crocodile,,pheasant,turtle,crocodile,fly,pheasant
-1700,9,Nonmonotonicity-general,Mixed,cow,dog,,pheasant,cow,dog,cricket,pheasant
-1701,9,Nonmonotonicity-general,Mixed,cat,monkey,,pheasant,cat,monkey,sperm whale,pheasant
-1702,9,Nonmonotonicity-general,Mixed,dromedary,polar bear,,pheasant,dromedary,polar bear,spider,pheasant
-1703,9,Nonmonotonicity-general,Mixed,cockroach,centipede,,pheasant,cockroach,centipede,hippopotamus,pheasant
-1704,9,Nonmonotonicity-general,Mixed,sparrow,rooster,,pheasant,sparrow,rooster,bison,pheasant
-1705,9,Nonmonotonicity-general,Mixed,lion,bat,,pheasant,lion,bat,boa,pheasant
-1706,9,Nonmonotonicity-general,Mixed,anchovy,eel,,pheasant,anchovy,eel,wolf,pheasant
-1707,9,Nonmonotonicity-general,Mixed,toad,alligator,,pheasant,toad,alligator,ladybug,pheasant
-1708,9,Nonmonotonicity-general,Mixed,rhinoceros,bat,,pheasant,rhinoceros,bat,crow,pheasant
-1709,9,Nonmonotonicity-general,Mixed,pig,kangaroo,,pheasant,pig,kangaroo,dove,pheasant
-1710,9,Nonmonotonicity-general,Mixed,trout,whale,,pheasant,trout,whale,crocodile,pheasant
-1711,9,Nonmonotonicity-general,Mixed,bat,polar bear,,pheasant,bat,polar bear,cuckoo,pheasant
-1712,9,Nonmonotonicity-general,Mixed,hedgehog,elephant,,pheasant,hedgehog,elephant,cockroach,pheasant
-1713,9,Nonmonotonicity-general,Mixed,fly,ladybug,,pheasant,fly,ladybug,dolphin,pheasant
-1714,9,Nonmonotonicity-general,Mixed,whale,plaice,,pheasant,whale,plaice,viper,pheasant
-1715,9,Nonmonotonicity-general,Mixed,dove,chickadee,,pheasant,dove,chickadee,fruit fly,pheasant
-1716,9,Nonmonotonicity-general,Mixed,robin,turkey,,pheasant,robin,turkey,anchovy,pheasant
-1717,9,Nonmonotonicity-general,Mixed,heron,eagle,,pheasant,heron,eagle,trout,pheasant
-1718,9,Nonmonotonicity-general,Mixed,magpie,swallow,,pheasant,magpie,swallow,horsefly,pheasant
-1719,9,Nonmonotonicity-general,Mixed,toad,turtle,,pheasant,toad,turtle,cat,pheasant
-1720,9,Nonmonotonicity-general,Mixed,llama,sheep,,pheasant,llama,sheep,horsefly,pheasant
-1721,9,Nonmonotonicity-general,Mixed,alligator,viper,,pheasant,alligator,viper,ant,pheasant
-1722,9,Nonmonotonicity-general,Mixed,crocodile,boa,,pheasant,crocodile,boa,pelican,pheasant
-1723,9,Nonmonotonicity-general,Mixed,pheasant,peacock,,pheasant,pheasant,peacock,horsefly,pheasant
-1724,9,Nonmonotonicity-general,Mixed,swan,cuckoo,,pheasant,swan,cuckoo,piranha,pheasant
-1725,9,Nonmonotonicity-general,Mixed,viper,snake,,pheasant,viper,snake,sperm whale,pheasant
-1726,9,Nonmonotonicity-general,Mixed,rooster,pheasant,,pheasant,rooster,pheasant,ladybug,pheasant
-1727,9,Nonmonotonicity-general,Mixed,fly,fruit fly,,pheasant,fly,fruit fly,dog,pheasant
-1728,9,Nonmonotonicity-general,Mixed,chicken,swan,,pheasant,chicken,swan,orca,pheasant
-1729,9,Nonmonotonicity-general,Mixed,shark,sardine,,pheasant,shark,sardine,giraffe,pheasant
-1730,9,Nonmonotonicity-general,Mixed,ant,louse,,pheasant,ant,louse,alligator,pheasant
-1731,9,Nonmonotonicity-general,Mixed,piranha,sole,,pheasant,piranha,sole,caiman,pheasant
-1732,9,Nonmonotonicity-general,Mixed,dinosaur,crocodile,,pheasant,dinosaur,crocodile,ladybug,pheasant
-1733,9,Nonmonotonicity-general,Mixed,crocodile,frog,,pheasant,crocodile,frog,herring,pheasant
-1734,9,Nonmonotonicity-general,Mixed,pig,polar bear,,pheasant,pig,polar bear,robin,pheasant
-1735,9,Nonmonotonicity-general,Mixed,wasp,centipede,,pheasant,wasp,centipede,pig,pheasant
-1736,9,Nonmonotonicity-general,Mixed,penguin,blackbird,,pheasant,penguin,blackbird,hippopotamus,pheasant
-1737,9,Nonmonotonicity-general,Mixed,stickleback,dolphin,,pheasant,stickleback,dolphin,falcon,pheasant
-1738,9,Nonmonotonicity-general,Mixed,salamander,gecko,,pheasant,salamander,gecko,moth,pheasant
-1739,9,Nonmonotonicity-general,Mixed,mouse,rhinoceros,,pheasant,mouse,rhinoceros,centipede,pheasant
-1740,9,Nonmonotonicity-general,Mixed,eagle,sparrow,,pheasant,eagle,sparrow,ray,pheasant
-1741,9,Nonmonotonicity-general,Mixed,salmon,eel,,pheasant,salmon,eel,fly,pheasant
-1742,9,Nonmonotonicity-general,Mixed,whale,trout,,pheasant,whale,trout,earwig,pheasant
-1743,9,Nonmonotonicity-general,Mixed,monkey,dromedary,,pheasant,monkey,dromedary,vulture,pheasant
-1744,9,Nonmonotonicity-general,Mixed,hippopotamus,elephant,,pheasant,hippopotamus,elephant,crow,pheasant
-1745,9,Nonmonotonicity-general,Mixed,shark,squid,,pheasant,shark,squid,sparrow,pheasant
-1746,9,Nonmonotonicity-general,Mixed,parakeet,seagull,,pheasant,parakeet,seagull,python,pheasant
-1747,9,Nonmonotonicity-general,Mixed,spider,louse,,pheasant,spider,louse,rabbit,pheasant
-1748,9,Nonmonotonicity-general,Mixed,beaver,hippopotamus,,pheasant,beaver,hippopotamus,viper,pheasant
-1749,9,Nonmonotonicity-general,Mixed,pheasant,seagull,,pheasant,pheasant,seagull,flee,pheasant
-1750,9,Nonmonotonicity-general,Mixed,salmon,anchovy,,pheasant,salmon,anchovy,bumblebee,pheasant
-1751,9,Nonmonotonicity-general,Mixed,pike,sardine,,pheasant,pike,sardine,earwig,pheasant
-1752,9,Nonmonotonicity-general,Mixed,bison,beaver,,pheasant,bison,beaver,fruit fly,pheasant
-1753,9,Nonmonotonicity-general,Mixed,ladybug,bee,,pheasant,ladybug,bee,viper,pheasant
-1754,9,Nonmonotonicity-general,Mixed,donkey,deer,,pheasant,donkey,deer,dove,pheasant
-1755,9,Nonmonotonicity-general,Mixed,sparrow,swan,,pheasant,sparrow,swan,beaver,pheasant
-1756,9,Nonmonotonicity-general,Mixed,whale,trout,,pheasant,whale,trout,donkey,pheasant
-1757,9,Nonmonotonicity-general,Mixed,wasp,wood louse,,pheasant,wasp,wood louse,hippopotamus,pheasant
-1758,9,Nonmonotonicity-general,Mixed,worm,fruit fly,,pheasant,worm,fruit fly,lizard,pheasant
-1759,9,Nonmonotonicity-general,Mixed,tortoise,chameleon,,pheasant,tortoise,chameleon,cockroach,pheasant
-1760,9,Nonmonotonicity-general,Mixed,piranha,swordfish,,pheasant,piranha,swordfish,fox,pheasant
-1761,9,Nonmonotonicity-general,Mixed,stork,rooster,,pheasant,stork,rooster,whale,pheasant
-1762,9,Nonmonotonicity-general,Mixed,eel,shark,,pheasant,eel,shark,beaver,pheasant
-1763,9,Nonmonotonicity-general,Mixed,turkey,swan,,pheasant,turkey,swan,boa,pheasant
-1764,9,Nonmonotonicity-general,Mixed,wasp,bumblebee,,pheasant,wasp,bumblebee,whale,pheasant
-1765,9,Nonmonotonicity-general,Mixed,monitor lizard,cobra,,pheasant,monitor lizard,cobra,fruit fly,pheasant
-1766,9,Nonmonotonicity-general,Mixed,giraffe,donkey,,pheasant,giraffe,donkey,blackbird,pheasant
-1767,9,Nonmonotonicity-general,Mixed,rooster,falcon,,pheasant,rooster,falcon,ray,pheasant
-1768,9,Nonmonotonicity-general,Mixed,ostrich,falcon,,pheasant,ostrich,falcon,sperm whale,pheasant
-1769,9,Nonmonotonicity-general,Mixed,flatfish,piranha,,pheasant,flatfish,piranha,parakeet,pheasant
-1770,9,Nonmonotonicity-general,Mixed,rabbit,giraffe,,pheasant,rabbit,giraffe,fly,pheasant
-1771,9,Nonmonotonicity-general,Mixed,horse,hamster,,pheasant,horse,hamster,penguin,pheasant
-1772,9,Nonmonotonicity-general,Mixed,parrot,parakeet,,pheasant,parrot,parakeet,lion,pheasant
-1773,9,Nonmonotonicity-general,Mixed,gecko,caiman,,pheasant,gecko,caiman,herring,pheasant
-1774,9,Nonmonotonicity-general,Mixed,salamander,tortoise,,pheasant,salamander,tortoise,dove,pheasant
-1775,9,Nonmonotonicity-general,Mixed,bat,wolf,,pheasant,bat,wolf,crocodile,pheasant
-1776,9,Nonmonotonicity-general,Mixed,ostrich,cuckoo,,pheasant,ostrich,cuckoo,lizard,pheasant
-1777,9,Nonmonotonicity-general,Mixed,falcon,pelican,,pheasant,falcon,pelican,ray,pheasant
-1778,9,Nonmonotonicity-general,Mixed,vulture,dove,,pheasant,vulture,dove,blindworm,pheasant
-1779,9,Nonmonotonicity-general,Mixed,dragonfly,ladybug,,pheasant,dragonfly,ladybug,pike,pheasant
-1780,9,Nonmonotonicity-general,Mixed,dromedary,bat,,pheasant,dromedary,bat,caiman,pheasant
-1781,9,Nonmonotonicity-general,Mixed,goldfish,pike,,pheasant,goldfish,pike,duck,pheasant
-1782,9,Nonmonotonicity-general,Mixed,peacock,swallow,,pheasant,peacock,swallow,wood louse,pheasant
-1783,9,Nonmonotonicity-general,Mixed,cow,bison,,pheasant,cow,bison,stickleback,pheasant
-1784,9,Nonmonotonicity-general,Mixed,seagull,sparrow,,pheasant,seagull,sparrow,viper,pheasant
-1785,9,Nonmonotonicity-general,Mixed,salamander,turtle,,pheasant,salamander,turtle,stork,pheasant
-1786,9,Nonmonotonicity-general,Mixed,eagle,chickadee,,pheasant,eagle,chickadee,plaice,pheasant
-1787,9,Nonmonotonicity-general,Mixed,canary,falcon,,pheasant,canary,falcon,python,pheasant
-1788,9,Nonmonotonicity-general,Mixed,kangaroo,dromedary,,pheasant,kangaroo,dromedary,flee,pheasant
-1789,9,Nonmonotonicity-general,Mixed,cobra,gecko,,pheasant,cobra,gecko,tiger,pheasant
-1790,9,Nonmonotonicity-general,Mixed,chameleon,lizard,,pheasant,chameleon,lizard,cockchafer,pheasant
-1791,9,Nonmonotonicity-general,Mixed,eel,ray,,pheasant,eel,ray,viper,pheasant
-1792,9,Nonmonotonicity-general,Mixed,falcon,eagle,,pheasant,falcon,eagle,cat,pheasant
-1793,9,Nonmonotonicity-general,Mixed,piranha,flatfish,,pheasant,piranha,flatfish,robin,pheasant
-1794,9,Nonmonotonicity-general,Mixed,ant,caterpillar,,pheasant,ant,caterpillar,stickleback,pheasant
-1795,9,Nonmonotonicity-general,Mixed,crocodile,cobra,,pheasant,crocodile,cobra,parakeet,pheasant
-1796,9,Nonmonotonicity-general,Mixed,caiman,frog,,pheasant,caiman,frog,pheasant,pheasant
-1797,9,Nonmonotonicity-general,Mixed,kangaroo,mouse,,pheasant,kangaroo,mouse,sperm whale,pheasant
-1798,9,Nonmonotonicity-general,Mixed,squirrel,horse,,pheasant,squirrel,horse,snake,pheasant
-1799,9,Nonmonotonicity-general,Mixed,spider,leech,,pheasant,spider,leech,herring,pheasant
+1600,9,Nonmonotonicity-general,Mixed,sheep,deer,,mammal,sheep,deer,leech,mammal
+1601,9,Nonmonotonicity-general,Mixed,anchovy,dolphin,,fish,anchovy,dolphin,squirrel,fish
+1602,9,Nonmonotonicity-general,Mixed,tortoise,blindworm,,reptile,tortoise,blindworm,giraffe,reptile
+1603,9,Nonmonotonicity-general,Mixed,blindworm,crocodile,,reptile,blindworm,crocodile,hamster,reptile
+1604,9,Nonmonotonicity-general,Mixed,herring,shark,,fish,herring,shark,llama,fish
+1605,9,Nonmonotonicity-general,Mixed,cod,eel,,fish,cod,eel,sparrow,fish
+1606,9,Nonmonotonicity-general,Mixed,louse,ladybug,,insect,louse,ladybug,seagull,insect
+1607,9,Nonmonotonicity-general,Mixed,sole,sardine,,fish,sole,sardine,canary,fish
+1608,9,Nonmonotonicity-general,Mixed,cat,zebra,,mammal,cat,zebra,salmon,mammal
+1609,9,Nonmonotonicity-general,Mixed,stickleback,sole,,fish,stickleback,sole,mouse,fish
+1610,9,Nonmonotonicity-general,Mixed,toad,monitor lizard,,reptile,toad,monitor lizard,penguin,reptile
+1611,9,Nonmonotonicity-general,Mixed,dove,vulture,,bird,dove,vulture,mouse,bird
+1612,9,Nonmonotonicity-general,Mixed,caiman,gecko,,reptile,caiman,gecko,beaver,reptile
+1613,9,Nonmonotonicity-general,Mixed,chameleon,turtle,,reptile,chameleon,turtle,trout,reptile
+1614,9,Nonmonotonicity-general,Mixed,hedgehog,dog,,mammal,hedgehog,dog,louse,mammal
+1615,9,Nonmonotonicity-general,Mixed,turkey,crow,,bird,turkey,crow,orca,bird
+1616,9,Nonmonotonicity-general,Mixed,eel,orca,,fish,eel,orca,seagull,fish
+1617,9,Nonmonotonicity-general,Mixed,turkey,heron,,bird,turkey,heron,cod,bird
+1618,9,Nonmonotonicity-general,Mixed,cockchafer,caterpillar,,insect,cockchafer,caterpillar,swan,insect
+1619,9,Nonmonotonicity-general,Mixed,polar bear,rhinoceros,,mammal,polar bear,rhinoceros,earwig,mammal
+1620,9,Nonmonotonicity-general,Mixed,dinosaur,toad,,reptile,dinosaur,toad,ladybug,reptile
+1621,9,Nonmonotonicity-general,Mixed,butterfly,earwig,,insect,butterfly,earwig,herring,insect
+1622,9,Nonmonotonicity-general,Mixed,whale,plaice,,fish,whale,plaice,caiman,fish
+1623,9,Nonmonotonicity-general,Mixed,beetle,moth,,insect,beetle,moth,cuckoo,insect
+1624,9,Nonmonotonicity-general,Mixed,frog,turtle,,reptile,frog,turtle,tiger,reptile
+1625,9,Nonmonotonicity-general,Mixed,blindworm,turtle,,reptile,blindworm,turtle,woodpecker,reptile
+1626,9,Nonmonotonicity-general,Mixed,goldfish,flatfish,,fish,goldfish,flatfish,robin,fish
+1627,9,Nonmonotonicity-general,Mixed,kangaroo,sheep,,mammal,kangaroo,sheep,blindworm,mammal
+1628,9,Nonmonotonicity-general,Mixed,blackbird,penguin,,bird,blackbird,penguin,shark,bird
+1629,9,Nonmonotonicity-general,Mixed,cod,stickleback,,fish,cod,stickleback,donkey,fish
+1630,9,Nonmonotonicity-general,Mixed,dinosaur,tortoise,,reptile,dinosaur,tortoise,cod,reptile
+1631,9,Nonmonotonicity-general,Mixed,dromedary,zebra,,mammal,dromedary,zebra,piranha,mammal
+1632,9,Nonmonotonicity-general,Mixed,salmon,orca,,fish,salmon,orca,stork,fish
+1633,9,Nonmonotonicity-general,Mixed,frog,alligator,,reptile,frog,alligator,salmon,reptile
+1634,9,Nonmonotonicity-general,Mixed,fruit fly,ant,,insect,fruit fly,ant,stork,insect
+1635,9,Nonmonotonicity-general,Mixed,leech,mosquito,,insect,leech,mosquito,sardine,insect
+1636,9,Nonmonotonicity-general,Mixed,toad,alligator,,reptile,toad,alligator,trout,reptile
+1637,9,Nonmonotonicity-general,Mixed,dromedary,cow,,mammal,dromedary,cow,fly,mammal
+1638,9,Nonmonotonicity-general,Mixed,dinosaur,salamander,,reptile,dinosaur,salamander,bumblebee,reptile
+1639,9,Nonmonotonicity-general,Mixed,cockchafer,worm,,insect,cockchafer,worm,cobra,insect
+1640,9,Nonmonotonicity-general,Mixed,beaver,rabbit,,mammal,beaver,rabbit,grasshopper,mammal
+1641,9,Nonmonotonicity-general,Mixed,stork,canary,,bird,stork,canary,tiger,bird
+1642,9,Nonmonotonicity-general,Mixed,peacock,rooster,,bird,peacock,rooster,grasshopper,bird
+1643,9,Nonmonotonicity-general,Mixed,dove,falcon,,bird,dove,falcon,beetle,bird
+1644,9,Nonmonotonicity-general,Mixed,chameleon,python,,reptile,chameleon,python,rhinoceros,reptile
+1645,9,Nonmonotonicity-general,Mixed,carp,eel,,fish,carp,eel,salamander,fish
+1646,9,Nonmonotonicity-general,Mixed,piranha,carp,,fish,piranha,carp,gecko,fish
+1647,9,Nonmonotonicity-general,Mixed,dove,seagull,,bird,dove,seagull,lion,bird
+1648,9,Nonmonotonicity-general,Mixed,pelican,stork,,bird,pelican,stork,cow,bird
+1649,9,Nonmonotonicity-general,Mixed,lion,horse,,mammal,lion,horse,ant,mammal
+1650,9,Nonmonotonicity-general,Mixed,turkey,rooster,,bird,turkey,rooster,caterpillar,bird
+1651,9,Nonmonotonicity-general,Mixed,ladybug,horsefly,,insect,ladybug,horsefly,frog,insect
+1652,9,Nonmonotonicity-general,Mixed,pelican,magpie,,bird,pelican,magpie,frog,bird
+1653,9,Nonmonotonicity-general,Mixed,pelican,chickadee,,bird,pelican,chickadee,butterfly,bird
+1654,9,Nonmonotonicity-general,Mixed,flatfish,shark,,fish,flatfish,shark,caiman,fish
+1655,9,Nonmonotonicity-general,Mixed,parrot,owl,,bird,parrot,owl,cockchafer,bird
+1656,9,Nonmonotonicity-general,Mixed,flatfish,sardine,,fish,flatfish,sardine,toad,fish
+1657,9,Nonmonotonicity-general,Mixed,horsefly,bee,,insect,horsefly,bee,squid,insect
+1658,9,Nonmonotonicity-general,Mixed,dog,cow,,mammal,dog,cow,chameleon,mammal
+1659,9,Nonmonotonicity-general,Mixed,bumblebee,grasshopper,,insect,bumblebee,grasshopper,polar bear,insect
+1660,9,Nonmonotonicity-general,Mixed,gecko,turtle,,reptile,gecko,turtle,cockroach,reptile
+1661,9,Nonmonotonicity-general,Mixed,squirrel,rabbit,,mammal,squirrel,rabbit,penguin,mammal
+1662,9,Nonmonotonicity-general,Mixed,caterpillar,louse,,insect,caterpillar,louse,crow,insect
+1663,9,Nonmonotonicity-general,Mixed,dog,rabbit,,mammal,dog,rabbit,python,mammal
+1664,9,Nonmonotonicity-general,Mixed,parakeet,seagull,,bird,parakeet,seagull,python,bird
+1665,9,Nonmonotonicity-general,Mixed,monkey,lion,,mammal,monkey,lion,plaice,mammal
+1666,9,Nonmonotonicity-general,Mixed,rooster,parrot,,bird,rooster,parrot,deer,bird
+1667,9,Nonmonotonicity-general,Mixed,pelican,falcon,,bird,pelican,falcon,bison,bird
+1668,9,Nonmonotonicity-general,Mixed,horsefly,earwig,,insect,horsefly,earwig,woodpecker,insect
+1669,9,Nonmonotonicity-general,Mixed,robin,sparrow,,bird,robin,sparrow,sardine,bird
+1670,9,Nonmonotonicity-general,Mixed,bison,mouse,,mammal,bison,mouse,eel,mammal
+1671,9,Nonmonotonicity-general,Mixed,magpie,dove,,bird,magpie,dove,blindworm,bird
+1672,9,Nonmonotonicity-general,Mixed,turtle,tortoise,,reptile,turtle,tortoise,ladybug,reptile
+1673,9,Nonmonotonicity-general,Mixed,eel,dolphin,,fish,eel,dolphin,bumblebee,fish
+1674,9,Nonmonotonicity-general,Mixed,rooster,swan,,bird,rooster,swan,monkey,bird
+1675,9,Nonmonotonicity-general,Mixed,alligator,crocodile,,reptile,alligator,crocodile,bat,reptile
+1676,9,Nonmonotonicity-general,Mixed,ostrich,dove,,bird,ostrich,dove,trout,bird
+1677,9,Nonmonotonicity-general,Mixed,deer,dog,,mammal,deer,dog,alligator,mammal
+1678,9,Nonmonotonicity-general,Mixed,eagle,dove,,bird,eagle,dove,cod,bird
+1679,9,Nonmonotonicity-general,Mixed,wolf,fox,,mammal,wolf,fox,wood louse,mammal
+1680,9,Nonmonotonicity-general,Mixed,woodpecker,seagull,,bird,woodpecker,seagull,cockchafer,bird
+1681,9,Nonmonotonicity-general,Mixed,blindworm,viper,,reptile,blindworm,viper,mouse,reptile
+1682,9,Nonmonotonicity-general,Mixed,giraffe,cat,,mammal,giraffe,cat,dragonfly,mammal
+1683,9,Nonmonotonicity-general,Mixed,chickadee,vulture,,bird,chickadee,vulture,kangaroo,bird
+1684,9,Nonmonotonicity-general,Mixed,blindworm,alligator,,reptile,blindworm,alligator,fox,reptile
+1685,9,Nonmonotonicity-general,Mixed,woodpecker,dove,,bird,woodpecker,dove,crocodile,bird
+1686,9,Nonmonotonicity-general,Mixed,toad,boa,,reptile,toad,boa,crow,reptile
+1687,9,Nonmonotonicity-general,Mixed,zebra,bat,,mammal,zebra,bat,parakeet,mammal
+1688,9,Nonmonotonicity-general,Mixed,fly,worm,,insect,fly,worm,donkey,insect
+1689,9,Nonmonotonicity-general,Mixed,mosquito,cricket,,insect,mosquito,cricket,pelican,insect
+1690,9,Nonmonotonicity-general,Mixed,butterfly,bee,,insect,butterfly,bee,bat,insect
+1691,9,Nonmonotonicity-general,Mixed,horse,bat,,mammal,horse,bat,butterfly,mammal
+1692,9,Nonmonotonicity-general,Mixed,mouse,hamster,,mammal,mouse,hamster,caiman,mammal
+1693,9,Nonmonotonicity-general,Mixed,grasshopper,wasp,,insect,grasshopper,wasp,vulture,insect
+1694,9,Nonmonotonicity-general,Mixed,beaver,polar bear,,mammal,beaver,polar bear,ant,mammal
+1695,9,Nonmonotonicity-general,Mixed,peacock,vulture,,bird,peacock,vulture,pike,bird
+1696,9,Nonmonotonicity-general,Mixed,grasshopper,spider,,insect,grasshopper,spider,wolf,insect
+1697,9,Nonmonotonicity-general,Mixed,dove,penguin,,bird,dove,penguin,eel,bird
+1698,9,Nonmonotonicity-general,Mixed,pig,rhinoceros,,mammal,pig,rhinoceros,ladybug,mammal
+1699,9,Nonmonotonicity-general,Mixed,vulture,pelican,,bird,vulture,pelican,centipede,bird
+1700,9,Nonmonotonicity-general,Mixed,dinosaur,lizard,,reptile,dinosaur,lizard,leech,reptile
+1701,9,Nonmonotonicity-general,Mixed,worm,ladybug,,insect,worm,ladybug,trout,insect
+1702,9,Nonmonotonicity-general,Mixed,tortoise,cobra,,reptile,tortoise,cobra,sparrow,reptile
+1703,9,Nonmonotonicity-general,Mixed,magpie,duck,,bird,magpie,duck,tiger,bird
+1704,9,Nonmonotonicity-general,Mixed,ladybug,bumblebee,,insect,ladybug,bumblebee,pig,insect
+1705,9,Nonmonotonicity-general,Mixed,donkey,fox,,mammal,donkey,fox,chicken,mammal
+1706,9,Nonmonotonicity-general,Mixed,chickadee,swallow,,bird,chickadee,swallow,cricket,bird
+1707,9,Nonmonotonicity-general,Mixed,deer,kangaroo,,mammal,deer,kangaroo,woodpecker,mammal
+1708,9,Nonmonotonicity-general,Mixed,llama,fox,,mammal,llama,fox,alligator,mammal
+1709,9,Nonmonotonicity-general,Mixed,rhinoceros,dog,,mammal,rhinoceros,dog,bumblebee,mammal
+1710,9,Nonmonotonicity-general,Mixed,pelican,sparrow,,bird,pelican,sparrow,alligator,bird
+1711,9,Nonmonotonicity-general,Mixed,parrot,cuckoo,,bird,parrot,cuckoo,wood louse,bird
+1712,9,Nonmonotonicity-general,Mixed,dove,pheasant,,bird,dove,pheasant,trout,bird
+1713,9,Nonmonotonicity-general,Mixed,flatfish,swordfish,,fish,flatfish,swordfish,beaver,fish
+1714,9,Nonmonotonicity-general,Mixed,blindworm,gecko,,reptile,blindworm,gecko,anchovy,reptile
+1715,9,Nonmonotonicity-general,Mixed,cockchafer,grasshopper,,insect,cockchafer,grasshopper,robin,insect
+1716,9,Nonmonotonicity-general,Mixed,centipede,flee,,insect,centipede,flee,swallow,insect
+1717,9,Nonmonotonicity-general,Mixed,cat,donkey,,mammal,cat,donkey,sardine,mammal
+1718,9,Nonmonotonicity-general,Mixed,rabbit,dog,,mammal,rabbit,dog,falcon,mammal
+1719,9,Nonmonotonicity-general,Mixed,cow,llama,,mammal,cow,llama,ladybug,mammal
+1720,9,Nonmonotonicity-general,Mixed,piranha,plaice,,fish,piranha,plaice,horse,fish
+1721,9,Nonmonotonicity-general,Mixed,horse,cow,,mammal,horse,cow,snake,mammal
+1722,9,Nonmonotonicity-general,Mixed,llama,giraffe,,mammal,llama,giraffe,cockchafer,mammal
+1723,9,Nonmonotonicity-general,Mixed,vulture,eagle,,bird,vulture,eagle,bumblebee,bird
+1724,9,Nonmonotonicity-general,Mixed,whale,herring,,fish,whale,herring,penguin,fish
+1725,9,Nonmonotonicity-general,Mixed,eel,sperm whale,,fish,eel,sperm whale,woodpecker,fish
+1726,9,Nonmonotonicity-general,Mixed,python,frog,,reptile,python,frog,owl,reptile
+1727,9,Nonmonotonicity-general,Mixed,shark,whale,,fish,shark,whale,dragonfly,fish
+1728,9,Nonmonotonicity-general,Mixed,seagull,blackbird,,bird,seagull,blackbird,cobra,bird
+1729,9,Nonmonotonicity-general,Mixed,horsefly,cockroach,,insect,horsefly,cockroach,parakeet,insect
+1730,9,Nonmonotonicity-general,Mixed,fruit fly,ladybug,,insect,fruit fly,ladybug,falcon,insect
+1731,9,Nonmonotonicity-general,Mixed,llama,sheep,,mammal,llama,sheep,caiman,mammal
+1732,9,Nonmonotonicity-general,Mixed,chicken,heron,,bird,chicken,heron,rabbit,bird
+1733,9,Nonmonotonicity-general,Mixed,sole,stickleback,,fish,sole,stickleback,elephant,fish
+1734,9,Nonmonotonicity-general,Mixed,dragonfly,cockchafer,,insect,dragonfly,cockchafer,toad,insect
+1735,9,Nonmonotonicity-general,Mixed,horse,rabbit,,mammal,horse,rabbit,squid,mammal
+1736,9,Nonmonotonicity-general,Mixed,sperm whale,orca,,fish,sperm whale,orca,cockroach,fish
+1737,9,Nonmonotonicity-general,Mixed,cobra,python,,reptile,cobra,python,canary,reptile
+1738,9,Nonmonotonicity-general,Mixed,frog,salamander,,reptile,frog,salamander,owl,reptile
+1739,9,Nonmonotonicity-general,Mixed,dove,swallow,,bird,dove,swallow,butterfly,bird
+1740,9,Nonmonotonicity-general,Mixed,crocodile,python,,reptile,crocodile,python,hedgehog,reptile
+1741,9,Nonmonotonicity-general,Mixed,cat,sheep,,mammal,cat,sheep,caterpillar,mammal
+1742,9,Nonmonotonicity-general,Mixed,chameleon,monitor lizard,,reptile,chameleon,monitor lizard,earwig,reptile
+1743,9,Nonmonotonicity-general,Mixed,cod,flatfish,,fish,cod,flatfish,pig,fish
+1744,9,Nonmonotonicity-general,Mixed,dromedary,giraffe,,mammal,dromedary,giraffe,squid,mammal
+1745,9,Nonmonotonicity-general,Mixed,vulture,pelican,,bird,vulture,pelican,cow,bird
+1746,9,Nonmonotonicity-general,Mixed,dog,tiger,,mammal,dog,tiger,toad,mammal
+1747,9,Nonmonotonicity-general,Mixed,monkey,kangaroo,,mammal,monkey,kangaroo,cuckoo,mammal
+1748,9,Nonmonotonicity-general,Mixed,monitor lizard,cobra,,reptile,monitor lizard,cobra,cow,reptile
+1749,9,Nonmonotonicity-general,Mixed,dog,cow,,mammal,dog,cow,chickadee,mammal
+1750,9,Nonmonotonicity-general,Mixed,llama,monkey,,mammal,llama,monkey,pelican,mammal
+1751,9,Nonmonotonicity-general,Mixed,goldfish,stickleback,,fish,goldfish,stickleback,fruit fly,fish
+1752,9,Nonmonotonicity-general,Mixed,owl,magpie,,bird,owl,magpie,whale,bird
+1753,9,Nonmonotonicity-general,Mixed,blackbird,canary,,bird,blackbird,canary,monkey,bird
+1754,9,Nonmonotonicity-general,Mixed,louse,centipede,,insect,louse,centipede,cow,insect
+1755,9,Nonmonotonicity-general,Mixed,horsefly,spider,,insect,horsefly,spider,duck,insect
+1756,9,Nonmonotonicity-general,Mixed,fox,squirrel,,mammal,fox,squirrel,sperm whale,mammal
+1757,9,Nonmonotonicity-general,Mixed,flee,beetle,,insect,flee,beetle,cat,insect
+1758,9,Nonmonotonicity-general,Mixed,carp,flatfish,,fish,carp,flatfish,zebra,fish
+1759,9,Nonmonotonicity-general,Mixed,caterpillar,mosquito,,insect,caterpillar,mosquito,salmon,insect
+1760,9,Nonmonotonicity-general,Mixed,bison,pig,,mammal,bison,pig,robin,mammal
+1761,9,Nonmonotonicity-general,Mixed,worm,dragonfly,,insect,worm,dragonfly,chicken,insect
+1762,9,Nonmonotonicity-general,Mixed,stickleback,squid,,fish,stickleback,squid,cockroach,fish
+1763,9,Nonmonotonicity-general,Mixed,ladybug,grasshopper,,insect,ladybug,grasshopper,dog,insect
+1764,9,Nonmonotonicity-general,Mixed,boa,blindworm,,reptile,boa,blindworm,pike,reptile
+1765,9,Nonmonotonicity-general,Mixed,sheep,dromedary,,mammal,sheep,dromedary,duck,mammal
+1766,9,Nonmonotonicity-general,Mixed,polar bear,hamster,,mammal,polar bear,hamster,duck,mammal
+1767,9,Nonmonotonicity-general,Mixed,dog,zebra,,mammal,dog,zebra,sperm whale,mammal
+1768,9,Nonmonotonicity-general,Mixed,boa,tortoise,,reptile,boa,tortoise,eel,reptile
+1769,9,Nonmonotonicity-general,Mixed,eel,sperm whale,,fish,eel,sperm whale,wolf,fish
+1770,9,Nonmonotonicity-general,Mixed,stork,parrot,,bird,stork,parrot,cockchafer,bird
+1771,9,Nonmonotonicity-general,Mixed,toad,frog,,reptile,toad,frog,cat,reptile
+1772,9,Nonmonotonicity-general,Mixed,sole,orca,,fish,sole,orca,monkey,fish
+1773,9,Nonmonotonicity-general,Mixed,magpie,dove,,bird,magpie,dove,wood louse,bird
+1774,9,Nonmonotonicity-general,Mixed,swan,stork,,bird,swan,stork,caiman,bird
+1775,9,Nonmonotonicity-general,Mixed,rooster,vulture,,bird,rooster,vulture,tiger,bird
+1776,9,Nonmonotonicity-general,Mixed,squirrel,giraffe,,mammal,squirrel,giraffe,sparrow,mammal
+1777,9,Nonmonotonicity-general,Mixed,kangaroo,rabbit,,mammal,kangaroo,rabbit,bumblebee,mammal
+1778,9,Nonmonotonicity-general,Mixed,pike,stickleback,,fish,pike,stickleback,ladybug,fish
+1779,9,Nonmonotonicity-general,Mixed,cow,dromedary,,mammal,cow,dromedary,dinosaur,mammal
+1780,9,Nonmonotonicity-general,Mixed,falcon,heron,,bird,falcon,heron,dinosaur,bird
+1781,9,Nonmonotonicity-general,Mixed,bison,llama,,mammal,bison,llama,python,mammal
+1782,9,Nonmonotonicity-general,Mixed,magpie,stork,,bird,magpie,stork,cod,bird
+1783,9,Nonmonotonicity-general,Mixed,stork,pelican,,bird,stork,pelican,rhinoceros,bird
+1784,9,Nonmonotonicity-general,Mixed,seagull,pelican,,bird,seagull,pelican,flee,bird
+1785,9,Nonmonotonicity-general,Mixed,spider,cockroach,,insect,spider,cockroach,salmon,insect
+1786,9,Nonmonotonicity-general,Mixed,canary,stork,,bird,canary,stork,sardine,bird
+1787,9,Nonmonotonicity-general,Mixed,spider,leech,,insect,spider,leech,frog,insect
+1788,9,Nonmonotonicity-general,Mixed,vulture,crow,,bird,vulture,crow,boa,bird
+1789,9,Nonmonotonicity-general,Mixed,parakeet,cuckoo,,bird,parakeet,cuckoo,tortoise,bird
+1790,9,Nonmonotonicity-general,Mixed,dragonfly,butterfly,,insect,dragonfly,butterfly,cod,insect
+1791,9,Nonmonotonicity-general,Mixed,fly,moth,,insect,fly,moth,parakeet,insect
+1792,9,Nonmonotonicity-general,Mixed,mouse,horse,,mammal,mouse,horse,horsefly,mammal
+1793,9,Nonmonotonicity-general,Mixed,parakeet,cuckoo,,bird,parakeet,cuckoo,caiman,bird
+1794,9,Nonmonotonicity-general,Mixed,swordfish,sardine,,fish,swordfish,sardine,beetle,fish
+1795,9,Nonmonotonicity-general,Mixed,duck,dove,,bird,duck,dove,bat,bird
+1796,9,Nonmonotonicity-general,Mixed,beaver,hamster,,mammal,beaver,hamster,swan,mammal
+1797,9,Nonmonotonicity-general,Mixed,leech,cockroach,,insect,leech,cockroach,dove,insect
+1798,9,Nonmonotonicity-general,Mixed,iguana,turtle,,reptile,iguana,turtle,plaice,reptile
+1799,9,Nonmonotonicity-general,Mixed,rabbit,squirrel,,mammal,rabbit,squirrel,eagle,mammal
 1800,10,Nonmonotonicity-specific,Mixed,worm,,,wood louse,worm,horse,,wood louse
 1801,10,Nonmonotonicity-specific,Mixed,earwig,,,wood louse,earwig,chameleon,,wood louse
 1802,10,Nonmonotonicity-specific,Mixed,dinosaur,,,toad,dinosaur,cat,,toad

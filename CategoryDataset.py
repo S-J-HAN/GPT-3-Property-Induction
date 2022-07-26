@@ -220,7 +220,7 @@ class DeDeyneCategoryDataset(CategoryDataset):
         """Return a list of all classes in this dataset"""
         return [self.category_class]
 
-    def class_category_list(self) -> List[str]:
+    def class_category_list(self, query_class: str) -> List[str]:
         """Return a list of all categories that fall under a given class"""
         return list(self.df.columns[1:])
 

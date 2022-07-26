@@ -319,7 +319,8 @@ class SyntheticOshersonSCMCandidateGenerator(CandidateGenerator):
 
                 elif phenomenon_number == 9:
 
-                    premise_category_1, premise_category_2 = random.sample(category_dataset.category_list(), k=2)
+                    conclusion_category = category_class
+                    premise_category_1, premise_category_2 = random.sample(category_dataset.category_list(), k=3)
                     premise_category_3 = random.choice(category_dataset_2.category_list())
 
                     candidate_argument_pair = CandidateArgumentPair(
